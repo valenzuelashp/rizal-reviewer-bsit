@@ -1,0 +1,286 @@
+[
+  {
+    "id": "match-1",
+    "title": "Set 1: Mahahalagang Tao at Kanilang Papel",
+    "description": "Itugma ang bawat makasaysayang tao sa kanyang papel o kaugnayan kay Jose Rizal.",
+    "pairs": [
+      {
+        "left": "Padre Rufino Collantes",
+        "right": "Paring namuno sa binyag ni Jose Rizal sa Calamba",
+        "explanation": "Bininyagan si Rizal noong Hunyo 22, 1861 ni Padre Rufino Collantes."
+      },
+      {
+        "left": "Padre Pedro Casañas",
+        "right": "Tumayong ninong sa binyag ni Jose Rizal",
+        "explanation": "Kaibigan ng pamilya Rizal na naging ninong sa binyag ni Jose."
+      },
+      {
+        "left": "Padre Manuel Xerez Burgos",
+        "right": "Pamangkin ni Padre Burgos na tumulong upang makapasok sa Ateneo",
+        "explanation": "Tumulong kay Rizal nang unang tanggihan ng registrar sa Ateneo."
+      },
+      {
+        "left": "Padre Magín Fernando",
+        "right": "Registrar ng Ateneo na unang tumanggi dahil huli sa patalaan at sakitin",
+        "explanation": "Unang tumanggi kay Rizal dahil huli sa patalaan, pandak, at sakitin."
+      },
+      {
+        "left": "Dr. Máximo Viola",
+        "right": "Kaibigang taga-Bulacan na nagpahiram ng ₱300 para sa Noli",
+        "explanation": "Tinaguriang tagapagligtas ng Noli Me Tangere."
+      },
+      {
+        "left": "Don Jose Taviel de Andrade",
+        "right": "Tenyenteng bantay at tagapagtanggol na itinalaga ni Terrero",
+        "explanation": "Batang tenyenteng naging kaibigan at tagapagtanggol ni Rizal sa Calamba."
+      },
+      {
+        "left": "Ferdinand de Lesseps",
+        "right": "Namuno sa pagbubukas ng Suez Canal noong Nobyembre 1869",
+        "explanation": "Pranses na diplomat at inhinyero na nagpaikli sa biyahe patungong Europa."
+      }
+    ]
+  },
+  {
+    "id": "match-2",
+    "title": "Set 2: Mga Sagisag-Panulat at Taguri",
+    "description": "Itugma ang bawat sagisag o taguri sa tamang konteksto o taong gumamit nito.",
+    "pairs": [
+      {
+        "left": "Laong-Laan",
+        "right": "Sagisag ni Rizal sa sanaysay na Amor Patrio (palaging handa)",
+        "explanation": "Ginamit sa Diariong Tagalog noong Agosto 20, 1882."
+      },
+      {
+        "left": "Dimasalang",
+        "right": "Pangalan ni Rizal nang sumapi sa Masonerya (Logia Acacia)",
+        "explanation": "Nangangahulugang 'Touch Me Not' o hindi masaling."
+      },
+      {
+        "left": "P. Jacinto",
+        "right": "Sagisag sa Memorias de un Estudiante de Manila (1878)",
+        "explanation": "Ginamit sa kanyang talaarawan ng kabataan habang nasa UST."
+      },
+      {
+        "left": "Dolores Manapat",
+        "right": "Sagisag ni Marcelo H. del Pilar sa polyetong Caiingat Cayo",
+        "explanation": "Ginamit ni Del Pilar panlinlang sa mga prayle sa simbahan."
+      },
+      {
+        "left": "Justo Desiderio Magalang",
+        "right": "Sagisag ni Padre Vicente García sa pagtatanggol sa Noli",
+        "explanation": "Pilipinong pari na nagtanggol sa Singapore noong Hulyo 18, 1888."
+      },
+      {
+        "left": "Dr. Uliman",
+        "right": "Taguri kay Rizal ng mga kababayan sa Calamba dahil galing sa Alemanya",
+        "explanation": "Hango sa salitang Aleman / Alemania."
+      },
+      {
+        "left": "Don Pepe",
+        "right": "Tawag kay Rizal ng kaserang si Señora Silvestra sa Barcelona",
+        "explanation": "Nangupahan si Rizal sa Calle de Sitjes sa Barcelona."
+      }
+    ]
+  },
+  {
+    "id": "match-3",
+    "title": "Set 3: Mga Babaeng Minahal ni Jose Rizal",
+    "description": "Itugma ang bawat dalaga sa natatanging tala o pangyayari sa kanilang pag-iibigan.",
+    "pairs": [
+      {
+        "left": "Segunda Katigbak",
+        "right": "Unang pag-ibig at unang kabiguan mula Lipa; ikakasal kay Manuel Luz",
+        "explanation": "Nakilala sa Troso, Maynila; tinawag ni Rizal na 'matamis na lason ng pag-ibig'."
+      },
+      {
+        "left": "Leonor Valenzuela ('Orang')",
+        "right": "Kapitbahay sa Intramuros na pinadalhan ng mga liham na invisible ink",
+        "explanation": "Anak nina Kapitan Juan at Sanday; gumamit ng tubig at asin sa liham."
+      },
+      {
+        "left": "Leonor Rivera ('Taimis')",
+        "right": "Pinsan at pinakamalalim na pag-ibig; modelo sa tauhang Maria Clara",
+        "explanation": "Kasintahang naiwan sa Pilipinas mula Camiling, Tarlac."
+      },
+      {
+        "left": "Consuelo Ortega y Rey",
+        "right": "Dalaga sa Madrid na inalayan ng tula ngunit iniwan dahil kay Eduardo de Lete",
+        "explanation": "Inalayan ng tulang 'A la Señorita C.O. y R.' noong Agosto 1883."
+      },
+      {
+        "left": "Seiko Usui ('O-Sei-San')",
+        "right": "Haponesang naging guro at tagapagsalin ni Rizal sa wikang Hapon sa Tokyo",
+        "explanation": "Minahal ni Rizal sa Japan noong tagsibol ng 1888."
+      },
+      {
+        "left": "Julia ('Minang')",
+        "right": "Dalaga sa Dampalit, Los Baños na hinulihan ni Rizal ng dalawang paruparo",
+        "explanation": "Nakilala noong Abril 1877 matapos matalisod si Rizal sa batis."
+      }
+    ]
+  },
+  {
+    "id": "match-4",
+    "title": "Set 4: Mga Akda, Tula, at Panitikan",
+    "description": "Itugma ang bawat akda sa kaukulang katangian, timpalak, o mensahe nito.",
+    "pairs": [
+      {
+        "left": "Mi Primera Inspiración",
+        "right": "Unang tula sa Ateneo (1874) bilang handog sa kaarawan ng ina",
+        "explanation": "Isinulat sa edad na 14 para kay Doña Teodora."
+      },
+      {
+        "left": "A la Juventud Filipina",
+        "right": "Nagwagi ng plumang pilak; nagdeklara na ang kabataan ang pag-asa ng bayan",
+        "explanation": "Unang gantimpala sa Liceo Artístico-Literario noong 1879."
+      },
+      {
+        "left": "El Consejo de los Dioses",
+        "right": "Alegoryang nagparangal kay Cervantes laban kina Homer at Virgil",
+        "explanation": "Nagwagi ng singsing na may ginto at laurel noong 1880."
+      },
+      {
+        "left": "Junto al Pasig",
+        "right": "Sarswelang may iisang yugto sa kapistahan ng Inmaculada Concepción",
+        "explanation": "Itinanghal noong Disyembre 8, 1880 sa saliw ng musika ni Blas Echegoyen."
+      },
+      {
+        "left": "A las Flores de Heidelberg",
+        "right": "Tula sa pampang ng Ilog Neckar na humiling sa mga bulaklak na maghatid ng pag-ibig sa bayan",
+        "explanation": "Isinulat noong Abril 22, 1886 sa tagsibol ng Alemanya."
+      },
+      {
+        "left": "Tagalische Verskunst",
+        "right": "Papel-pananaliksik sa wikang Aleman ukol sa sining ng panulaang Tagalog",
+        "explanation": "Binasa sa Lipunang Antropolohikal ng Berlin noong Abril 1887 kay Dr. Virchow."
+      },
+      {
+        "left": "Himno al Trabajo",
+        "right": "Tula para sa pagdiriwang ng pagiging Villa ng Lipa, Batangas (1888)",
+        "explanation": "Nagtampok sa halaga ng paggawa para sa lalaki, babae, at kabataan."
+      }
+    ]
+  },
+  {
+    "id": "match-5",
+    "title": "Set 5: Mahahalagang Petsa sa Kasaysayan",
+    "description": "Itugma ang bawat makasaysayang petsa sa tamang pangyayari sa buhay ni Rizal.",
+    "pairs": [
+      {
+        "left": "Hunyo 19, 1861",
+        "right": "Kapanganakan ni Jose Rizal sa Calamba, Laguna",
+        "explanation": "Isinilang sa pagitan ng 11 n.g. hanggang hatinggabi."
+      },
+      {
+        "left": "Pebrero 17, 1872",
+        "right": "Pagbitay sa tatlong paring GOMBURZA sa Bagumbayan",
+        "explanation": "Opisyal na petsa ng NHCP; ginamit ang garrote."
+      },
+      {
+        "left": "Marso 23, 1877",
+        "right": "Pagtatapos sa Ateneo ng Batsilyer sa Sining (Sobresaliente)",
+        "explanation": "Nagtapos si Rizal sa edad na 16 na may pinakamataas na karangalan."
+      },
+      {
+        "left": "Mayo 3, 1882",
+        "right": "Lihim na pagsakay sa SS Salvadora patungong Espanya",
+        "explanation": "Simula ng unang paglalakbay ni Rizal sa Europa."
+      },
+      {
+        "left": "Hunyo 25, 1884",
+        "right": "Pagbigkas ng talumpating Brindis para kina Luna at Hidalgo",
+        "explanation": "Idinaos sa Restaurant Inglés sa Madrid."
+      },
+      {
+        "left": "Marso 21, 1887",
+        "right": "Paglabas sa publiko ng unang edisyon ng Noli Me Tangere sa Berlin",
+        "explanation": "Inilimbag sa tulong ng ₱300 pautang ni Viola."
+      },
+      {
+        "left": "Disyembre 30, 1887",
+        "right": "Pagsisiyasat ng pamahalaan sa mga lupain ng Dominikano sa Calamba",
+        "explanation": "Nilagdaan ng mahigit 50 residente ang ulat ng mga reklamo."
+      }
+    ]
+  },
+  {
+    "id": "match-6",
+    "title": "Set 6: Mga Barkong Sinakyan ni Jose Rizal",
+    "description": "Itugma ang bawat barko sa kaukulang rutang nilakbay ni Rizal.",
+    "pairs": [
+      {
+        "left": "Bapor Talim",
+        "right": "Mula Biñan pauwi ng Calamba noong Disyembre 17, 1870",
+        "explanation": "Kasama si Arturo Camps, kaibigan ng kanyang ama."
+      },
+      {
+        "left": "SS Salvadora",
+        "right": "Mula Maynila patungong Singapore noong Mayo 3, 1882",
+        "explanation": "Sa ilalim ni Kapitan Donato Lecha."
+      },
+      {
+        "left": "Djemnah",
+        "right": "Barkong Pranses mula Singapore patungong Marseille, Pransya",
+        "explanation": "Nilipatan ni Rizal sa Singapore patungong Europa."
+      },
+      {
+        "left": "Haiphong",
+        "right": "Mula Saigon pauwi sa Maynila noong Agosto 1887",
+        "explanation": "Ginamit sa kanyang unang pagbabalik sa sariling bayan."
+      },
+      {
+        "left": "S.S. Belgic",
+        "right": "Mula Yokohama, Japan patungong San Francisco, USA",
+        "explanation": "Dito nakilala si Tetcho Suehiro noong Abril 1888."
+      },
+      {
+        "left": "City of Rome",
+        "right": "Mula New York patungong Liverpool, England noong Mayo 1888",
+        "explanation": "Ikalawang pinakamalaking barko sa daigdig noon."
+      }
+    ]
+  },
+  {
+    "id": "match-7",
+    "title": "Set 7: Mga Lungsod sa Europa at Kanilang Alaala",
+    "description": "Itugma ang bawat lungsod sa Europa sa kaukulang pangyayari o alaala ni Rizal.",
+    "pairs": [
+      {
+        "left": "Wilhelmsfeld",
+        "right": "Bayan kung saan tinapos ang huling bahagi ng Noli kay Pastor Ullmer",
+        "explanation": "Nanirahan noong Abril hanggang Hunyo 1886 sa pamilya Ullmer."
+      },
+      {
+        "left": "Leitmeritz",
+        "right": "Bayan sa Bohemia kung saan sinalubong ni Propesor Ferdinand Blumentritt",
+        "explanation": "Tumira sa Hotel Krebs noong Mayo 13-16, 1887."
+      },
+      {
+        "left": "Vienna",
+        "right": "Tinawag na Reyna ng Danube; namangha sa ganda at sa papel na napkin",
+        "explanation": "Binisita kasama si Viola noong Mayo 20, 1887 sa Otel Metropole."
+      },
+      {
+        "left": "Nuremberg",
+        "right": "Nakita ang mga kagamitan ng Inkwisisyon at pagawaan ng manika",
+        "explanation": "Isa sa mga lungsod sa Alemanya na binisita noong Mayo 1887."
+      },
+      {
+        "left": "Ulm",
+        "right": "Inakyat ang katedral na may pinakamataas na tore sa Alemanya",
+        "explanation": "Umakyat sa tore ng katedral sina Rizal at Viola."
+      },
+      {
+        "left": "Geneva",
+        "right": "Lungsod kung saan ipinagdiwang ang ika-26 na kaarawan at naghiwalay kay Viola",
+        "explanation": "Hunyo 19, 1887; naghanda ng tanghalian para kay Viola bago maghiwalay."
+      },
+      {
+        "left": "Roma",
+        "right": "Lungsod ng mga Cesar kung saan sinabing tinatapakan ang abo ng mga bayani",
+        "explanation": "Dumating noong Hunyo 27, 1887 at binisita ang Vatican."
+      }
+    ]
+  }
+]

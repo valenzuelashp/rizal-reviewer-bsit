@@ -1,0 +1,691 @@
+[
+  {
+    "id": "enum-1",
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Ilista ang apat (4) na dahilan ng pag-uwi ni Jose Rizal sa Pilipinas noong Agosto 1887:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "Nais operahan ang mata ng kanyang ina",
+        "keywords": [
+          "mata ng ina",
+          "operahan ang mata",
+          "gamutin ang mata ng ina",
+          "mata",
+          "ina"
+        ]
+      },
+      {
+        "canonical": "Nais tumulong sa mga kababayang inaapi",
+        "keywords": [
+          "tumulong sa mga kababayan",
+          "kababayang inaapi",
+          "tulungan ang naaapi",
+          "maglingkod sa bayan"
+        ]
+      },
+      {
+        "canonical": "Nais alamin ang epekto ng Noli Me Tangere sa Pilipinas",
+        "keywords": [
+          "epekto ng noli",
+          "malaman ang epekto ng nobela",
+          "noli me tangere",
+          "epekto ng kanyang aklat"
+        ]
+      },
+      {
+        "canonical": "Nais malaman kung bakit walang balita tungkol kay Leonor Rivera",
+        "keywords": [
+          "leonor rivera",
+          "balita kay leonor",
+          "leonor",
+          "kasintahan"
+        ]
+      }
+    ],
+    "explanation": "Apat na dahilan: (1) Operahan ang mata ng ina, (2) Tulungan ang mga naaapi, (3) Alamin ang epekto ng Noli, at (4) Alamin kung bakit walang balita mula kay Leonor Rivera."
+  },
+  {
+    "id": "enum-2",
+    "topic": "Ang Calamba at mga Magsasaka (1887)",
+    "question": "Ilista ang limang (5) pangunahing daing ng mga magsasaka at inquilino sa Calamba noong Disyembre 30, 1887:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "Sumasaklaw halos sa buong bayan ang lupain ng mga Dominikano",
+        "keywords": [
+          "buong bayan",
+          "lupain ng dominikano",
+          "saklaw ang buong bayan",
+          "lupain"
+        ]
+      },
+      {
+        "canonical": "Walang inaabuloy ang asyenda sa gastusin ng bayan",
+        "keywords": [
+          "walang abuloy",
+          "gastusin ng bayan",
+          "walang tulong sa bayan",
+          "walang ambag"
+        ]
+      },
+      {
+        "canonical": "Binabawian ng lupa ang matatagal nang kasama / magsasaka",
+        "keywords": [
+          "binabawian ng lupa",
+          "inaagawan ng lupa",
+          "pagbawi sa lupa",
+          "kasama"
+        ]
+      },
+      {
+        "canonical": "Tumataas nang walang batayan o arbitraryo ang renta sa lupa",
+        "keywords": [
+          "tumataas ang renta",
+          "pagtaas ng renta",
+          "upa sa lupa",
+          "walang batayan ang renta"
+        ]
+      },
+      {
+        "canonical": "Sinasamsam ang mga kalabaw, kagamitan, at bahay kapag hindi nakabayad",
+        "keywords": [
+          "sinasamsam ang kalabaw",
+          "pagkumpiska sa kalabaw",
+          "kagamitan at bahay",
+          "sinasamsam"
+        ]
+      }
+    ],
+    "explanation": "Ang 5 daing ng Calamba laban sa mga prayleng Dominikano na inilagda ng mahigit 50 residente noong Disyembre 30, 1887."
+  },
+  {
+    "id": "enum-3",
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ibigay ang tatlong paring martir (GOMBURZA) na binitay noong Pebrero 17, 1872:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Mariano Gomez",
+        "keywords": [
+          "mariano gomez",
+          "gomez",
+          "padre gomez"
+        ]
+      },
+      {
+        "canonical": "Jose Burgos",
+        "keywords": [
+          "jose burgos",
+          "burgos",
+          "padre burgos"
+        ]
+      },
+      {
+        "canonical": "Jacinto Zamora",
+        "keywords": [
+          "jacinto zamora",
+          "zamora",
+          "padre zamora"
+        ]
+      }
+    ],
+    "explanation": "Ang GOMBURZA (Mariano Gomez, Jose Burgos, Jacinto Zamora) ay binitay sa garrote sa Bagumbayan noong Pebrero 17, 1872."
+  },
+  {
+    "id": "enum-4",
+    "topic": "Pagsilang ng Bayani (Tesis)",
+    "question": "Ilista ang tatlong (3) ugat ng kamalayan ni Jose Rizal ayon sa Tesis ng Reviewer 1:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Gabay ng mga taong malapit sa kanya (pamilya, guro)",
+        "keywords": [
+          "gabay ng mga taong malapit",
+          "gabay ng pamilya",
+          "gabay",
+          "impluwensya ng pamilya"
+        ]
+      },
+      {
+        "canonical": "Likas na abilidad at talento",
+        "keywords": [
+          "likas na abilidad",
+          "talento",
+          "likas na talino",
+          "abilidad"
+        ]
+      },
+      {
+        "canonical": "Maagang pagkakamulat sa mundong hindi makatarungan",
+        "keywords": [
+          "pagkakamulat",
+          "mundong hindi makatarungan",
+          "kawalang katarungan",
+          "maagang pagkakamulat"
+        ]
+      }
+    ],
+    "explanation": "Ayon sa Reviewer 1: (1) Gabay ng mga taong malapit sa kanya, (2) Likas na abilidad at talento, (3) Maagang pagkakamulat sa mundong hindi makatarungan."
+  },
+  {
+    "id": "enum-5",
+    "topic": "Unang Kurikulum sa Calamba",
+    "question": "Ibigay ang tatlong (3) tiyo ni Rizal at ang kani-kanilang itinuro o hinubog sa kanya:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Tiyo Manuel — katawan, pagtatanggol sa sarili, at palakasan",
+        "keywords": [
+          "tiyo manuel",
+          "manuel",
+          "katawan",
+          "palakasan"
+        ]
+      },
+      {
+        "canonical": "Tiyo Gregorio — aklat, pagbabasa, at masusing pagmamasid",
+        "keywords": [
+          "tiyo gregorio",
+          "gregorio",
+          "aklat",
+          "pagmamasid"
+        ]
+      },
+      {
+        "canonical": "Tiyo Jose Alberto — sining, pagpinta, at paglilok",
+        "keywords": [
+          "tiyo jose alberto",
+          "jose alberto",
+          "sining",
+          "pagpipinta"
+        ]
+      }
+    ],
+    "explanation": "Tiyo Manuel (katawan/palakasan), Tiyo Gregorio (aklat/pagmamasid), Tiyo Jose Alberto (sining)."
+  },
+  {
+    "id": "enum-6",
+    "topic": "Edukasyon sa Calamba",
+    "question": "Ilista ang tatlong (3) pribadong guro ni Jose Rizal sa Calamba bago siya ipinadala sa Biñan:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Maestro Celestino (panimulang aralin)",
+        "keywords": [
+          "celestino",
+          "maestro celestino"
+        ]
+      },
+      {
+        "canonical": "Lucas Padua (aritmetika / matematika)",
+        "keywords": [
+          "lucas padua",
+          "padua"
+        ]
+      },
+      {
+        "canonical": "Leon Monroy (Espanyol at Latin)",
+        "keywords": [
+          "leon monroy",
+          "monroy"
+        ]
+      }
+    ],
+    "explanation": "Tatlong pribadong guro: Celestino, Lucas Padua, at Leon Monroy (dating kaklase ng ama na nagturo ng Espanyol at Latin)."
+  },
+  {
+    "id": "enum-7",
+    "topic": "Ateneo Municipal",
+    "question": "Ibigay ang limang (5) ranggo sa loob ng imperyo sa klase ng Ateneo (mula sa pinakamataas):",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "Emperador (Emperor)",
+        "keywords": [
+          "emperador",
+          "emperor"
+        ]
+      },
+      {
+        "canonical": "Tribuna (Tribune)",
+        "keywords": [
+          "tribuna",
+          "tribune"
+        ]
+      },
+      {
+        "canonical": "Dekuryon (Decurion)",
+        "keywords": [
+          "dekuryon",
+          "decurion"
+        ]
+      },
+      {
+        "canonical": "Senturyon (Centurion)",
+        "keywords": [
+          "senturyon",
+          "centurion"
+        ]
+      },
+      {
+        "canonical": "Tagapagdala ng Bandila (Standard-bearer)",
+        "keywords": [
+          "tagapagdala ng bandila",
+          "bandila",
+          "standard bearer"
+        ]
+      }
+    ],
+    "explanation": "Ranggong Atenista: 1. Emperador, 2. Tribuna, 3. Dekuryon, 4. Senturyon, 5. Tagapagdala ng Bandila."
+  },
+  {
+    "id": "enum-8",
+    "topic": "Buhay sa Berlin (1886-1887)",
+    "question": "Ilista ang apat (4) na dahilan ng pananatili ni Jose Rizal sa Berlin:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "Mapalawak ang kaalaman sa sakit sa mata (optalmolohiya)",
+        "keywords": [
+          "sakit sa mata",
+          "optalmolohiya",
+          "mata",
+          "ophthalmology"
+        ]
+      },
+      {
+        "canonical": "Mag-aral ng agham at wika kasama ng mga Alemang iskolar",
+        "keywords": [
+          "agham at wika",
+          "alemang iskolar",
+          "agham",
+          "wika"
+        ]
+      },
+      {
+        "canonical": "Pag-aralan ang pamumuhay at kalagayan ng mga karaniwang mamamayang Aleman",
+        "keywords": [
+          "pamumuhay ng tao",
+          "kultura ng aleman",
+          "kalagayan ng aleman"
+        ]
+      },
+      {
+        "canonical": "Tapusin at ipalimbag ang nobelang Noli Me Tangere",
+        "keywords": [
+          "tapusin ang noli",
+          "ipalimbag ang noli",
+          "noli me tangere",
+          "noli"
+        ]
+      }
+    ],
+    "explanation": "Apat na dahilan: (1) Optalmolohiya, (2) Agham at wika sa iskolar, (3) Pamumuhay ng tao, at (4) Tapusin ang Noli Me Tangere."
+  },
+  {
+    "id": "enum-9",
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Ilista ang tatlong (3) gantimpala at kung kanino iginawad ang bawat isa sa akdang 'El Consejo de los Dioses':",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Trumpeta — iginawad kay Homer",
+        "keywords": [
+          "trumpeta kay homer",
+          "trumpeta",
+          "homer"
+        ]
+      },
+      {
+        "canonical": "Lira — iginawad kay Virgil",
+        "keywords": [
+          "lira kay virgil",
+          "lira",
+          "virgil"
+        ]
+      },
+      {
+        "canonical": "Koronang Laurel — iginawad kay Cervantes",
+        "keywords": [
+          "laurel kay cervantes",
+          "laurel",
+          "cervantes",
+          "koronang laurel"
+        ]
+      }
+    ],
+    "explanation": "Hatol sa Olimpo: Trumpeta kay Homer, Lira kay Virgil, at Koronang Laurel kay Cervantes."
+  },
+  {
+    "id": "enum-10",
+    "topic": "Mga Barko ni Rizal",
+    "question": "Ilista ang anim (6) na barkong sinakyan ni Rizal sa kanyang iba't ibang paglalakbay:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "Bapor Talim (Biñan patungong Calamba, 1870)",
+        "keywords": [
+          "talim",
+          "bapor talim"
+        ]
+      },
+      {
+        "canonical": "SS Salvadora (Maynila patungong Singapore, 1882)",
+        "keywords": [
+          "salvadora",
+          "ss salvadora"
+        ]
+      },
+      {
+        "canonical": "Djemnah (Singapore patungong Europa, 1882)",
+        "keywords": [
+          "djemnah",
+          "ss djemnah"
+        ]
+      },
+      {
+        "canonical": "Haiphong (Saigon patungong Maynila, 1887)",
+        "keywords": [
+          "haiphong",
+          "ss haiphong"
+        ]
+      },
+      {
+        "canonical": "S.S. Belgic (Yokohama patungong San Francisco, 1888)",
+        "keywords": [
+          "belgic",
+          "ss belgic"
+        ]
+      },
+      {
+        "canonical": "City of Rome (New York patungong Liverpool, 1888)",
+        "keywords": [
+          "city of rome",
+          "rome"
+        ]
+      }
+    ],
+    "explanation": "Mga barko: Talim, Salvadora, Djemnah, Haiphong, S.S. Belgic, at City of Rome."
+  },
+  {
+    "id": "enum-11",
+    "topic": "Mga Pag-ibig ni Rizal",
+    "question": "Ilista ang anim (6) na dalagang inibig o nagkaroon ng kaugnayan kay Rizal bago at noong 1888:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "Julia ('Minang') ng Los Baños",
+        "keywords": [
+          "julia",
+          "minang"
+        ]
+      },
+      {
+        "canonical": "Segunda Katigbak ng Lipa",
+        "keywords": [
+          "segunda",
+          "segunda katigbak"
+        ]
+      },
+      {
+        "canonical": "Leonor Valenzuela ('Orang') ng Intramuros",
+        "keywords": [
+          "leonor valenzuela",
+          "orang"
+        ]
+      },
+      {
+        "canonical": "Leonor Rivera ('Taimis') ng Camiling",
+        "keywords": [
+          "leonor rivera",
+          "taimis"
+        ]
+      },
+      {
+        "canonical": "Consuelo Ortega y Rey ng Madrid",
+        "keywords": [
+          "consuelo",
+          "consuelo ortega"
+        ]
+      },
+      {
+        "canonical": "Seiko Usui ('O-Sei-San') ng Japan",
+        "keywords": [
+          "o-sei-san",
+          "seiko usui",
+          "o sei san"
+        ]
+      }
+    ],
+    "explanation": "Mga pag-ibig: Julia (Minang), Segunda Katigbak, Leonor Valenzuela (Orang), Leonor Rivera (Taimis), Consuelo Ortega y Rey, at Seiko Usui (O-Sei-San)."
+  },
+  {
+    "id": "enum-12",
+    "topic": "Noli Me Tangere",
+    "question": "Ilista ang limang (5) kilalang tagapagtanggol ng nobelang Noli Me Tangere laban sa mga prayle:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "Marcelo H. del Pilar (sumulat ng Caiingat Cayo / Dolores Manapat)",
+        "keywords": [
+          "marcelo del pilar",
+          "del pilar",
+          "plaridel",
+          "dolores manapat"
+        ]
+      },
+      {
+        "canonical": "Padre Vicente García (paring Pilipino sa Singapore / Justo Desiderio Magalang)",
+        "keywords": [
+          "vicente garcia",
+          "padre vicente garcia",
+          "justo desiderio"
+        ]
+      },
+      {
+        "canonical": "Dr. Ferdinand Blumentritt (propesor mula Austria)",
+        "keywords": [
+          "ferdinand blumentritt",
+          "blumentritt"
+        ]
+      },
+      {
+        "canonical": "Dr. Antonio Ma. Regidor (abogado at kaibigan sa London)",
+        "keywords": [
+          "antonio regidor",
+          "antonio ma regidor",
+          "regidor"
+        ]
+      },
+      {
+        "canonical": "Padre Francisco de Paula Sánchez (paboritong guro sa Ateneo)",
+        "keywords": [
+          "francisco de paula sanchez",
+          "padre sanchez",
+          "sanchez"
+        ]
+      }
+    ],
+    "explanation": "Mga tagapagtanggol: Del Pilar, Padre Vicente García, Blumentritt, Regidor, at Padre Sánchez (pati sina López Jaena, Mariano Ponce, Don Segismundo Moret)."
+  },
+  {
+    "id": "enum-13",
+    "topic": "Noli Me Tangere",
+    "question": "Ilista ang apat (4) na pangunahing kaaway o tumuligsa sa nobelang Noli Me Tangere:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "Padre Salvador Font (pinuno ng Komisyon ng Sensura)",
+        "keywords": [
+          "salvador font",
+          "padre font",
+          "font"
+        ]
+      },
+      {
+        "canonical": "Padre José Rodríguez (naglabas ng 8 polyeto)",
+        "keywords": [
+          "jose rodriguez",
+          "padre rodriguez",
+          "rodriguez"
+        ]
+      },
+      {
+        "canonical": "Padre Gregorio Echavarría (Rektor ng UST)",
+        "keywords": [
+          "gregorio echavarria",
+          "padre echavarria",
+          "echavarria"
+        ]
+      },
+      {
+        "canonical": "Vicente Barrantes (manunulat sa La España Moderna)",
+        "keywords": [
+          "vicente barrantes",
+          "barrantes"
+        ]
+      }
+    ],
+    "explanation": "Mga pangunahing kaaway: Padre Font, Padre Rodríguez, Padre Echavarría, at Vicente Barrantes (pati sina Heneral Salamanca at Luis de Pando)."
+  },
+  {
+    "id": "enum-14",
+    "topic": "Hagdan ng Lipunan (Kolonyal)",
+    "question": "Ilista ang anim (6) na antas sa hagdan ng lipunang kolonyal noong ika-19 na siglo mula sa pinakamataas pababa:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "1. Peninsulares (Espanyol na isinilang sa Espanya)",
+        "keywords": [
+          "peninsulares",
+          "peninsular"
+        ]
+      },
+      {
+        "canonical": "2. Creoles / Insulares (Espanyol na isinilang sa Pilipinas)",
+        "keywords": [
+          "creoles",
+          "insulares",
+          "insular"
+        ]
+      },
+      {
+        "canonical": "3. Chinese Mestizos (halong dugong Tsino at Pilipino)",
+        "keywords": [
+          "chinese mestizos",
+          "mestizo",
+          "tsinong mestizo"
+        ]
+      },
+      {
+        "canonical": "4. Principalia (lokal na elite, gobernadorcillo, cabeza de barangay)",
+        "keywords": [
+          "principalia",
+          "principales"
+        ]
+      },
+      {
+        "canonical": "5. Inquilinos (mga tagapamahala at umuupa ng lupa sa asyenda)",
+        "keywords": [
+          "inquilinos",
+          "inquilino"
+        ]
+      },
+      {
+        "canonical": "6. Magsasaka / Indio (katutubong Pilipino, kasama, polo y servicio)",
+        "keywords": [
+          "magsasaka",
+          "indio",
+          "kasama",
+          "katutubo"
+        ]
+      }
+    ],
+    "explanation": "Hagdan ng Lipunan: (1) Peninsulares, (2) Insulares/Creoles, (3) Chinese Mestizos, (4) Principalia, (5) Inquilinos, (6) Magsasaka/Indio."
+  },
+  {
+    "id": "enum-15",
+    "topic": "Kasaysayan ng Hacienda de Calamba",
+    "question": "Ilista ang tatlong (3) naging may-ari ng Hacienda de Calamba ayon sa kasaysayan ng Reviewer 1:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Heswita (unang nagtayo at nagmay-ari)",
+        "keywords": [
+          "heswita",
+          "jesuits",
+          "hesuwita"
+        ]
+      },
+      {
+        "canonical": "2. Korona ng Espanya (kinumpiska noong 1768)",
+        "keywords": [
+          "korona",
+          "korona ng espanya",
+          "pamahalaan",
+          "spanish crown"
+        ]
+      },
+      {
+        "canonical": "3. Dominikano (nagmay-ari noong ika-19 na siglo)",
+        "keywords": [
+          "dominikano",
+          "dominicans",
+          "order of preachers"
+        ]
+      }
+    ],
+    "explanation": "Kasaysayan ng Hacienda de Calamba: (1) Heswita, (2) Korona ng Espanya (1768), at (3) Dominikano noong ika-19 na siglo."
+  },
+  {
+    "id": "enum-16",
+    "topic": "Paglalakbay sa Asya at Amerika (1888)",
+    "question": "Ilista ang limang (5) teritoryo o bansang dinaanan ni Rizal sa kanyang paglalakbay noong 1888:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "Hong Kong (kolonyang Ingles)",
+        "keywords": [
+          "hong kong",
+          "hongkong"
+        ]
+      },
+      {
+        "canonical": "Macau (kolonyang Portuges)",
+        "keywords": [
+          "macau",
+          "macao"
+        ]
+      },
+      {
+        "canonical": "Japan / Hapon (Yokohama, Tokyo)",
+        "keywords": [
+          "japan",
+          "hapon"
+        ]
+      },
+      {
+        "canonical": "Estados Unidos / Amerika (San Francisco, NY)",
+        "keywords": [
+          "estados unidos",
+          "amerika",
+          "usa",
+          "us"
+        ]
+      },
+      {
+        "canonical": "England / Gran Britanya (Liverpool, London)",
+        "keywords": [
+          "england",
+          "gran britanya",
+          "britanya",
+          "liverpool",
+          "london",
+          "ingles"
+        ]
+      }
+    ],
+    "explanation": "Ruta noong 1888: Hong Kong → Macau → Japan → Estados Unidos → England (Liverpool)."
+  }
+]

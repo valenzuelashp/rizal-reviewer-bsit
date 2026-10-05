@@ -1,0 +1,2629 @@
+[
+  {
+    "id": 1,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Kailan at anong araw isinilang si Jose Rizal ayon sa kanyang sariling salaysay?",
+    "answer": "Hunyo 19, 1861",
+    "aliases": [
+      "June 19, 1861",
+      "Hunyo 19 1861",
+      "Miyerkules, Hunyo 19, 1861",
+      "19 Hunyo 1861"
+    ],
+    "choices": [
+      "Hunyo 19, 1861",
+      "Hunyo 22, 1861",
+      "Pebrero 17, 1872",
+      "Disyembre 30, 1896"
+    ],
+    "explanation": "Isinilang si Rizal noong Miyerkules, Hunyo 19, 1861, sa pagitan ng ika-11 ng gabi hanggang hatinggabi sa Calamba, Laguna."
+  },
+  {
+    "id": 2,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Pang-ilan si Jose Rizal sa labing-isang magkakapatid?",
+    "answer": "Ikapito",
+    "aliases": [
+      "7",
+      "7th",
+      "Ika-7",
+      "Pang-pito",
+      "Pampito",
+      "Pangpito",
+      "Pang-7"
+    ],
+    "choices": [
+      "Ikapito",
+      "Ikaanim",
+      "Ikalima",
+      "Ikasiyam"
+    ],
+    "explanation": "Si Jose Rizal ang ikapitong anak nina Francisco Mercado at Teodora Alonso Realonda."
+  },
+  {
+    "id": 3,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang paring namuno sa binyag ni Jose Rizal noong Hunyo 22, 1861?",
+    "answer": "Padre Rufino Collantes",
+    "aliases": [
+      "Rufino Collantes",
+      "Padre Collantes",
+      "P. Rufino Collantes",
+      "Fr. Rufino Collantes"
+    ],
+    "choices": [
+      "Padre Rufino Collantes",
+      "Padre Pedro Casañas",
+      "Padre Jose Burgos",
+      "Padre Jose Bech"
+    ],
+    "explanation": "Bininyagan si Rizal noong Hunyo 22, 1861 ni Padre Rufino Collantes."
+  },
+  {
+    "id": 4,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang tumayong ninong sa binyag ni Jose Rizal?",
+    "answer": "Padre Pedro Casañas",
+    "aliases": [
+      "Pedro Casañas",
+      "Padre Pedro Casanas",
+      "Pedro Casanas",
+      "P. Pedro Casañas"
+    ],
+    "choices": [
+      "Padre Pedro Casañas",
+      "Padre Rufino Collantes",
+      "Padre Jose Burgos",
+      "Manuel Xerez Burgos"
+    ],
+    "explanation": "Ang ninong ni Rizal sa binyag ay si Padre Pedro Casañas, kaibigan ng pamilya."
+  },
+  {
+    "id": 5,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Kaninong patron nangako ng debosyon si Doña Teodora dahil sa mapanganib na panganganak dulot ng di-karaniwang laki ng ulo ni Jose?",
+    "answer": "Mahal na Birhen ng Antipolo",
+    "aliases": [
+      "Birhen ng Antipolo",
+      "Our Lady of Peace and Good Voyage",
+      "Nuestra Señora de la Paz y Buen Viaje",
+      "Birhen sa Antipolo"
+    ],
+    "choices": [
+      "Mahal na Birhen ng Antipolo",
+      "Mahal na Birhen ng Manaoag",
+      "Inmaculada Concepcion",
+      "Mahal na Birhen ng Peñafrancia"
+    ],
+    "explanation": "Dahil sa panganib sa panganganak dulot ng malaking ulo ng sanggol, nangako si Teodora ng debosyon sa Mahal na Birhen ng Antipolo."
+  },
+  {
+    "id": 6,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ano ang buong pangalan ni Jose Rizal sa kanyang rehistro at binyag?",
+    "answer": "Jose Protasio Rizal Mercado y Alonso Realonda",
+    "aliases": [
+      "Jose Protacio Rizal Mercado y Alonso Realonda",
+      "Jose Protasio Rizal Mercado",
+      "Jose Rizal Mercado y Alonso Realonda"
+    ],
+    "choices": [
+      "Jose Protasio Rizal Mercado y Alonso Realonda",
+      "Jose Protacio Mercado y Realonda",
+      "Jose Protasio Alonso Rizal y Mercado",
+      "Jose Mercado Rizal y Alonso"
+    ],
+    "explanation": "Buong pangalan: Jose Protasio Rizal Mercado y Alonso Realonda."
+  },
+  {
+    "id": 7,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Saan hinango ang pangalang 'Jose' sa pangalan ni Rizal?",
+    "answer": "San Jose",
+    "aliases": [
+      "Debosyon kay San Jose",
+      "Saint Joseph",
+      "St. Joseph"
+    ],
+    "choices": [
+      "San Jose",
+      "San Juan",
+      "San Pedro",
+      "San Gervasio"
+    ],
+    "explanation": "Galing sa debosyon ng kanyang ina kay San Jose (St. Joseph). Sa Latin P.P. (Pater Putativus), na sa Espanyol binibigkas na 'Peh-Peh' kaya tinawag siyang Pepe."
+  },
+  {
+    "id": 8,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Saan nagmula ang pangalang 'Protasio' ni Rizal?",
+    "answer": "San Gervasio at San Protasio",
+    "aliases": [
+      "San Protasio",
+      "Kapistahan nina San Gervasio at San Protasio",
+      "San Gervasio",
+      "Gervasio at Protasio"
+    ],
+    "choices": [
+      "San Gervasio at San Protasio",
+      "San Juan Bautista",
+      "San Pedro at San Pablo",
+      "San Francisco"
+    ],
+    "explanation": "Ang Hunyo 19 sa kalendaryong Katoliko ay kapistahan nina San Gervasio at San Protasio."
+  },
+  {
+    "id": 9,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ano ang ibig sabihin ng apelyidong 'Mercado' sa wikang Espanyol?",
+    "answer": "Pamilihan",
+    "aliases": [
+      "Palengke",
+      "Market"
+    ],
+    "choices": [
+      "Pamilihan",
+      "Pastulan",
+      "Bukirin",
+      "Dagat"
+    ],
+    "explanation": "Ang 'Mercado' ay salitang Espanyol para sa pamilihan (market), pinili ng ninunong si Domingo Lam-Co noong 1731."
+  },
+  {
+    "id": 10,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Mula sa anong salitang Kastila nagmula ang apelyidong 'Rizal' na nangangahulugang lunting bukirin o pastulan?",
+    "answer": "Ricial",
+    "aliases": [
+      "Rial",
+      "Risial"
+    ],
+    "choices": [
+      "Ricial",
+      "Real",
+      "Riqueza",
+      "Rocio"
+    ],
+    "explanation": "Ang apelyidong 'Rizal' ay nagmula sa 'ricial', na tumutukoy sa berdeng bukirin o lupang tinatamnan ng trigo at pastulan."
+  },
+  {
+    "id": 11,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang Tsinong ninuno ni Rizal mula sa Fujian, Tsina na nagpakasal kay Ines dela Rosa noong 1731?",
+    "answer": "Domingo Lam-Co",
+    "aliases": [
+      "Domingo Lamco",
+      "Lam-Co",
+      "Lamco"
+    ],
+    "choices": [
+      "Domingo Lam-Co",
+      "Juan Mercado",
+      "Francisco Mercado",
+      "Manuel Gomez"
+    ],
+    "explanation": "Si Domingo Lam-Co, isang migranteng Tsino mula Fujian, ang ninuno sa ama ni Rizal."
+  },
+  {
+    "id": 12,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Anong dekreto ang ipinalabas ni Gobernador-Heneral Narciso Claveria noong Nobyembre 21, 1849 para sa pagtatakda ng mga apelyido?",
+    "answer": "Catalogo alfabetico de apellidos",
+    "aliases": [
+      "Catalogo alfabetico",
+      "Catalogo Alfabetico de Apellidos",
+      "Dekreto ni Claveria",
+      "Claveria Decree"
+    ],
+    "choices": [
+      "Catalogo alfabetico de apellidos",
+      "Leyes de Indias",
+      "Codigo Civil",
+      "Decreto de Gracia"
+    ],
+    "explanation": "Ang Catalogo alfabetico de apellidos (Nob. 21, 1849) ay para sa senso, buwis, at talaan ng simbahan; HINDI ito patunay ng dugong Kastila."
+  },
+  {
+    "id": 13,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang panganay sa magkakapatid na Rizal na tinawag ding 'Neneng' at nagsilbing pangalawang ina noong makulong si Doña Teodora?",
+    "answer": "Saturnina",
+    "aliases": [
+      "Saturnina Rizal",
+      "Saturnina Mercado",
+      "Neneng"
+    ],
+    "choices": [
+      "Saturnina",
+      "Narcisa",
+      "Olympia",
+      "Maria"
+    ],
+    "explanation": "Si Saturnina (1850) ang panganay, nagpakasal kay Manuel Timoteo Hidalgo ng Tanauan, Batangas."
+  },
+  {
+    "id": 14,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang nag-iisang nakatatandang kapatid na lalaki ni Jose Rizal na naging kaibigan ni Padre Burgos at heneral ng rebolusyon?",
+    "answer": "Paciano",
+    "aliases": [
+      "Paciano Rizal",
+      "Paciano Mercado",
+      "Heneral Paciano"
+    ],
+    "choices": [
+      "Paciano",
+      "Manuel",
+      "Silvestre",
+      "Antonio"
+    ],
+    "explanation": "Si Paciano Rizal (1851-1930) ang tanging kuya ni Jose na naging kaalyado ni Burgos at nagtustos sa pag-aaral ni Rizal sa Europa."
+  },
+  {
+    "id": 15,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang ikatlong kapatid na tumunton sa lihim na pinaglibingan kay Rizal sa Paco cemetery (minarkahang 'RPJ') at kumupkop kay Josephine Bracken?",
+    "answer": "Narcisa",
+    "aliases": [
+      "Narcisa Rizal",
+      "Sisa",
+      "Narcisa Lopez"
+    ],
+    "choices": [
+      "Narcisa",
+      "Maria",
+      "Olympia",
+      "Josefa"
+    ],
+    "explanation": "Si Narcisa ('Sisa', 1852-1939) ang naghanap sa bangkay ni Rizal sa Paco at nag-alaga kay Josephine Bracken."
+  },
+  {
+    "id": 16,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang ikalimang kapatid ni Rizal na ang asawang si Mariano Herbosa ay pinagkaitan ng libingang Katoliko dahil namatay sa kolera?",
+    "answer": "Lucia",
+    "aliases": [
+      "Lucia Rizal",
+      "Lucia Herbosa"
+    ],
+    "choices": [
+      "Lucia",
+      "Maria",
+      "Olympia",
+      "Josefa"
+    ],
+    "explanation": "Si Lucia (1857) ay asawa ni Mariano Herbosa na pinagkaitan ng Kristiyanong libing ng mga prayle dahil bayaw siya ni Rizal."
+  },
+  {
+    "id": 17,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang kapatid ni Rizal na namatay sa edad na 3 taon (1865) na naging dahilan ng kanyang unang pighati at pag-iyak?",
+    "answer": "Concepcion",
+    "aliases": [
+      "Concha",
+      "Concepcion Rizal"
+    ],
+    "choices": [
+      "Concepcion",
+      "Olympia",
+      "Josefa",
+      "Soledad"
+    ],
+    "explanation": "Si Concepcion ('Concha', 1862-1865) ang ikawalong anak; ang pagkamatay niya sa edad na tatlo ang unang pighati ni Rizal."
+  },
+  {
+    "id": 18,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang ikasiyam na kapatid ni Rizal na may epilepsy at naging pangulo ng sangay ng kababaihan ng Katipunan?",
+    "answer": "Josefa",
+    "aliases": [
+      "Panggoy",
+      "Josefa Rizal"
+    ],
+    "choices": [
+      "Josefa",
+      "Trinidad",
+      "Soledad",
+      "Narcisa"
+    ],
+    "explanation": "Si Josefa ('Panggoy', 1865-1945) ang namuno sa sangay ng kababaihan ng Katipunan."
+  },
+  {
+    "id": 19,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sa kaninong kapatid ibinulong ni Rizal ang 'There is something inside' kung saan nakatago ang Mi Ultimo Adios sa kusinilya?",
+    "answer": "Trinidad",
+    "aliases": [
+      "Trining",
+      "Trinidad Rizal"
+    ],
+    "choices": [
+      "Trinidad",
+      "Josefa",
+      "Narcisa",
+      "Soledad"
+    ],
+    "explanation": "Ipinasa ni Rizal ang kusinilya (alcohol burner) kay Trinidad ('Trining', 1868-1951), ang huling pumanaw sa magkakapatid."
+  },
+  {
+    "id": 20,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang bunsong kapatid ni Rizal na nagtapos ng pagka-guro at nagpakasal kay Pantaleon Quintero nang walang pahintulot ng magulang?",
+    "answer": "Soledad",
+    "aliases": [
+      "Choleng",
+      "Soledad Rizal",
+      "Soledad Quintero"
+    ],
+    "choices": [
+      "Soledad",
+      "Trinidad",
+      "Josefa",
+      "Maria"
+    ],
+    "explanation": "Si Soledad ('Choleng', 1870) ang bunso sa labing-isang magkakapatid."
+  },
+  {
+    "id": 21,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang pamangkin ni Rizal (anak ni Lucia) na isa sa tatlong tumahi ng unang watawat ng Pilipinas sa Hong Kong?",
+    "answer": "Delfina Herbosa de Natividad",
+    "aliases": [
+      "Delfina Herbosa",
+      "Delfina Natividad",
+      "Delfina Herbosa Natividad"
+    ],
+    "choices": [
+      "Delfina Herbosa de Natividad",
+      "Marcelo del Pilar",
+      "Paz Pardo de Tavera",
+      "Rosa Blumentritt"
+    ],
+    "explanation": "Si Delfina Herbosa de Natividad ay anak ni Lucia (pamangkin ni Rizal, HINDI kapatid) na tumahi sa bandila kasama nina Marcela at Lorenza Agoncillo."
+  },
+  {
+    "id": 22,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino sa mga tiyo ni Rizal ang nagturo sa kanya ng pagpapalakas ng katawan, paglangoy, at pagtatanggol sa sarili?",
+    "answer": "Tiyo Manuel",
+    "aliases": [
+      "Manuel",
+      "Tio Manuel",
+      "Tiyo Manuel Alberto"
+    ],
+    "choices": [
+      "Tiyo Manuel",
+      "Tiyo Gregorio",
+      "Tiyo Jose Alberto",
+      "Tiyo Antonio"
+    ],
+    "explanation": "Si Tiyo Manuel ang nagpalakas ng katawan ni Rizal; si Tiyo Gregorio sa aklat/pagmamasid; at si Tiyo Jose Alberto sa sining."
+  },
+  {
+    "id": 23,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Aling orden ng mga prayle ang nagmay-ari ng Hacienda de Calamba noong ika-19 na siglo matapos mapatalsik ang mga Heswita noong 1768?",
+    "answer": "Dominikano",
+    "aliases": [
+      "Dominicans",
+      "Orden ng mga Dominikano",
+      "Order of Preachers",
+      "OP"
+    ],
+    "choices": [
+      "Dominikano",
+      "Heswita",
+      "Agustino",
+      "Pransiskano"
+    ],
+    "explanation": "Heswita ang unang may-ari; kinuha ng Korona noong 1768; at naging pag-aari ng mga Dominikano noong ika-19 na siglo."
+  },
+  {
+    "id": 24,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ano ang tawag sa mga tagapamahala o umuupa ng malalaking parsela ng lupa sa asyenda tulad ng pamilya Rizal?",
+    "answer": "Inquilino",
+    "aliases": [
+      "Inquilinos"
+    ],
+    "choices": [
+      "Inquilino",
+      "Kasama",
+      "Principalia",
+      "Peninsulares"
+    ],
+    "explanation": "Ang mga Inquilino ang umuupa sa prayle at nagpapaupa o nagpapasaka sa mga kasama (magsasaka)."
+  },
+  {
+    "id": 25,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang hipag ni Doña Teodora na nagparatang sa kanya ng pagtatangkang paglason gamit ang gaas sa tsokolate?",
+    "answer": "Teodora Formoso",
+    "aliases": [
+      "Teodora Formoso de Alberto",
+      "Formoso"
+    ],
+    "choices": [
+      "Teodora Formoso",
+      "Silvestra Ubaldo",
+      "Tomasa Mercado",
+      "Concha Leyva"
+    ],
+    "explanation": "Pinaratangan ni Teodora Formoso (asawa ni Jose Alberto) si Doña Teodora ng paglason kaya pinalakad ito ng ~50 km patungong kulungan sa Sta. Cruz."
+  },
+  {
+    "id": 26,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Kailan naganap ang Cavite Mutiny na naging mitsa ng pagbitay sa GOMBURZA?",
+    "answer": "Enero 20, 1872",
+    "aliases": [
+      "January 20, 1872",
+      "Enero 20 1872"
+    ],
+    "choices": [
+      "Enero 20, 1872",
+      "Pebrero 17, 1872",
+      "Hunyo 19, 1861",
+      "Nobyembre 21, 1849"
+    ],
+    "explanation": "Ang Pag-aalsa sa Cavite ay sumiklab noong Enero 20, 1872."
+  },
+  {
+    "id": 27,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ayon sa opisyal na petsa ng NHCP, kailan binitay ang GOMBURZA sa pamamagitan ng garrote sa Bagumbayan?",
+    "answer": "Pebrero 17, 1872",
+    "aliases": [
+      "February 17, 1872",
+      "Pebrero 17 1872",
+      "Peb 17, 1872"
+    ],
+    "choices": [
+      "Pebrero 17, 1872",
+      "Pebrero 1, 1872",
+      "Enero 20, 1872",
+      "Marso 23, 1877"
+    ],
+    "explanation": "Binitay ang tatlong paring martir (Gomez, Burgos, Zamora) noong Pebrero 17, 1872 (HINDI Pebrero 1)."
+  },
+  {
+    "id": 28,
+    "topic": "Pag-aaral sa Biñan",
+    "question": "Sino ang dating kaklase ng ama ni Rizal na naging pribadong guro niya sa Espanyol at Latin bago pumanaw?",
+    "answer": "Leon Monroy",
+    "aliases": [
+      "Maestro Leon Monroy",
+      "Monroy"
+    ],
+    "choices": [
+      "Leon Monroy",
+      "Maestro Celestino",
+      "Lucas Padua",
+      "Justiniano Aquino Cruz"
+    ],
+    "explanation": "Nang mamatay si Leon Monroy makalipas ang 5 buwan, nagpasya ang ama na ipadala si Rizal sa Biñan."
+  },
+  {
+    "id": 29,
+    "topic": "Pag-aaral sa Biñan",
+    "question": "Sino ang mahigpit na guro ni Rizal sa Biñan na nagpataw ng 5 hanggang 6 na palo araw-araw kahit maganda ang marka?",
+    "answer": "Maestro Justiniano Aquino Cruz",
+    "aliases": [
+      "Justiniano Aquino Cruz",
+      "Justiniano Cruz",
+      "Maestro Justiniano"
+    ],
+    "choices": [
+      "Maestro Justiniano Aquino Cruz",
+      "Padre Jose Bech",
+      "Maestro Celestino",
+      "Padre Magin Fernando"
+    ],
+    "explanation": "Si Maestro Justiniano Aquino Cruz ang guro sa Biñan kung saan 'walang araw na walang hampas'."
+  },
+  {
+    "id": 30,
+    "topic": "Pag-aaral sa Biñan",
+    "question": "Sino ang kaklase at anak ng guro sa Biñan na nakipagbuno kay Rizal dahil sa panunukso sa kaunting kaalaman nito sa Espanyol at Latin?",
+    "answer": "Pedro",
+    "aliases": [
+      "Pedro Cruz"
+    ],
+    "choices": [
+      "Pedro",
+      "Andres Salandanan",
+      "Jose Guevarra",
+      "Arturo Camps"
+    ],
+    "explanation": "Tinalo ni Rizal si Pedro sa wrestling/buno matapos siyang pagtawanan nito."
+  },
+  {
+    "id": 31,
+    "topic": "Pag-aaral sa Biñan",
+    "question": "Sino ang kaklaseng tumalo kay Rizal sa larong bunong-braso sa Biñan dahil mahina ang bisig ni Jose?",
+    "answer": "Andres Salandanan",
+    "aliases": [
+      "Salandanan",
+      "Andres"
+    ],
+    "choices": [
+      "Andres Salandanan",
+      "Pedro",
+      "Jose Guevarra",
+      "Juancho"
+    ],
+    "explanation": "Natalo si Rizal kay Andres Salandanan sa arm-wrestling (bunong-braso)."
+  },
+  {
+    "id": 32,
+    "topic": "Pag-aaral sa Biñan",
+    "question": "Sa anong bapor sumakay si Rizal pauwi ng Calamba mula Biñan noong Disyembre 17, 1870 kasama si Arturo Camps?",
+    "answer": "Bapor Talim",
+    "aliases": [
+      "Talim",
+      "Steamship Talim"
+    ],
+    "choices": [
+      "Bapor Talim",
+      "Salvadora",
+      "Djemnah",
+      "Haiphong"
+    ],
+    "explanation": "Nilisan ni Rizal ang Biñan sakay ng Bapor Talim noong Disyembre 17, 1870."
+  },
+  {
+    "id": 33,
+    "topic": "Ateneo Municipal",
+    "question": "Ano ang dating pangalan ng Ateneo Municipal bago ito naging kolehiyo ng mga Heswita?",
+    "answer": "Escuela Pia",
+    "aliases": [
+      "Escuela Pía",
+      "Paaralan ng Kawanggawa"
+    ],
+    "choices": [
+      "Escuela Pia",
+      "Colegio de San Jose",
+      "Colegio de San Juan de Letran",
+      "Universidad Central"
+    ],
+    "explanation": "Ang Ateneo ay dating Escuela Pía (Paaralan ng Kawanggawa) na itinatag noong 1817 para sa mahihirap na bata sa Maynila."
+  },
+  {
+    "id": 34,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang paring registrar ng Ateneo na unang tumanggi kay Rizal dahil huli sa patalaan, pandak, at sakitin?",
+    "answer": "Padre Magin Fernando",
+    "aliases": [
+      "Padre Magin Ferrando",
+      "Magin Fernando",
+      "Magin Ferrando",
+      "P. Magin Fernando"
+    ],
+    "choices": [
+      "Padre Magin Fernando",
+      "Padre Jose Bech",
+      "Padre Francisco de Paula Sanchez",
+      "Padre Pablo Ramon"
+    ],
+    "explanation": "Si Padre Magin Fernando (Ferrando) ang registrar na tumanggi kay Rizal."
+  },
+  {
+    "id": 35,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang tumulong kay Rizal upang matanggap sa Ateneo, na pamangkin din ng martir na si Padre Jose Burgos?",
+    "answer": "Padre Manuel Xerez Burgos",
+    "aliases": [
+      "Manuel Xerez Burgos",
+      "Manuel Burgos",
+      "Xerez Burgos"
+    ],
+    "choices": [
+      "Padre Manuel Xerez Burgos",
+      "Padre Pedro Casañas",
+      "Padre Rufino Collantes",
+      "Padre Jose Bech"
+    ],
+    "explanation": "Tinulungan siya ni Padre Manuel Xerez Burgos upang makapag-aral sa Ateneo."
+  },
+  {
+    "id": 36,
+    "topic": "Ateneo Municipal",
+    "question": "Ano ang tawag sa imperyo sa klase ng Ateneo para sa mga 'internos' o nakatira sa loob ng kolehiyo, na may pulang bandila?",
+    "answer": "Imperyo Romano",
+    "aliases": [
+      "Romano",
+      "Imperyong Romano",
+      "Roman Empire"
+    ],
+    "choices": [
+      "Imperyo Romano",
+      "Imperyo Carthagena",
+      "Imperyo Aleman",
+      "Imperyo Espanyol"
+    ],
+    "explanation": "Imperyo Romano = internos (nangangasera sa loob, kulay pula). Imperyo Carthagena = externos (sa labas nakatira, kulay asul)."
+  },
+  {
+    "id": 37,
+    "topic": "Ateneo Municipal",
+    "question": "Ano ang pinakamataas na ranggo sa loob ng imperyo sa silid-aralan ng mga Heswita sa Ateneo?",
+    "answer": "Emperador",
+    "aliases": [
+      "Emperor"
+    ],
+    "choices": [
+      "Emperador",
+      "Tribuna",
+      "Dekuryon",
+      "Senturyon"
+    ],
+    "explanation": "Ranggong Ateneo: (1) Emperador, (2) Tribuna, (3) Dekuryon, (4) Senturyon, (5) Tagapagdala ng Bandila."
+  },
+  {
+    "id": 38,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang unang propesor ni Jose Rizal sa kanyang unang taon sa Ateneo (1872–1873)?",
+    "answer": "Padre Jose Bech",
+    "aliases": [
+      "Jose Bech",
+      "P. Jose Bech",
+      "Padre Bech"
+    ],
+    "choices": [
+      "Padre Jose Bech",
+      "Padre Francisco de Paula Sanchez",
+      "Padre Federico Faura",
+      "Padre Pablo Ramon"
+    ],
+    "explanation": "Si Padre Jose Bech ('payat, matangkad, seryoso, mukhang Griyego') ang unang guro ni Jose sa Ateneo."
+  },
+  {
+    "id": 39,
+    "topic": "Ateneo Municipal",
+    "question": "Magkano ang ibinayad ni Rizal para sa karagdagang aralin sa Espanyol sa Colegio de Santa Isabel tuwing tanghali?",
+    "answer": "₱3",
+    "aliases": [
+      "3 piso",
+      "Tatlong piso",
+      "3 pesos",
+      "3"
+    ],
+    "choices": [
+      "₱3",
+      "₱5",
+      "₱10",
+      "₱15"
+    ],
+    "explanation": "Nagbayad si Rizal ng ₱3 kada buwan sa Colegio de Santa Isabel para hasain ang kanyang Espanyol."
+  },
+  {
+    "id": 40,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang paboritong guro ni Rizal sa ikaapat na taon sa Ateneo na humikayat sa kanya na magsulat ng tula at nagtanggol sa Noli Me Tangere?",
+    "answer": "Padre Francisco de Paula Sanchez",
+    "aliases": [
+      "Francisco de Paula Sanchez",
+      "Padre Sanchez",
+      "P. Francisco de Paula Sanchez"
+    ],
+    "choices": [
+      "Padre Francisco de Paula Sanchez",
+      "Padre Jose Bech",
+      "Padre Federico Faura",
+      "Padre Jose Rodriguez"
+    ],
+    "explanation": "Si Padre Francisco de Paula Sanchez ang dakilang tagapagturo at tagapagtanggol ni Rizal."
+  },
+  {
+    "id": 41,
+    "topic": "Ateneo Municipal",
+    "question": "Kailan nagtapos si Rizal sa Ateneo ng Batsilyer sa Sining (Bachiller en Artes) na may karangalang 'Sobresaliente' sa edad na 16?",
+    "answer": "Marso 23, 1877",
+    "aliases": [
+      "March 23, 1877",
+      "Marso 23 1877"
+    ],
+    "choices": [
+      "Marso 23, 1877",
+      "Hunyo 19, 1877",
+      "Mayo 21, 1878",
+      "Nobyembre 25, 1881"
+    ],
+    "explanation": "Nagtapos si Rizal sa Ateneo noong Marso 23, 1877 na may pinakamataas na karangalan (Sobresaliente)."
+  },
+  {
+    "id": 42,
+    "topic": "Ateneo Municipal",
+    "question": "Aling nobela ni Alexandre Dumas ang naging unang paboritong aklat ni Rizal na naging basehan din ng tauhang si Simoun?",
+    "answer": "The Count of Monte Cristo",
+    "aliases": [
+      "Count of Monte Cristo",
+      "El Conde de Montecristo"
+    ],
+    "choices": [
+      "The Count of Monte Cristo",
+      "Universal History",
+      "Uncle Tom's Cabin",
+      "The Wandering Jew"
+    ],
+    "explanation": "Ang The Count of Monte Cristo ni Alexandre Dumas ang labis na kinagiliwan ni Rizal noong kabataan."
+  },
+  {
+    "id": 43,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang may-akda ng 'Travels in the Philippines' na hinangaan ni Rizal dahil sa hulang mawawala sa Espanya ang Pilipinas at papalit ang Amerika?",
+    "answer": "Dr. Feodor Jagor",
+    "aliases": [
+      "Fedor Jagor",
+      "Feodor Jagor",
+      "Dr. Fedor Jagor"
+    ],
+    "choices": [
+      "Dr. Feodor Jagor",
+      "Cesar Cantu",
+      "Alexandre Dumas",
+      "Karl Ullmer"
+    ],
+    "explanation": "Si Dr. Feodor Jagor ang Aleman na sumulat ng Travels in the Philippines na personal ding nakilala ni Rizal sa Berlin."
+  },
+  {
+    "id": 44,
+    "topic": "Ateneo Municipal",
+    "question": "Ano ang pamagat ng pinakaunang tula na isinulat ni Rizal sa Ateneo noong 1874 bilang handog sa kaarawan ng kanyang ina?",
+    "answer": "Mi Primera Inspiracion",
+    "aliases": [
+      "Ang Una Kong Inspirasyon",
+      "Mi Primera Inspiración"
+    ],
+    "choices": [
+      "Mi Primera Inspiracion",
+      "Un Recuerdo a mi Pueblo",
+      "A la Juventud Filipina",
+      "Por la Educacion Recibe Lustre la Patria"
+    ],
+    "explanation": "Mi Primera Inspiración (Ang Una Kong Inspirasyon, 1874) ang unang tula sa Ateneo."
+  },
+  {
+    "id": 45,
+    "topic": "Ateneo Municipal",
+    "question": "Ano ang huling tula na isinulat ni Rizal sa Ateneo noong 1877 bilang pamamaalam sa kanyang mga kaklase?",
+    "answer": "Un Dialogo Alusivo a la Despedida de los Colegiales",
+    "aliases": [
+      "Un Diálogo Alusivo a la Despedida de los Colegiales",
+      "Despedida de los Colegiales"
+    ],
+    "choices": [
+      "Un Dialogo Alusivo a la Despedida de los Colegiales",
+      "Mi Primera Inspiracion",
+      "El Heroismo de Colon",
+      "Felicitacion"
+    ],
+    "explanation": "Un Diálogo Alusivo a la Despedida de los Colegiales ang kanyang huling tula sa Ateneo."
+  },
+  {
+    "id": 46,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Anong kurso ang unang kinuha ni Rizal sa UST noong 1877 bago siya lumipat sa Medisina?",
+    "answer": "Pilosopiya at Letras",
+    "aliases": [
+      "Pilosopiya",
+      "Filosofia y Letras",
+      "Philosophy and Letters"
+    ],
+    "choices": [
+      "Pilosopiya at Letras",
+      "Medisina",
+      "Batas",
+      "Inhenyeriya"
+    ],
+    "explanation": "Unang kumuha si Rizal ng Pilosopiya at Letras (1877-1878) sa UST."
+  },
+  {
+    "id": 47,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Sino ang rektor ng Ateneo na kinonsulta ni Rizal bago lumipat sa Medisina noong 1878?",
+    "answer": "Padre Pablo Ramon",
+    "aliases": [
+      "Pablo Ramon",
+      "Padre Ramon",
+      "P. Pablo Ramon"
+    ],
+    "choices": [
+      "Padre Pablo Ramon",
+      "Padre Jose Bech",
+      "Padre Federico Faura",
+      "Padre Magin Fernando"
+    ],
+    "explanation": "Pinayuhan ni Padre Pablo Ramon, rektor ng Ateneo, si Rizal na kumuha ng Medisina."
+  },
+  {
+    "id": 48,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Anong bokasyonal na kurso sa Ateneo ang sabay na tinapos ni Rizal noong 1878 ngunit naibigay lamang ang lisensya noong Nobyembre 25, 1881 dahil menor de edad pa siya?",
+    "answer": "Agrimensor",
+    "aliases": [
+      "Land Surveying",
+      "Pagsasarbey",
+      "Surveyor",
+      "Perito Agrimensor"
+    ],
+    "choices": [
+      "Agrimensor",
+      "Komersyo",
+      "Mekaniko",
+      "Agrikultura"
+    ],
+    "explanation": "Nagtapos si Rizal ng Agrimensor (surveying) sa Ateneo noong Mayo 21, 1878 (lisensya noong Nob. 25, 1881)."
+  },
+  {
+    "id": 49,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Ano ang sagisag-panulat ni Rizal sa kanyang talaarawang 'Memorias de un Estudiante de Manila' noong 1878?",
+    "answer": "P. Jacinto",
+    "aliases": [
+      "P Jacinto",
+      "Jacinto"
+    ],
+    "choices": [
+      "P. Jacinto",
+      "Laong-Laan",
+      "Dimasalang",
+      "Justo Desiderio"
+    ],
+    "explanation": "Ginamit ni Rizal ang sagisag na 'P. Jacinto' sa Memorias de un Estudiante de Manila."
+  },
+  {
+    "id": 50,
+    "topic": "Mga Pag-ibig ni Rizal",
+    "question": "Sino ang 14-taong-gulang na dalaga mula Lipa, Batangas na itinuturing na unang pag-ibig at unang kabiguan ni Rizal na ikakasal kay Manuel Luz?",
+    "answer": "Segunda Katigbak",
+    "aliases": [
+      "Segunda"
+    ],
+    "choices": [
+      "Segunda Katigbak",
+      "Leonor Rivera",
+      "Leonor Valenzuela",
+      "Julia"
+    ],
+    "explanation": "Si Segunda Katigbak ang unang pag-ibig at kabiguan ni Rizal (nakilala sa Troso, Maynila; engaged kay Manuel Luz)."
+  },
+  {
+    "id": 51,
+    "topic": "Mga Pag-ibig ni Rizal",
+    "question": "Sino ang kapitbahay ni Rizal sa Intramuros na pinadalhan niya ng mga liham-pag-ibig gamit ang invisible ink (tubig at asin)?",
+    "answer": "Leonor Valenzuela",
+    "aliases": [
+      "Orang",
+      "Leonor Valenzuela (Orang)",
+      "Orang Valenzuela"
+    ],
+    "choices": [
+      "Leonor Valenzuela",
+      "Leonor Rivera",
+      "Segunda Katigbak",
+      "Julia"
+    ],
+    "explanation": "Si Leonor Valenzuela ('Orang') ang pinadalhan ng mga liham gamit ang invisible ink na mababasa sa init ng ilaw."
+  },
+  {
+    "id": 52,
+    "topic": "Mga Pag-ibig ni Rizal",
+    "question": "Sino ang itinuturing na pinakamalalim na pag-ibig ni Rizal mula Camiling, Tarlac na naging inspirasyon sa tauhang Maria Clara?",
+    "answer": "Leonor Rivera",
+    "aliases": [
+      "Taimis",
+      "Leonor Rivera (Taimis)"
+    ],
+    "choices": [
+      "Leonor Rivera",
+      "Leonor Valenzuela",
+      "Consuelo Ortega",
+      "O-Sei-San"
+    ],
+    "explanation": "Si Leonor Rivera ('Taimis') ang kasintahan ni Rizal na naging modelo ni Maria Clara sa Noli Me Tangere."
+  },
+  {
+    "id": 53,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Anong tula ni Rizal ang nanalo ng unang gantimpala (plumang pilak na hugis-pakpak) sa timpalak ng Liceo Artistico-Literario noong 1879 na naglalaman ng katagang 'Ang kabataan ang pag-asa ng bayan'?",
+    "answer": "A la Juventud Filipina",
+    "aliases": [
+      "Sa Kabataang Pilipino",
+      "To the Filipino Youth"
+    ],
+    "choices": [
+      "A la Juventud Filipina",
+      "El Consejo de los Dioses",
+      "A Filipinas",
+      "Junto al Pasig"
+    ],
+    "explanation": "A la Juventud Filipina (Sa Kabataang Pilipino, 1879) ang nagpahayag na ang kabataan ang pag-asa ng bayan."
+  },
+  {
+    "id": 54,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Anong alegoryang dula sa tuluyan ang nagwagi ng unang gantimpala (singsing na ginto na may larawan ni Cervantes) sa Liceo Artistico-Literario noong 1880?",
+    "answer": "El Consejo de los Dioses",
+    "aliases": [
+      "Ang Sanggunian ng mga Diyos-Diyosan",
+      "El Consejo de los Dioses (1880)"
+    ],
+    "choices": [
+      "El Consejo de los Dioses",
+      "A la Juventud Filipina",
+      "Junto al Pasig",
+      "Amor Patrio"
+    ],
+    "explanation": "El Consejo de los Dioses ang alegoryang nagparangal kay Cervantes laban kina Homer at Virgil."
+  },
+  {
+    "id": 55,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Sa 'El Consejo de los Dioses', ano ang gantimpalang iginawad kay Cervantes?",
+    "answer": "Laurel",
+    "aliases": [
+      "Koronang Laurel",
+      "Crown of Laurel",
+      "Laurel wreath"
+    ],
+    "choices": [
+      "Laurel",
+      "Trumpeta",
+      "Lira",
+      "Plumang Pilak"
+    ],
+    "explanation": "Hatol ng mga diyos: Trumpeta kay Homer, Lira kay Virgil, at Koronang Laurel kay Cervantes."
+  },
+  {
+    "id": 56,
+    "topic": "Pamantasan ng Santo Tomas",
+    "question": "Ano ang pamagat ng sarswelang may iisang yugto na isinulat ni Rizal at itinanghal ng mga Atenista noong Disyembre 8, 1880 sa saliw ng musika ni Blas Echegoyen?",
+    "answer": "Junto al Pasig",
+    "aliases": [
+      "Sa Tabi ng Pasig"
+    ],
+    "choices": [
+      "Junto al Pasig",
+      "El Consejo de los Dioses",
+      "A Filipinas",
+      "San Eustacio"
+    ],
+    "explanation": "Junto al Pasig (Sa Tabi ng Pasig, Dis. 8, 1880) ay itinanghal sa kapistahan ng Inmaculada Concepcion."
+  },
+  {
+    "id": 57,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Anong barkong Espanyol ang sinakyan ni Rizal mula Maynila patungong Singapore noong Mayo 3, 1882 sa ilalim ni Kapitan Donato Lecha?",
+    "answer": "Salvadora",
+    "aliases": [
+      "SS Salvadora",
+      "Bapor Salvadora"
+    ],
+    "choices": [
+      "Salvadora",
+      "Djemnah",
+      "Haiphong",
+      "City of Rome"
+    ],
+    "explanation": "Sumakay si Rizal sa SS Salvadora patungong Singapore noong Mayo 3, 1882."
+  },
+  {
+    "id": 58,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Anong barkong Pranses ang nilipatan ni Rizal sa Singapore noong Mayo 11, 1882 patungong Europa?",
+    "answer": "Djemnah",
+    "aliases": [
+      "SS Djemnah",
+      "Bapor Djemnah"
+    ],
+    "choices": [
+      "Djemnah",
+      "Salvadora",
+      "Belgic",
+      "Talim"
+    ],
+    "explanation": "Lumipat si Rizal sa barkong Pranses na Djemnah sa Singapore."
+  },
+  {
+    "id": 59,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Anong makasaysayang kastilyo at bilangguan sa Marseilles ang dinalaw ni Rizal noong Hunyo 13, 1882 dahil nabasa niya sa The Count of Monte Cristo?",
+    "answer": "Chateau d'If",
+    "aliases": [
+      "Château d'If",
+      "Chateau d If"
+    ],
+    "choices": [
+      "Chateau d'If",
+      "Bastille",
+      "Vatican",
+      "St. Telmo"
+    ],
+    "explanation": "Dinalaw ni Rizal ang Château d'If sa Marseilles, kung saan ibinilanggo si Edmond Dantes sa Count of Monte Cristo."
+  },
+  {
+    "id": 60,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang pamagat ng unang sanaysay na isinulat ni Rizal sa Espanya na inilathala sa Diariong Tagalog noong Agosto 20, 1882?",
+    "answer": "Amor Patrio",
+    "aliases": [
+      "Pag-ibig sa Tinubuang Lupa",
+      "El Amor Patrio"
+    ],
+    "choices": [
+      "Amor Patrio",
+      "Los Viajes",
+      "Revista de Madrid",
+      "Me Piden Versos"
+    ],
+    "explanation": "Amor Patrio (Pag-ibig sa Tinubuang Lupa) ang unang akda ni Rizal sa Espanya, lumabas noong Agosto 20, 1882."
+  },
+  {
+    "id": 61,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang sagisag-panulat ni Jose Rizal sa sanaysay na 'Amor Patrio' na nangangahulugang 'palaging handa'?",
+    "answer": "Laong-Laan",
+    "aliases": [
+      "Laong Laan",
+      "Laong-laan"
+    ],
+    "choices": [
+      "Laong-Laan",
+      "Dimasalang",
+      "P. Jacinto",
+      "Dolores Manapat"
+    ],
+    "explanation": "Ginamit ni Rizal ang sagisag na 'Laong-Laan' (ever prepared / laging handa) sa Amor Patrio."
+  },
+  {
+    "id": 62,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sino ang nagsalin sa wikang Tagalog ng sanaysay na 'Amor Patrio' para sa pahayagang Diariong Tagalog?",
+    "answer": "Marcelo H. del Pilar",
+    "aliases": [
+      "Marcelo del Pilar",
+      "M.H. del Pilar",
+      "Plaridel"
+    ],
+    "choices": [
+      "Marcelo H. del Pilar",
+      "Graciano Lopez Jaena",
+      "Paciano",
+      "Basilio Teodoro"
+    ],
+    "explanation": "Isinalin ni Marcelo H. del Pilar sa Tagalog ang Amor Patrio ni Rizal."
+  },
+  {
+    "id": 63,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Saang pamantasan sa Madrid nagpatala si Jose Rizal noong Setyembre 1882 para sa Medisina at Pilosopiya at Letras?",
+    "answer": "Universidad Central de Madrid",
+    "aliases": [
+      "Central University of Madrid",
+      "Universidad Central"
+    ],
+    "choices": [
+      "Universidad Central de Madrid",
+      "Universidad de Barcelona",
+      "University of Heidelberg",
+      "Santo Tomas"
+    ],
+    "explanation": "Nag-aral si Rizal sa Universidad Central de Madrid mula 1882."
+  },
+  {
+    "id": 64,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang sagisag ni Rizal nang sumapi siya sa Masonerya (Logia Acacia) noong 1883?",
+    "answer": "Dimasalang",
+    "aliases": [
+      "Dimas-Alang",
+      "Dima-salang"
+    ],
+    "choices": [
+      "Dimasalang",
+      "Laong-Laan",
+      "P. Jacinto",
+      "Justo Desiderio"
+    ],
+    "explanation": "Ginamit ni Rizal ang 'Dimasalang' (Touch Me Not) bilang pangalan sa Masonerya."
+  },
+  {
+    "id": 65,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Kanino inialay ni Rizal ang tulang 'A la Señorita C.O. y R.' noong Agosto 22, 1883 sa Madrid?",
+    "answer": "Consuelo Ortega y Rey",
+    "aliases": [
+      "Consuelo Ortiga y Perez",
+      "Consuelo",
+      "Consuelo Ortega"
+    ],
+    "choices": [
+      "Consuelo Ortega y Rey",
+      "Leonor Rivera",
+      "Segunda Katigbak",
+      "Suzanne Jacoby"
+    ],
+    "explanation": "Inihandog ni Rizal ang tula kay Consuelo Ortega y Rey (anak ni Don Pablo Ortega y Rey)."
+  },
+  {
+    "id": 66,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Kailan binigkas ni Rizal ang kanyang tanyag na talumpating 'Brindis' sa Restaurant Ingles bilang parangal kina Juan Luna at Felix Resurreccion Hidalgo?",
+    "answer": "Hunyo 25, 1884",
+    "aliases": [
+      "June 25, 1884",
+      "Hunyo 25 1884"
+    ],
+    "choices": [
+      "Hunyo 25, 1884",
+      "Hunyo 21, 1884",
+      "Hunyo 19, 1885",
+      "Marso 21, 1887"
+    ],
+    "explanation": "Noong Hunyo 25, 1884 binigkas ni Rizal ang Brindis speech kung saan sinabi niyang 'Ang henyo ay walang bayan'."
+  },
+  {
+    "id": 67,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang obra maestra ni Juan Luna na nanalo ng unang medalyang ginto sa Pambansang Eksposisyon ng Sining sa Madrid noong 1884?",
+    "answer": "Spoliarium",
+    "aliases": [
+      "Ang Spoliarium",
+      "El Spoliarium"
+    ],
+    "choices": [
+      "Spoliarium",
+      "Las Virgenes Cristianas Expuestas al Populacho",
+      "Ang Kamatayan ni Cleopatra",
+      "Sanduguan"
+    ],
+    "explanation": "Ang Spoliarium ni Juan Luna ang nagwagi ng unang medalyang ginto noong 1884."
+  },
+  {
+    "id": 68,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang obra maestra ni Felix Resurreccion Hidalgo na nanalo ng medalyang pilak noong 1884?",
+    "answer": "Las Virgenes Cristianas Expuestas al Populacho",
+    "aliases": [
+      "Las Virgenes Cristianas",
+      "The Christian Virgins Exposed to the Populace"
+    ],
+    "choices": [
+      "Las Virgenes Cristianas Expuestas al Populacho",
+      "Spoliarium",
+      "España y Filipinas",
+      "El Pacto de Sangre"
+    ],
+    "explanation": "Las Virgenes Cristianas Expuestas al Populacho ni Felix R. Hidalgo ang nanalo ng medalyang pilak."
+  },
+  {
+    "id": 69,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sino ang kilalang optalmologong Pranses sa Paris kung kaninong klinika nagpakadalubhasa si Rizal mula Oktubre 1885 hanggang Enero 1886?",
+    "answer": "Dr. Louis de Wecker",
+    "aliases": [
+      "Louis de Wecker",
+      "Dr. de Wecker",
+      "Dr. Wecker"
+    ],
+    "choices": [
+      "Dr. Louis de Wecker",
+      "Dr. Otto Becker",
+      "Dr. Rudolf Virchow",
+      "Dr. Schulzer"
+    ],
+    "explanation": "Nagsanay si Rizal sa ilalim ni Dr. Louis de Wecker sa Paris."
+  },
+  {
+    "id": 70,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sino ang Alemang doktor sa Heidelberg kung kaninong klinika sa mata naging assistant si Rizal noong Pebrero 1886?",
+    "answer": "Dr. Otto Becker",
+    "aliases": [
+      "Otto Becker",
+      "Dr. Becker"
+    ],
+    "choices": [
+      "Dr. Otto Becker",
+      "Dr. Louis de Wecker",
+      "Dr. Feodor Jagor",
+      "Dr. Hans Virchow"
+    ],
+    "explanation": "Nagsanay si Rizal sa Heidelberg sa ilalim ni Dr. Otto Becker."
+  },
+  {
+    "id": 71,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang pamagat ng tula na isinulat ni Rizal noong Abril 22, 1886 sa pampang ng Ilog Neckar sa Alemanya?",
+    "answer": "A las Flores de Heidelberg",
+    "aliases": [
+      "Sa mga Bulaklak ng Heidelberg",
+      "To the Flowers of Heidelberg"
+    ],
+    "choices": [
+      "A las Flores de Heidelberg",
+      "Mi Primera Inspiracion",
+      "Himno al Trabajo",
+      "A Filipinas"
+    ],
+    "explanation": "A las Flores de Heidelberg (Abril 22, 1886) ang tula kung saan binanggit ang mga forget-me-not at Bundok Königstuhl."
+  },
+  {
+    "id": 72,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Anong aklat ang inilakip ni Rizal sa kanyang unang liham kay Propesor Ferdinand Blumentritt noong Hulyo 31, 1886?",
+    "answer": "Aritmetica",
+    "aliases": [
+      "Aritmética",
+      "Aritmetica ni Rufino Baltazar Hernandez"
+    ],
+    "choices": [
+      "Aritmetica",
+      "Noli Me Tangere",
+      "Florante at Laura",
+      "William Tell"
+    ],
+    "explanation": "Ipinadala ni Rizal ang aklat na Aritmética (1868) ni Rufino Baltazar Hernandez na nakasulat sa Espanyol at Tagalog."
+  },
+  {
+    "id": 73,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Kaninong dula tungkol sa kampeon ng kalayaan ng Switzerland ang isinalin ni Rizal sa Tagalog habang nasa Leipzig?",
+    "answer": "William Tell",
+    "aliases": [
+      "Guillermo Tell",
+      "William Tell ni Friedrich Schiller"
+    ],
+    "choices": [
+      "William Tell",
+      "Don Quixote",
+      "Hamlet",
+      "Faust"
+    ],
+    "explanation": "Isinalin ni Rizal sa Tagalog ang William Tell ni Schiller upang ipakilala ang pakikibaka para sa kalayaan."
+  },
+  {
+    "id": 74,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Ano ang pamagat ng siyentipikong papel na binasa ni Rizal sa wikang Aleman sa Lipunang Antropolohikal ng Berlin noong Abril 1887 sa paanyaya ni Dr. Virchow?",
+    "answer": "Tagalische Verskunst",
+    "aliases": [
+      "Ang Sining ng Panulaang Tagalog",
+      "Tagalog Metrical Art"
+    ],
+    "choices": [
+      "Tagalische Verskunst",
+      "Amor Patrio",
+      "Me Piden Versos",
+      "Sobre la Indolencia de los Filipinos"
+    ],
+    "explanation": "Binasa ni Rizal ang 'Tagalische Verskunst' (Ang Sining ng Panulaang Tagalog) sa Berlin."
+  },
+  {
+    "id": 75,
+    "topic": "Noli Me Tangere",
+    "question": "Mula sa anong aklat at kabanata sa Bibliya hinango ang pamagat na 'Noli Me Tangere' na nangangahulugang 'Huwag Mo Akong Salingin'?",
+    "answer": "San Juan 20:17",
+    "aliases": [
+      "Juan 20:17",
+      "Ebanghelyo ni San Juan 20:17",
+      "John 20:17",
+      "St. John 20:17"
+    ],
+    "choices": [
+      "San Juan 20:17",
+      "San Lucas 2:14",
+      "San Mateo 5:3",
+      "San Marcos 16:15"
+    ],
+    "explanation": "Hinango ang pamagat mula sa Ebanghelyo ni San Juan 20:17 (madalas mapagkamalang Lucas sa ibang tala, ngunit Juan ang tama)."
+  },
+  {
+    "id": 76,
+    "topic": "Noli Me Tangere",
+    "question": "Aling tanyag na nobelang Amerikano ni Harriet Beecher Stowe ang naging pangunahing inspirasyon ni Rizal sa pagsulat ng Noli Me Tangere?",
+    "answer": "Uncle Tom's Cabin",
+    "aliases": [
+      "Uncle Toms Cabin"
+    ],
+    "choices": [
+      "Uncle Tom's Cabin",
+      "The Count of Monte Cristo",
+      "Les Miserables",
+      "The Wandering Jew"
+    ],
+    "explanation": "Inihambing ni Rizal ang pagdurusa ng mga aliping Itim sa Uncle Tom's Cabin sa kaapihan ng mga Pilipino sa ilalim ng Espanya."
+  },
+  {
+    "id": 77,
+    "topic": "Noli Me Tangere",
+    "question": "Kailan naganap ang pagtitipon ng mga estudyanteng Pilipino sa Madrid kung saan iminungkahi ni Rizal ang sama-samang pagsulat ng nobela bago ito nabigo?",
+    "answer": "Enero 2, 1884",
+    "aliases": [
+      "January 2, 1884",
+      "Enero 2 1884"
+    ],
+    "choices": [
+      "Enero 2, 1884",
+      "Hunyo 25, 1884",
+      "Marso 21, 1887",
+      "Disyembre 30, 1887"
+    ],
+    "explanation": "Noong Enero 2, 1884, iminungkahi ni Rizal ang grupo, ngunit nabigo ito dahil gustong magsulat ng iba tungkol sa kababaihan o nalulong sa bisyo."
+  },
+  {
+    "id": 78,
+    "topic": "Noli Me Tangere",
+    "question": "Saang bayan sa Alemanya tinapos ni Rizal ang mga huling kabanata ng Noli habang nanunuluyan sa tahanan ng Protestanteng si Pastor Karl Ullmer?",
+    "answer": "Wilhelmsfeld",
+    "aliases": [
+      "Wilhelmsfeld, Germany"
+    ],
+    "choices": [
+      "Wilhelmsfeld",
+      "Heidelberg",
+      "Leipzig",
+      "Berlin"
+    ],
+    "explanation": "Nanirahan si Rizal sa tahanan ni Pastor Karl Ullmer sa Wilhelmsfeld noong Abril hanggang Hunyo 1886."
+  },
+  {
+    "id": 79,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang mayamang kaibigan ni Rizal mula San Miguel, Bulacan na nagpahiram ng ₱300 upang mailimbag ang unang 2,000 kopya ng Noli Me Tangere?",
+    "answer": "Dr. Maximo Viola",
+    "aliases": [
+      "Maximo Viola",
+      "Dr Maximo Viola",
+      "Viola"
+    ],
+    "choices": [
+      "Dr. Maximo Viola",
+      "Valentin Ventura",
+      "Jose Ma. Basa",
+      "Fernando Canon"
+    ],
+    "explanation": "Si Dr. Maximo Viola ang tinaguriang 'tagapagligtas' ng Noli nang pahiramin niya si Rizal ng ₱300 sa Berlin."
+  },
+  {
+    "id": 80,
+    "topic": "Noli Me Tangere",
+    "question": "Aling buong kabanata ang sadyang tinanggal ni Rizal sa manuskrito ng Noli Me Tangere upang makatipid sa gastos sa pagpapalimbag?",
+    "answer": "Elias at Salome",
+    "aliases": [
+      "Kabanatang Elias at Salome",
+      "Elias and Salome"
+    ],
+    "choices": [
+      "Elias at Salome",
+      "Basilio at Crispin",
+      "Ang Pista",
+      "Tala sa Kadiliman"
+    ],
+    "explanation": "Tinanggal ang kabanatang 'Elias at Salome' upang mabawasan ang bilang ng pahina at makatipid sa imprenta."
+  },
+  {
+    "id": 81,
+    "topic": "Noli Me Tangere",
+    "question": "Kailan opisyal na lumabas sa publiko ang unang edisyon ng Noli Me Tangere sa Berlin?",
+    "answer": "Marso 21, 1887",
+    "aliases": [
+      "March 21, 1887",
+      "Marso 21 1887"
+    ],
+    "choices": [
+      "Marso 21, 1887",
+      "Pebrero 21, 1887",
+      "Marso 29, 1887",
+      "Mayo 11, 1887"
+    ],
+    "explanation": "Inilabas ang unang edisyon ng Noli Me Tangere noong Marso 21, 1887 sa Berlin."
+  },
+  {
+    "id": 82,
+    "topic": "Noli Me Tangere",
+    "question": "Ano ang pangalan ng palimbagan sa Berlin kung saan inilimbag ang 2,000 kopya ng Noli Me Tangere?",
+    "answer": "Berliner Buchdruckerei-Aktiengesellschaft",
+    "aliases": [
+      "Berliner Buchdruckerei",
+      "Berliner Buchdruckerei Aktiengesellschaft"
+    ],
+    "choices": [
+      "Berliner Buchdruckerei-Aktiengesellschaft",
+      "Fonda de España",
+      "Imprenta de Santa Tomas",
+      "Diariong Tagalog Press"
+    ],
+    "explanation": "Inilimbag ang Noli sa Berliner Buchdruckerei-Aktiengesellschaft sa halagang ₱300."
+  },
+  {
+    "id": 83,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang liberal na Gobernador-Heneral ng Pilipinas na nagpatawag kay Rizal at nagbigay sa kanya ng tagapagtanggol/bantay na si Tenyente Jose Taviel de Andrade?",
+    "answer": "Emilio Terrero",
+    "aliases": [
+      "Gobernador-Heneral Emilio Terrero",
+      "Gob. Hen. Terrero",
+      "Terrero"
+    ],
+    "choices": [
+      "Emilio Terrero",
+      "Valeriano Weyler",
+      "Narciso Claveria",
+      "Fernando Primo de Rivera"
+    ],
+    "explanation": "Ipinatawag ni Gob-Hen Emilio Terrero si Rizal at binigyan ng bantay na si Don Jose Taviel de Andrade."
+  },
+  {
+    "id": 84,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang rektor ng Ateneo na nagbabala kay Rizal na 'mawawalan siya ng ulo' dahil sa galit ng mga prayle sa Noli Me Tangere?",
+    "answer": "Padre Federico Faura",
+    "aliases": [
+      "Federico Faura",
+      "Padre Faura",
+      "P. Federico Faura"
+    ],
+    "choices": [
+      "Padre Federico Faura",
+      "Padre Francisco de Paula Sanchez",
+      "Padre Jose Bech",
+      "Padre Gregorio Echavarria"
+    ],
+    "explanation": "Binalaan ni Padre Federico Faura si Rizal na posibleng pugutan siya ng ulo dahil sa nobela."
+  },
+  {
+    "id": 85,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang Agustinong kura ng Tondo at pinuno ng Permanenteng Komisyon ng Sensura na nagrekomenda ng lubos na pagbabawal sa Noli?",
+    "answer": "Padre Salvador Font",
+    "aliases": [
+      "Salvador Font",
+      "Padre Font",
+      "P. Salvador Font"
+    ],
+    "choices": [
+      "Padre Salvador Font",
+      "Padre Jose Rodriguez",
+      "Padre Gregorio Echavarria",
+      "Vicente Barrantes"
+    ],
+    "explanation": "Si Padre Salvador Font ang naglabas ng ulat na nag-uutos na ipagbawal ang pag-angkat, pagbasa, at pag-aari ng Noli."
+  },
+  {
+    "id": 86,
+    "topic": "Noli Me Tangere",
+    "question": "Ilang polyeto ang inilabas ni Padre Jose Rodriguez (Superior ng Guadalupe) na nagbababala na 'kasalanang mortal' ang pagbasa sa Noli?",
+    "answer": "8",
+    "aliases": [
+      "Walo",
+      "Walong polyeto",
+      "8 polyeto"
+    ],
+    "choices": [
+      "8",
+      "5",
+      "10",
+      "12"
+    ],
+    "explanation": "Naglabas si Padre Jose Rodriguez ng walong (8) polyeto laban sa Noli Me Tangere."
+  },
+  {
+    "id": 87,
+    "topic": "Noli Me Tangere",
+    "question": "Ano ang pamagat ng polyeto na isinulat ni Marcelo H. del Pilar gamit ang sagisag na 'Dolores Manapat' bilang tugon at panlilinlang laban kay Padre Jose Rodriguez?",
+    "answer": "Caiingat Cayo",
+    "aliases": [
+      "Caiigat Cayo",
+      "Cai-ingat Cayo"
+    ],
+    "choices": [
+      "Caiingat Cayo",
+      "Dasalan at Tocsohan",
+      "La Soberania Monacal",
+      "Fray Botod"
+    ],
+    "explanation": "Sinulat ni Del Pilar ang 'Caiingat Cayo' gamit ang sagisag na Dolores Manapat, na may pabalat na kamukha ng polyeto ni Padre Rodriguez."
+  },
+  {
+    "id": 88,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang Pilipinong paring Katoliko na gumamit ng sagisag na 'Justo Desiderio Magalang' na nagtanggol sa Noli sa isang polyeto sa Singapore noong Hulyo 18, 1888?",
+    "answer": "Padre Vicente Garcia",
+    "aliases": [
+      "Vicente Garcia",
+      "P. Vicente Garcia",
+      "Justo Desiderio Magalang"
+    ],
+    "choices": [
+      "Padre Vicente Garcia",
+      "Padre Jose Burgos",
+      "Padre Mariano Gomez",
+      "Padre Pedro Casañas"
+    ],
+    "explanation": "Ipinagtanggol ni Padre Vicente Garcia si Rizal gamit ang sagisag na Justo Desiderio Magalang."
+  },
+  {
+    "id": 89,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Kailan nagsimula ang pagliliwaliw nina Jose Rizal at Dr. Maximo Viola sa Europa mula Berlin?",
+    "answer": "Mayo 11, 1887",
+    "aliases": [
+      "May 11, 1887",
+      "Mayo 11 1887"
+    ],
+    "choices": [
+      "Mayo 11, 1887",
+      "Marso 21, 1887",
+      "Hunyo 19, 1887",
+      "Hulyo 3, 1887"
+    ],
+    "explanation": "Umalis sina Rizal at Viola sa Berlin noong Mayo 11, 1887 sakay ng tren."
+  },
+  {
+    "id": 90,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Saang bayan sa Bohemia sinalubong ni Propesor Ferdinand Blumentritt sina Rizal at Viola noong Mayo 13, 1887?",
+    "answer": "Leitmeritz",
+    "aliases": [
+      "Litomerice",
+      "Litoměřice"
+    ],
+    "choices": [
+      "Leitmeritz",
+      "Prague",
+      "Vienna",
+      "Munich"
+    ],
+    "explanation": "Sinalubong sila ni Blumentritt sa istasyon ng tren sa Leitmeritz (ngayo'y Litoměřice sa Czech Republic)."
+  },
+  {
+    "id": 91,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Anong lungsod sa Austria ang binisita nina Rizal at Viola noong Mayo 20, 1887 na tinawag na 'Reyna ng Danube' kung saan napansin ni Rizal ang paggamit ng papel na napkin?",
+    "answer": "Vienna",
+    "aliases": [
+      "Viena",
+      "Lungsod ng Vienna"
+    ],
+    "choices": [
+      "Vienna",
+      "Salzburg",
+      "Prague",
+      "Geneva"
+    ],
+    "explanation": "Tinawag na 'Reyna ng Danube' ang Vienna; dito namangha si Rizal sa ganda ng lungsod at sa mga papel na napkin."
+  },
+  {
+    "id": 92,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Anong talon sa Switzerland ang inilarawan ni Rizal bilang 'pinakamagandang talon sa Europa'?",
+    "answer": "Rheinfall",
+    "aliases": [
+      "Rhine Falls",
+      "Talon ng Rheinfall"
+    ],
+    "choices": [
+      "Rheinfall",
+      "Niagara",
+      "Victoria Falls",
+      "Giessbach"
+    ],
+    "explanation": "Tinawag ni Rizal ang Rheinfall (Rhine Falls) sa Schaffhausen na pinakamagandang talon sa Europa."
+  },
+  {
+    "id": 93,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Saang lungsod sa Switzerland ipinagdiwang ni Rizal ang kanyang ika-26 na kaarawan noong Hunyo 19, 1887 bago sila naghiwalay ni Viola?",
+    "answer": "Geneva",
+    "aliases": [
+      "Ginebra",
+      "Geneve"
+    ],
+    "choices": [
+      "Geneva",
+      "Bern",
+      "Basel",
+      "Zurich"
+    ],
+    "explanation": "Ipinagdiwang ni Rizal ang kanyang ika-26 kaarawan sa Geneva noong Hunyo 19, 1887."
+  },
+  {
+    "id": 94,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Anong eksibisyon sa Madrid noong 1887 ang lubos na ikinagalit ni Rizal dahil ipinarada at pinagtawanan ang mga katutubong Pilipino?",
+    "answer": "Eksposisyon ng mga Igorot",
+    "choices": [
+      "Eksposisyon ng mga Igorot",
+      "Paris Exposition",
+      "Madrid Art Exposition",
+      "Universal Exposition"
+    ],
+    "explanation": "Labis na dinamdam at ikinagalit ni Rizal ang pagpaparada sa mga Igorot na parang hayop sa Madrid Exposition noong 1887."
+  },
+  {
+    "id": 95,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Kailan nakarating si Rizal sa Roma na tinawag niyang 'Lungsod ng mga Cesar' at 'Walang Hanggang Lungsod'?",
+    "answer": "Hunyo 27, 1887",
+    "aliases": [
+      "June 27, 1887",
+      "Hunyo 27 1887"
+    ],
+    "choices": [
+      "Hunyo 27, 1887",
+      "Hunyo 29, 1887",
+      "Hulyo 3, 1887",
+      "Agosto 5, 1887"
+    ],
+    "explanation": "Dumating si Rizal sa Roma noong Hunyo 27, 1887 at binisita ang Vatican noong Hunyo 29."
+  },
+  {
+    "id": 96,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Alin sa mga sumusunod ang HINDI kabilang sa apat na dahilan ng pag-uwi ni Rizal sa Pilipinas noong Agosto 1887?",
+    "answer": "Upang mamuno sa armadong rebolusyon ng Katipunan",
+    "aliases": [
+      "Mamuno sa rebolusyon",
+      "Mag-aklas",
+      "Armadong pag-aalsa"
+    ],
+    "choices": [
+      "Upang mamuno sa armadong rebolusyon ng Katipunan",
+      "Nais operahan ang mata ng kanyang ina",
+      "Nais tulungan ang mga kababayang inaapi",
+      "Nais malaman kung bakit walang balita mula kay Leonor Rivera"
+    ],
+    "explanation": "Apat na dahilan: (1) operahan mata ng ina, (2) tulungan ang naaapi, (3) alamin ang epekto ng Noli, at (4) balita kay Leonor Rivera. HINDI rebolusyon."
+  },
+  {
+    "id": 97,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Ano ang itinawag ng mga taga-Calamba kay Rizal dahil nagmula siya sa Alemanya at matagumpay na nagpagaling ng mata?",
+    "answer": "Dr. Uliman",
+    "aliases": [
+      "Doctor Uliman",
+      "Uliman"
+    ],
+    "choices": [
+      "Dr. Uliman",
+      "Dr. Aleman",
+      "Dr. Pepe",
+      "Dr. Dimasalang"
+    ],
+    "explanation": "Tinawag siyang 'Dr. Uliman' (mula sa Aleman/Alemania) ng mga kababayan."
+  },
+  {
+    "id": 98,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Magkano ang kinita ni Rizal sa kanyang panggagamot sa Calamba sa loob ng ilang buwan hanggang Pebrero 1888?",
+    "answer": "₱5,000",
+    "aliases": [
+      "5000 piso",
+      "5,000 piso",
+      "₱5000",
+      "5000 pesos",
+      "5,000 pesos"
+    ],
+    "choices": [
+      "₱5,000",
+      "₱900",
+      "₱1,000",
+      "₱10,000"
+    ],
+    "explanation": "Kumita siya ng ₱900 sa unang ilang buwan at umabot sa mahigit ₱5,000 pagsapit ng Pebrero 1888."
+  },
+  {
+    "id": 99,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Kailan inatasan ng pamahalaan ang bayan ng Calamba na magsiyasat sa lupain ng mga Dominikano kung saan lumagda ang mahigit 50 residente sa reklamo?",
+    "answer": "Disyembre 30, 1887",
+    "aliases": [
+      "December 30, 1887",
+      "Disyembre 30 1887"
+    ],
+    "choices": [
+      "Disyembre 30, 1887",
+      "Agosto 8, 1887",
+      "Pebrero 8, 1888",
+      "Disyembre 17, 1870"
+    ],
+    "explanation": "Noong Disyembre 30, 1887, sinimulan ang opisyal na pagsisiyasat sa reklamo ng mga kasama at inquilino sa Calamba."
+  },
+  {
+    "id": 100,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Anong tula ang isinulat ni Rizal noong 1888 para sa pagdiriwang ng pagiging Villa ng bayan ng Lipa, Batangas?",
+    "answer": "Himno al Trabajo",
+    "aliases": [
+      "Awit sa Paggawa",
+      "Hymn to Labor"
+    ],
+    "choices": [
+      "Himno al Trabajo",
+      "Amor Patrio",
+      "A Filipinas",
+      "Sa mga Bulaklak ng Heidelberg"
+    ],
+    "explanation": "Isinulat ni Rizal ang 'Himno al Trabajo' (Awit sa Paggawa) para sa mga taga-Lipa noong 1888."
+  },
+  {
+    "id": 101,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Sino ang espiyang inatasan ni Gobernador-Heneral Terrero na sumubaybay sa bawat kilos ni Rizal sa Hong Kong noong Pebrero 1888?",
+    "answer": "Jose Sainz de Varanda",
+    "aliases": [
+      "Sainz de Varanda",
+      "Jose de Varanda",
+      "Varanda"
+    ],
+    "choices": [
+      "Jose Sainz de Varanda",
+      "Jose Taviel de Andrade",
+      "Juan Perez Caballero",
+      "Manuel Yriarte"
+    ],
+    "explanation": "Si Jose Sainz de Varanda ang dating kalihim na inatasang mag-espiya kay Rizal sa Hong Kong."
+  },
+  {
+    "id": 102,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Ano ang tawag sa marangyang tradisyunal na salu-salong Tsino na naranasan ni Rizal sa Macau na naglalaman ng shark fin, century egg, at bird's nest?",
+    "answer": "Lauriat",
+    "aliases": [
+      "Lauriang",
+      "Lauriat banquet"
+    ],
+    "choices": [
+      "Lauriat",
+      "Dimsum",
+      "Pancit",
+      "Suki"
+    ],
+    "explanation": "Lauriat ang tawag sa magarbo at mahabang salu-salong Tsino."
+  },
+  {
+    "id": 103,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Sino ang dalagang Haponesa (Seiko Usui) na umibig kay Rizal at naging tagapagsalin at guro niya sa wikang Hapon?",
+    "answer": "O-Sei-San",
+    "aliases": [
+      "Seiko Usui",
+      "O Sei San",
+      "OSeiSan"
+    ],
+    "choices": [
+      "O-Sei-San",
+      "Yuriko",
+      "Guevarra",
+      "Consuelo"
+    ],
+    "explanation": "Si Seiko Usui o 'O-Sei-San' ang minahal ni Rizal sa Japan noong tagsibol ng 1888."
+  },
+  {
+    "id": 104,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Sino ang Hapon na nakasama ni Rizal sa barkong S.S. Belgic patungong Amerika na sumulat ng nobelang 'Bato sa Tubig' kung saan ibinatay kay Rizal ang tauhang 'Takashi Takayama'?",
+    "answer": "Tetcho Suehiro",
+    "aliases": [
+      "Suehiro Tetcho",
+      "Tetcho",
+      "Suehiro"
+    ],
+    "choices": [
+      "Tetcho Suehiro",
+      "Juan Perez Caballero",
+      "Reinaldo Turner",
+      "Leland Stanford"
+    ],
+    "explanation": "Si Tetcho Suehiro, nobelista at mamamahayag na Hapon, ang sumulat ng 'Bato sa Tubig' at 'Nankai-no-Daiharan'."
+  },
+  {
+    "id": 105,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Saang lungsod sa Amerika dumaong ang barkong S.S. Belgic noong Abril 28, 1888 kung saan pinigil ang mga pasahero sa kuwarentina?",
+    "answer": "San Francisco",
+    "aliases": [
+      "San Francisco, California",
+      "San Francisco CA"
+    ],
+    "choices": [
+      "San Francisco",
+      "New York",
+      "Oakland",
+      "Reno"
+    ],
+    "explanation": "Dumaong ang S.S. Belgic sa San Francisco noong Abril 28, 1888."
+  },
+  {
+    "id": 106,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Ano ang tunay na dahilan ng isang linggong kuwarentina sa San Francisco kahit kolera ang opisyal na idinahilan?",
+    "answer": "Pulitika at 643 Tsinong coolie",
+    "aliases": [
+      "Eleksyon at Tsinong coolie",
+      "643 Tsinong coolie",
+      "Pulitika",
+      "Diskriminasyon sa mga Tsino"
+    ],
+    "choices": [
+      "Pulitika at 643 Tsinong coolie",
+      "Tunay na epidemya ng kolera sa barko",
+      "Pagsabog ng bulkan sa Pasipiko",
+      "Digmaan sa pagitan ng US at Espanya"
+    ],
+    "explanation": "Ginamit ang kuwarentina dahil sa nalalapit na eleksyon at takot ng mga manggagawa sa 643 murang manggagawang Tsino (coolies)."
+  },
+  {
+    "id": 107,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Anong barko (pangalawa sa pinakamalaki noon matapos ang Great Eastern) ang sinakyan ni Rizal mula New York patungong Liverpool noong Mayo 16, 1888?",
+    "answer": "City of Rome",
+    "aliases": [
+      "S.S. City of Rome",
+      "SS City of Rome"
+    ],
+    "choices": [
+      "City of Rome",
+      "S.S. Belgic",
+      "Salvadora",
+      "Djemnah"
+    ],
+    "explanation": "Nilisan ni Rizal ang New York sakay ng City of Rome noong Mayo 16, 1888."
+  },
+  {
+    "id": 108,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Ano ang sinabi ni Rizal kay Jose Alejandro sa Brussels hinggil sa kanyang buod ng karanasan sa Estados Unidos?",
+    "answer": "Ang Amerika ay may kalayaan ngunit para lamang sa mga Puti",
+    "aliases": [
+      "Para lamang sa mga Puti",
+      "Kalayaan para lamang sa puti",
+      "Ang Amerika ay isang bansang may napakagaling na kalayaan ngunit para lamang sa mga Puti"
+    ],
+    "choices": [
+      "Ang Amerika ay may kalayaan ngunit para lamang sa mga Puti",
+      "Ang Amerika ang huwaran ng tunay na pagkakapantay-pantay",
+      "Ang Amerika ay walang pag-asa sa hinaharap",
+      "Ang Amerika ay dapat tularan sa lahat ng bagay ng Pilipinas"
+    ],
+    "explanation": "Napansin ni Rizal ang laganap na diskriminasyon sa lahi: 'Ang Amerika ay isang bansang may napakagaling na kalayaan ngunit para lamang sa mga Puti.'"
+  },
+  {
+    "id": 109,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa mga Espanyol na ipinanganak sa Espanya ngunit naninirahan sa Pilipinas na may pinakamataas na kapangyarihan sa pamahalaan at simbahan?",
+    "answer": "Peninsulares",
+    "aliases": [
+      "Peninsular"
+    ],
+    "choices": [
+      "Peninsulares",
+      "Insulares",
+      "Creoles",
+      "Principalia"
+    ],
+    "explanation": "Peninsulares ang tawag sa purong Kastila na isinilang sa Espanya (Iberian Peninsula)."
+  },
+  {
+    "id": 110,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa mga Espanyol na ipinanganak sa Pilipinas na tinatawag ding Creoles?",
+    "answer": "Insulares",
+    "aliases": [
+      "Creoles",
+      "Insular"
+    ],
+    "choices": [
+      "Insulares",
+      "Peninsulares",
+      "Mestizo",
+      "Indio"
+    ],
+    "explanation": "Insulares (o Creoles) ang mga Kastilang ipinanganak sa Pilipinas."
+  },
+  {
+    "id": 111,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa uring panlipunan na binubuo ng mga gobernadorcillo, cabeza de barangay, at mga lokal na mayayaman at edukado?",
+    "answer": "Principalia",
+    "aliases": [
+      "Principales"
+    ],
+    "choices": [
+      "Principalia",
+      "Inquilino",
+      "Peninsulares",
+      "Katutubo"
+    ],
+    "explanation": "Ang Principalia ang lokal na elite o mga namumuno sa bayan."
+  },
+  {
+    "id": 112,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa sapilitang paggawa na ipinataw ng pamahalaang kolonyal sa mga katutubong kalalakihan?",
+    "answer": "Polo y servicio",
+    "aliases": [
+      "Polo",
+      "Polo y Servicio"
+    ],
+    "choices": [
+      "Polo y servicio",
+      "Falla",
+      "Tributo",
+      "Bandala"
+    ],
+    "explanation": "Polo y servicio ang sapilitang pagtatrabaho ng mga indio sa mga imprastraktura ng pamahalaan."
+  },
+  {
+    "id": 113,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Sino ang nagpatigil sa Kalakalang Galeon noong 1811 bilang kinatawan ng Pilipinas sa Cadiz Cortes?",
+    "answer": "Ventura de los Reyes",
+    "aliases": [
+      "Ventura Reyes",
+      "De los Reyes"
+    ],
+    "choices": [
+      "Ventura de los Reyes",
+      "Pedro Paterno",
+      "Jose Burgos",
+      "Manuel Hidalgo"
+    ],
+    "explanation": "Si Ventura de los Reyes ang tanging delegadong Pilipino sa Cadiz na nagpetisyong itigil ang Galeon Trade."
+  },
+  {
+    "id": 114,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Sino ang Pranses na diplomat at inhinyero na namuno sa pagbubukas ng Suez Canal noong Nobyembre 1869?",
+    "answer": "Ferdinand de Lesseps",
+    "aliases": [
+      "De Lesseps",
+      "Ferdinand Lesseps"
+    ],
+    "choices": [
+      "Ferdinand de Lesseps",
+      "Arturo Camps",
+      "Louis de Wecker",
+      "Karl Ullmer"
+    ],
+    "explanation": "Si Ferdinand de Lesseps ang namuno sa konstruksyon at pagbubukas ng Suez Canal noong Nobyembre 1869."
+  },
+  {
+    "id": 115,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang ibig sabihin ng salitang 'Burgomaster' sa Europa?",
+    "answer": "Punong opisyal o alkalde",
+    "aliases": [
+      "Alkalde",
+      "Mayor",
+      "Punong opisyal",
+      "Punong bayan"
+    ],
+    "choices": [
+      "Punong opisyal o alkalde",
+      "Hukom ng simbahan",
+      "May-ari ng barko",
+      "Guro sa pamantasan"
+    ],
+    "explanation": "Ang Burgomaster ay katumbas ng alkalde (mayor) o punong opisyal ng bayan sa Europa."
+  },
+  {
+    "id": 116,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa koleksyon o kalipunan ng mga liham o sulat ng isang makasaysayang tao tulad ni Jose Rizal?",
+    "answer": "Epistolario",
+    "aliases": [
+      "Epistolario Rizalino",
+      "Epistolaryo"
+    ],
+    "choices": [
+      "Epistolario",
+      "Diario",
+      "Memorias",
+      "Manuskrito"
+    ],
+    "explanation": "Ang Epistolario (hal. Epistolario Rizalino) ay koleksyon ng mga liham."
+  },
+  {
+    "id": 117,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa paunang sipi o kopya ng mga pahina mula sa imprenta na iniwawasto ng may-akda bago ang huling paglilimbag?",
+    "answer": "Galley Proofs",
+    "aliases": [
+      "Proof",
+      "Galley proof",
+      "Galley",
+      "Proof sheet"
+    ],
+    "choices": [
+      "Galley Proofs",
+      "Manuskrito",
+      "Edisyon",
+      "Polyeto"
+    ],
+    "explanation": "Galley Proofs ang tawag sa mga subok na pahinang iniwawasto bago ang pinal na paglilimbag."
+  },
+  {
+    "id": 118,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa opisyal na salin sa wikang Latin ng Bibliya?",
+    "answer": "Vulgata",
+    "aliases": [
+      "Vulgate",
+      "Latin Vulgate"
+    ],
+    "choices": [
+      "Vulgata",
+      "Septuagint",
+      "Canon",
+      "Apocrypha"
+    ],
+    "explanation": "Ang Vulgata (Latin Vulgate) ang salin sa Latin ng Bibliya na ginamit ng Simbahang Katoliko."
+  },
+  {
+    "id": 119,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa manggagawang Tsino na mababa ang pasahod na naging isyu sa San Francisco quarantine noong 1888?",
+    "answer": "Coolie",
+    "aliases": [
+      "Kuli",
+      "Coolies"
+    ],
+    "choices": [
+      "Coolie",
+      "Inquilino",
+      "Kasama",
+      "Indio"
+    ],
+    "explanation": "Coolie ang tawag sa mga manwal na manggagawang Tsino na mababa ang pasahod sa Amerika at Asya."
+  },
+  {
+    "id": 120,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Sino ang tinaguriang 'Don Pepe' ng kanyang kasera sa Barcelona na si Señora Silvestra?",
+    "answer": "Jose Rizal",
+    "aliases": [
+      "Rizal",
+      "Pepe"
+    ],
+    "choices": [
+      "Jose Rizal",
+      "Paciano Rizal",
+      "Maximo Viola",
+      "Marcelo del Pilar"
+    ],
+    "explanation": "Tinawag siyang 'Don Pepe' ng kaserang si Señora Silvestra sa Blg. 3 Calle de Sitjes sa Barcelona."
+  },
+  {
+    "id": 121,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Kailan ikinasal ang mga magulang ni Rizal na sina Francisco Mercado at Teodora Alonso?",
+    "answer": "Hunyo 28, 1848",
+    "aliases": [
+      "June 28, 1848",
+      "Hunyo 28 1848"
+    ],
+    "choices": [
+      "Hunyo 28, 1848",
+      "Hunyo 19, 1861",
+      "Nobyembre 21, 1849",
+      "Enero 20, 1872"
+    ],
+    "explanation": "Ikinasal sina Francisco Mercado at Teodora Alonso noong Hunyo 28, 1848."
+  },
+  {
+    "id": 122,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Saang kolehiyo sa Maynila nag-aral ang ina ni Rizal na si Teodora Alonso Realonda?",
+    "answer": "Colegio de Santa Rosa",
+    "aliases": [
+      "Santa Rosa",
+      "Colegio de Sta. Rosa"
+    ],
+    "choices": [
+      "Colegio de Santa Rosa",
+      "Colegio de Santa Isabel",
+      "Colegio de La Concordia",
+      "Ateneo Municipal"
+    ],
+    "explanation": "Nag-aral si Doña Teodora sa Colegio de Santa Rosa sa Maynila, isang tanyag na kolehiyo para sa mga kababaihan."
+  },
+  {
+    "id": 123,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Saang kolehiyo sa Maynila nag-aral ng Latin at Pilosopiya ang ama ni Rizal na si Don Francisco Mercado?",
+    "answer": "Colegio de San Jose",
+    "aliases": [
+      "San Jose",
+      "Colegio de San José"
+    ],
+    "choices": [
+      "Colegio de San Jose",
+      "Colegio de San Juan de Letran",
+      "Ateneo Municipal",
+      "Universidad ng Santo Tomas"
+    ],
+    "explanation": "Nag-aral si Don Francisco Mercado ng Latin at pilosopiya sa Colegio de San Jose sa Maynila."
+  },
+  {
+    "id": 124,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Sino ang asawa ng ikaapat na kapatid ni Rizal na si Olympia na isang telegraph operator?",
+    "answer": "Silvestre Ubaldo",
+    "aliases": [
+      "Silvestre",
+      "Ubaldo"
+    ],
+    "choices": [
+      "Silvestre Ubaldo",
+      "Manuel Timoteo Hidalgo",
+      "Mariano Herbosa",
+      "Daniel Faustino Cruz"
+    ],
+    "explanation": "Si Silvestre Ubaldo, isang telegraph operator, ang naging asawa ni Olympia."
+  },
+  {
+    "id": 125,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ilang kilometro ang tinatayang layo ng sapilitang paglalakad ni Doña Teodora mula Calamba patungong piitan sa Santa Cruz, Laguna?",
+    "answer": "50 km",
+    "aliases": [
+      "50 kilometro",
+      "50",
+      "halos 50 km",
+      "50 kilometros"
+    ],
+    "choices": [
+      "50 km",
+      "20 km",
+      "100 km",
+      "30 km"
+    ],
+    "explanation": "Pinalakad si Doña Teodora ng halos 50 kilometro mula Calamba patungong kabisera ng Santa Cruz, Laguna."
+  },
+  {
+    "id": 126,
+    "topic": "Kapanganakan at Pamilya",
+    "question": "Ilang taon ang itinagal ng pagkabilanggo ni Doña Teodora Alonso sa piitan sa Santa Cruz, Laguna?",
+    "answer": "Mahigit 2 taon",
+    "aliases": [
+      "Mahigit dalawang taon",
+      "2 taon",
+      "Dalawang taon",
+      "higit sa 2 taon",
+      "2.5 taon"
+    ],
+    "choices": [
+      "Mahigit 2 taon",
+      "6 na buwan",
+      "1 taon",
+      "5 taon"
+    ],
+    "explanation": "Ikinulong si Doña Teodora nang mahigit dalawang taon bago napawalang-sala ng Kataas-taasang Hukuman."
+  },
+  {
+    "id": 127,
+    "topic": "Ateneo Municipal",
+    "question": "Sino ang lumikha at nagbansag ng salitang 'enzyme' na nakasama ni Rizal sa laboratoryo sa Heidelberg?",
+    "answer": "Wilhelm Kühne",
+    "aliases": [
+      "Wilhelm Kuhne",
+      "Kuhne",
+      "Wilhelm Kuehne"
+    ],
+    "choices": [
+      "Wilhelm Kühne",
+      "Otto Becker",
+      "Rudolf Virchow",
+      "Louis de Wecker"
+    ],
+    "explanation": "Ang pisyologong si Wilhelm Kühne ang lumikha ng salitang 'enzyme' at nagpatunay na ang retina ng mata ay tumatanggap ng liwanag tulad ng film ng kamera."
+  },
+  {
+    "id": 128,
+    "topic": "Ateneo Municipal",
+    "question": "Kaninong imahen ang inukit ni Rizal sa kahoy ng batikuling na hinangaan ni Padre Lleonart sa Ateneo?",
+    "answer": "Sagradong Puso ni Hesus",
+    "aliases": [
+      "Sagrado Corazon de Jesus",
+      "Sacred Heart of Jesus",
+      "Banal na Puso ni Hesus"
+    ],
+    "choices": [
+      "Sagradong Puso ni Hesus",
+      "San Jose",
+      "Birheng Maria",
+      "Santo Niño"
+    ],
+    "explanation": "Inukit ni Rizal ang Sagradong Puso ni Hesus para kay Padre Lleonart na inilagay sa pinto ng dormitoryo sa Ateneo."
+  },
+  {
+    "id": 129,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sino ang nagpadala ng lihim na telegrama kay Rizal na may kodigong 'dadaong ang Salvadora na may lulang maysakit' bilang hudyat ng pag-alis?",
+    "answer": "Manuel T. Hidalgo",
+    "aliases": [
+      "Manuel Timoteo Hidalgo",
+      "Manuel Hidalgo",
+      "Hidalgo"
+    ],
+    "choices": [
+      "Manuel T. Hidalgo",
+      "Paciano Rizal",
+      "Mariano Herbosa",
+      "Pedro Paterno"
+    ],
+    "explanation": "Ang bayaw ni Rizal na si Manuel T. Hidalgo ang nagpadala ng lihim na telegramang hudyat."
+  },
+  {
+    "id": 130,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Magkano ang kabuuang baong salapi na ibinigay ni Paciano kay Jose Rizal bago ito sumakay sa barkong Salvadora?",
+    "answer": "₱356",
+    "aliases": [
+      "356 piso",
+      "356 pesos",
+      "356",
+      "₱ 356"
+    ],
+    "choices": [
+      "₱356",
+      "₱500",
+      "₱300",
+      "₱1,000"
+    ],
+    "explanation": "Binigyan ni Paciano si Rizal ng ₱356 bilang pabaon sa kanyang lihim na paglalakbay sa Espanya."
+  },
+  {
+    "id": 131,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sino sa mga kapatid ni Rizal ang naghandog sa kanya ng isang diyamanteng singsing bago lumisan patungong Europa noong 1882?",
+    "answer": "Saturnina",
+    "aliases": [
+      "Neneng",
+      "Saturnina Rizal"
+    ],
+    "choices": [
+      "Saturnina",
+      "Narcisa",
+      "Olympia",
+      "Trinidad"
+    ],
+    "explanation": "Ipinagkaloob ni Saturnina (Neneng) ang kanyang singsing na may diyamante upang magsilbing pondo sa oras ng kagipitan."
+  },
+  {
+    "id": 132,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Anong makasaysayang lungsod at daungan sa Yemen ang inihalintulad ni Rizal sa 'Inferno ni Dante' dahil sa matinding init?",
+    "answer": "Aden",
+    "aliases": [
+      "Lungsod ng Aden",
+      "Port of Aden"
+    ],
+    "choices": [
+      "Aden",
+      "Suez",
+      "Port Said",
+      "Naples"
+    ],
+    "explanation": "Inihalintulad ni Rizal ang Aden sa Inferno ni Dante dahil sa tigang na kapaligiran at nakapapasong init."
+  },
+  {
+    "id": 133,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Kaninong sikat na nobelang Pilipino ang tinulungan ni Rizal sa estilo at pagwawasto noong 1885 sa Madrid?",
+    "answer": "Ninay",
+    "aliases": [
+      "Ninay ni Pedro Paterno",
+      "Nínay"
+    ],
+    "choices": [
+      "Ninay",
+      "Florante at Laura",
+      "Banaag at Sikat",
+      "Urbana at Feliza"
+    ],
+    "explanation": "Tinulungan ni Rizal si Pedro Paterno sa nobelang Ninay (1885), ang unang nobelang isinulat ng isang Pilipino."
+  },
+  {
+    "id": 134,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Bakit hindi nakuha ni Jose Rizal ang kanyang diploma sa pagkadoktor sa Medisina mula sa Universidad Central de Madrid?",
+    "answer": "Hindi nagsumite ng tesis at hindi nakabayad ng kaukulang bayarin",
+    "aliases": [
+      "Walang tesis at bayad",
+      "Hindi nagsumite ng tesis",
+      "Hindi nagbayad ng diploma"
+    ],
+    "choices": [
+      "Hindi nagsumite ng tesis at hindi nakabayad ng kaukulang bayarin",
+      "Bumagsak sa huling pagsusulit sa medisina",
+      "Ipinatapon siya palabas ng Espanya",
+      "Nawala ang kanyang mga rekord sa pamantasan"
+    ],
+    "explanation": "Nakuha niya ang Lisensya sa Medisina (1884) at Pilosopiya (1885), ngunit hindi ang diploma ng pagkadoktor dahil sa kawalan ng pondo para sa bayarin at di-pagsumite ng pormal na tesis."
+  },
+  {
+    "id": 135,
+    "topic": "Unang Paglalakbay sa Europa",
+    "question": "Sa anong obra ni Juan Luna nagsilbing modelo si Rizal bilang pambansang pinuno na si Rajah Sikatuna?",
+    "answer": "El Pacto de Sangre",
+    "aliases": [
+      "Ang Sanduguan",
+      "The Blood Compact",
+      "Sanduguan"
+    ],
+    "choices": [
+      "El Pacto de Sangre",
+      "Spoliarium",
+      "Ang Kamatayan ni Cleopatra",
+      "España y Filipinas"
+    ],
+    "explanation": "Nagsilbing modelo si Rizal bilang Sikatuna sa 'El Pacto de Sangre' (Ang Sanduguan) ni Juan Luna."
+  },
+  {
+    "id": 136,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang bantog na Kastilang manunulat na naging tagapayo at tagabasa ng manuskrito ng Noli Me Tangere ni Rizal?",
+    "answer": "Vicente Blasco Ibañez",
+    "aliases": [
+      "Vicente Blasco Ibañez",
+      "Blasco Ibañez",
+      "Vicente Blasco Ibáñez"
+    ],
+    "choices": [
+      "Vicente Blasco Ibañez",
+      "Miguel de Cervantes",
+      "Fernando Canon",
+      "Vicente Barrantes"
+    ],
+    "explanation": "Si Vicente Blasco Ibáñez ang nagsilbing tagapayo at tagabasa ng manuskrito ng Noli Me Tangere."
+  },
+  {
+    "id": 137,
+    "topic": "Noli Me Tangere",
+    "question": "Anong petsa noong taglamig ng 1887 sa Berlin muntik nang sunugin ni Rizal ang manuskrito ng Noli dahil sa labis na gutom, sakit, at kawalan ng pera?",
+    "answer": "Pebrero 21, 1887",
+    "aliases": [
+      "February 21, 1887",
+      "Pebrero 21 1887",
+      "Peb 21, 1887"
+    ],
+    "choices": [
+      "Pebrero 21, 1887",
+      "Marso 21, 1887",
+      "Disyembre 30, 1887",
+      "Enero 2, 1884"
+    ],
+    "explanation": "Noong Pebrero 21, 1887, sa sukdulang gutom at panghihina sa Berlin, muntik nang itapon ni Rizal ang manuskrito sa apoy."
+  },
+  {
+    "id": 138,
+    "topic": "Noli Me Tangere",
+    "question": "Anong petsa iniabot ni Rizal kay Dr. Maximo Viola ang galley proofs, panulat na ginamit, at komplimentaryong kopya ng Noli bilang pasasalamat?",
+    "answer": "Marso 29, 1887",
+    "aliases": [
+      "March 29, 1887",
+      "Marso 29 1887"
+    ],
+    "choices": [
+      "Marso 29, 1887",
+      "Marso 21, 1887",
+      "Mayo 11, 1887",
+      "Hunyo 19, 1887"
+    ],
+    "explanation": "Noong Marso 29, 1887, ibinigay ni Rizal ang orihinal na proofs at panulat kay Viola."
+  },
+  {
+    "id": 139,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang Pilipinong abogado at kaibigan ni Rizal sa London na sumulat ng papuri sa Noli noong Mayo 5, 1887 at inihambing ito sa Don Quixote?",
+    "answer": "Dr. Antonio Ma. Regidor",
+    "aliases": [
+      "Antonio Ma. Regidor",
+      "Antonio Maria Regidor",
+      "Antonio Regidor"
+    ],
+    "choices": [
+      "Dr. Antonio Ma. Regidor",
+      "Ferdinand Blumentritt",
+      "Marcelo H. del Pilar",
+      "Mariano Ponce"
+    ],
+    "explanation": "Pinuri ni Dr. Antonio Ma. Regidor ang nobela noong Mayo 5, 1887 at sinabing kapantay ito ng Don Quixote at Uncle Tom's Cabin."
+  },
+  {
+    "id": 140,
+    "topic": "Noli Me Tangere",
+    "question": "Sino ang rektor ng UST na nagtatag ng komite ng mga dalubhasa na nagdeklara sa Noli bilang 'erehe at subersibo'?",
+    "answer": "Padre Gregorio Echavarria",
+    "aliases": [
+      "Gregorio Echavarria",
+      "Padre Echavarria",
+      "P. Gregorio Echavarria"
+    ],
+    "choices": [
+      "Padre Gregorio Echavarria",
+      "Padre Salvador Font",
+      "Padre Jose Rodriguez",
+      "Padre Federico Faura"
+    ],
+    "explanation": "Si Padre Gregorio Echavarria, Rektor ng UST, ang nagbuo ng komiteng humusga laban sa Noli."
+  },
+  {
+    "id": 141,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Saang hotel sa Leitmeritz nanuluyan sina Jose Rizal at Dr. Maximo Viola habang binibisita si Ferdinand Blumentritt?",
+    "answer": "Hotel Krebs",
+    "aliases": [
+      "Krebs",
+      "Hotel Kraba"
+    ],
+    "choices": [
+      "Hotel Krebs",
+      "Hotel Metropole",
+      "Palace Hotel",
+      "Hotel Victoria"
+    ],
+    "explanation": "Tumuloy sina Rizal at Viola sa Hotel Krebs sa Leitmeritz."
+  },
+  {
+    "id": 142,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Anong lungsod sa Alemanya ang binisita nina Rizal at Viola kung saan nakita nila ang mga kagamitan sa pagpapahirap ng Inkwisisyon at ang tanyag na industriya ng paggawa ng manika?",
+    "answer": "Nuremberg",
+    "aliases": [
+      "Nurnberg",
+      "Nürnberg"
+    ],
+    "choices": [
+      "Nuremberg",
+      "Munich",
+      "Ulm",
+      "Stuttgart"
+    ],
+    "explanation": "Sa Nuremberg nakita ni Rizal ang mga kasangkapang panortyur ng Inkwisisyon at paggawa ng manika."
+  },
+  {
+    "id": 143,
+    "topic": "Pangalawang Paglalakbay sa Europa",
+    "question": "Anong lungsod sa Alemanya ang kinaroroonan ng katedral na may pinakamataas na tore sa buong bansa na inakyat nina Rizal at Viola?",
+    "answer": "Ulm",
+    "aliases": [
+      "Katedral ng Ulm",
+      "Ulm Cathedral"
+    ],
+    "choices": [
+      "Ulm",
+      "Munich",
+      "Heidelberg",
+      "Berlin"
+    ],
+    "explanation": "Umakyat sina Rizal at Viola sa tuktok ng Katedral ng Ulm na may pinakamataas na tore."
+  },
+  {
+    "id": 144,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Sa anong barko lumipat si Jose Rizal sa Saigon patungong Maynila noong kanyang unang pagbabalik sa Pilipinas noong 1887?",
+    "answer": "Haiphong",
+    "aliases": [
+      "Bapor Haiphong",
+      "SS Haiphong"
+    ],
+    "choices": [
+      "Haiphong",
+      "Salvadora",
+      "Djemnah",
+      "Belgic"
+    ],
+    "explanation": "Lumipat si Rizal sa bapor Haiphong sa Saigon at dumaong sa Maynila noong Agosto 5, 1887."
+  },
+  {
+    "id": 145,
+    "topic": "Pagbabalik sa Calamba (1887)",
+    "question": "Alin sa mga sumusunod ang isa sa mga ipinatayong pasilidad ni Rizal sa Calamba upang ilayo ang kabataan sa sugal at bisyo?",
+    "answer": "Himnasyo",
+    "aliases": [
+      "Gymnasium",
+      "Himnasyum",
+      "Gym"
+    ],
+    "choices": [
+      "Himnasyo",
+      "Palimbagan",
+      "Kumbento",
+      "Sabungan"
+    ],
+    "explanation": "Nagtayo si Rizal ng himnasyo sa Calamba kung saan nagturo siya ng eskrima, gymnastics, at paglangoy upang ilayo ang kabataan sa bisyo."
+  },
+  {
+    "id": 146,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Ilang paupahang bahay sa Hong Kong ang napag-alamang pag-aari ng Dominican Order noong bumisita si Rizal noong Pebrero 1888?",
+    "answer": "Mahigit 1,000",
+    "aliases": [
+      "Higit 1,000",
+      "Mahigit 1000",
+      "1,000",
+      "1000"
+    ],
+    "choices": [
+      "Mahigit 1,000",
+      "100",
+      "500",
+      "5,000"
+    ],
+    "explanation": "Napansin ni Rizal na ang mga paring Dominikano ay nagmamay-ari ng mahigit 1,000 paupahang bahay sa Hong Kong."
+  },
+  {
+    "id": 147,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Sino ang Amerikanong tagapagtatag ng bantog na pamantasan sa California na nakatagpo ni Rizal sa Palace Hotel sa San Francisco?",
+    "answer": "Leland Stanford",
+    "aliases": [
+      "Stanford",
+      "Senador Leland Stanford"
+    ],
+    "choices": [
+      "Leland Stanford",
+      "Reinaldo Turner",
+      "George Washington",
+      "Karl Ullmer"
+    ],
+    "explanation": "Nakilala ni Rizal si Leland Stanford (tagapagtatag ng Stanford University) sa Palace Hotel sa San Francisco."
+  },
+  {
+    "id": 148,
+    "topic": "Paglalakbay sa Asya at Amerika",
+    "question": "Sino ang Ingles na naging asawa ni Seiko Usui (O-Sei-San) matapos bitayin si Rizal noong 1896?",
+    "answer": "Alfred Charlton",
+    "aliases": [
+      "Charlton"
+    ],
+    "choices": [
+      "Alfred Charlton",
+      "Arthur Camps",
+      "Tetcho Suehiro",
+      "Karl Ullmer"
+    ],
+    "explanation": "Nagpakasal si O-Sei-San kay Alfred Charlton, isang gurong Ingles ng kemika sa Peers' School."
+  },
+  {
+    "id": 149,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang ibig sabihin ng salitang 'Ekskomunikado' sa batas ng Simbahang Katoliko?",
+    "answer": "Pagtatakwil ng Simbahan sa isang tao",
+    "aliases": [
+      "Itiniwalag sa simbahan",
+      "Pagtitiwalag ng simbahan",
+      "Itiniwalag"
+    ],
+    "choices": [
+      "Pagtatakwil ng Simbahan sa isang tao",
+      "Pagbibigay ng mataas na tungkulin sa simbahan",
+      "Pagtanggap ng banal na sakramento",
+      "Pagpapalaya sa isang preso"
+    ],
+    "explanation": "Ang ekskomunikado ay ang pormal na pagtatakwil o pagtitiwalag ng Simbahan sa isang miyembro dahil sa paglabag sa mga batas ng pananampalataya."
+  },
+  {
+    "id": 150,
+    "topic": "Talahulugan at Terminolohiya",
+    "question": "Ano ang tawag sa parlyamento o kongreso ng Espanya kung saan ninais ng mga repormistang magkaroon ng kinatawan ang Pilipinas?",
+    "answer": "Cortes",
+    "aliases": [
+      "Kortes",
+      "Cortes Generales",
+      "Espanyol na Cortes"
+    ],
+    "choices": [
+      "Cortes",
+      "Audiencia",
+      "Cabildo",
+      "Ayuntamiento"
+    ],
+    "explanation": "Ang Cortes ang lehislatibong kapulungan o kongreso ng bansang Espanya."
+  }
+]
