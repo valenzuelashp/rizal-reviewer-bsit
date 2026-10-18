@@ -1,129 +1,129 @@
 [
   {
     "id": "ent-match-1",
-    "title": "Set 1: 10 Katangian ng Entrepreneurial Mindset",
-    "description": "Itugma ang bawat katangian sa wastong kahulugan o deskripsyon nito ayon sa Module.",
+    "title": "Set 1: 10 Entrepreneurial Mindset Characteristics",
+    "description": "Match each characteristic with its proper definition or description based on the module.",
     "pairs": [
       {
         "left": "Critical Thinking",
-        "right": "Intelektwal na pagsusuri, pagtatasa, at pagkonsepto ng impormasyon bilang gabay sa aksyon",
-        "explanation": "Mapanuring pag-iisip upang makagawa ng rasyonal na desisyon."
+        "right": "Intellectual process of actively analyzing, assessing, and evaluating information",
+        "explanation": "Disciplined thinking to make rational and informed decisions."
       },
       {
         "left": "Flexibility and Adaptability",
-        "right": "Kakayahang mag-adjust sa mabilis na pagbabago sa merkado at teknolohiya",
-        "explanation": "Bukas sa pagbabago upang manatiling may kaugnayan sa merkado."
+        "right": "Capacity to adjust quickly to rapid changes in technology and markets",
+        "explanation": "Remaining receptive to new conditions to stay relevant."
       },
       {
         "left": "Opportunity Recognition",
-        "right": "Pagtukoy sa mga problema ng tao at unmet needs na pwedeng gawing negosyo",
-        "explanation": "Kakayahang makakita ng solusyon at negosyo sa pang-araw-araw na suliranin."
+        "right": "Identifying problems and unmet customer needs as business opportunities",
+        "explanation": "The ability to spot viable business solutions within everyday consumer challenges."
       },
       {
         "left": "Resilience",
-        "right": "Mabilis na pagbangon mula sa kabiguan at paggamit nito bilang aral",
-        "explanation": "Pagpapanatili ng positibong pananaw matapos magkamali o matalo."
+        "right": "Bouncing back swiftly from failures and using them as learning experiences",
+        "explanation": "Maintaining positive momentum after encountering setbacks or errors."
       },
       {
         "left": "Resourcefulness",
-        "right": "Epektibong paggamit ng limitadong resources at paghahanap ng alternatibo",
-        "explanation": "Paggawa ng paraan kahit kulang ang pondo o kagamitan."
+        "right": "Maximizing limited resources and discovering innovative alternatives",
+        "explanation": "Finding effective workarounds despite budgetary or physical constraints."
       }
     ]
   },
   {
     "id": "ent-match-2",
-    "title": "Set 2: Tatlong Anyo ng Estruktura ng Negosyo",
-    "description": "Itugma ang bawat anyo ng negosyo sa kaukulang katangian, kalakasan, o kahinaan nito.",
+    "title": "Set 2: Three Forms of Business Structures",
+    "description": "Match each business structure with its key feature, advantage, or liability model.",
     "pairs": [
       {
         "left": "Sole Proprietorship",
-        "right": "Pag-aari ng iisang tao; may ganap na kontrol ngunit may Unlimited Liability",
-        "explanation": "Madaling itayo via DTI ngunit damay ang sariling ari-arian sa utang."
+        "right": "Owned by one individual; total control but bears Unlimited Liability",
+        "explanation": "Simple to launch via DTI, but personal property is vulnerable to business debts."
       },
       {
         "left": "Partnership",
-        "right": "Pag-aari ng 2 o higit pa; pinagsamang talino at puhunan ngunit may Limited Life",
-        "explanation": "Nabubuwag kapag umalis o pumanaw ang isang partner."
+        "right": "Owned by 2+ individuals; pooled capital and skills but has Limited Life",
+        "explanation": "Dissolves upon the withdrawal, bankruptcy, or death of a partner."
       },
       {
         "left": "Corporation",
-        "right": "Hiwalay na legal entity; may Limited Liability at Perpetual Existence",
-        "explanation": "Pag-aari ng mga shareholder at inirehistro sa SEC."
+        "right": "Separate legal entity; features Limited Liability and Perpetual Existence",
+        "explanation": "Owned by shareholders and legally registered through the SEC."
       },
       {
         "left": "General Partners",
-        "right": "Mga kasosyo sa partnership na may personal at unlimited liability sa mga utang",
-        "explanation": "Sila ang namamahala at sumasagot sa obligasyon ng partnership."
+        "right": "Partners personally subject to unlimited liability for business debts",
+        "explanation": "Actively manage the firm and answer for partnership obligations."
       },
       {
         "left": "Shareholders / Stockholders",
-        "right": "Mga may-ari ng korporasyon na ang pananagutan ay hanggang sa halaga lamang ng shares",
-        "explanation": "Hindi madadamay ang kanilang personal na ari-arian."
+        "right": "Owners whose financial liability is limited to the value of their shareholdings",
+        "explanation": "Personal assets remain insulated from corporate insolvency."
       }
     ]
   },
   {
     "id": "ent-match-3",
-    "title": "Set 3: Mga Ahensya at Dokumento sa Pagpaparehistro",
-    "description": "Itugma ang bawat ahensya o dokumento sa kanyang layunin o gamit sa negosyo.",
+    "title": "Set 3: Registration Agencies and Documents",
+    "description": "Match each government agency or permit with its primary purpose in business registration.",
     "pairs": [
       {
         "left": "DTI (Dept. of Trade and Industry)",
-        "right": "Rehistrasyon ng Business Name para sa Sole Proprietorship",
-        "explanation": "Nagbibigay ng DTI Business Name Certificate."
+        "right": "Business Name registration for Sole Proprietorships",
+        "explanation": "Issues the DTI Business Name Certificate."
       },
       {
         "left": "SEC (Securities and Exchange Commission)",
-        "right": "Rehistrasyon ng mga Partnership at Korporasyon",
-        "explanation": "Nagpapatunay ng legalidad ng korporasyon at sosyohan."
+        "right": "Registration and regulation of Partnerships and Corporations",
+        "explanation": "Certifies the legal personality of corporate and partnership entities."
       },
       {
         "left": "BIR (Bureau of Internal Revenue)",
-        "right": "Pagkuha ng TIN, pagpaparehistro ng libro, at Official Receipts (OR)",
-        "explanation": "Ahensya para sa pambansang buwis ng lahat ng negosyo."
+        "right": "Issuance of TIN, registration of books of accounts, and official receipts",
+        "explanation": "National tax authority overseeing tax compliance and Form 2303."
       },
       {
         "left": "Barangay Clearance",
-        "right": "Unang lokal na clearance na kailangan bago ang Mayor's Permit",
-        "explanation": "Kinukuha sa barangay kung saan itatayo ang tindahan."
+        "right": "Initial local community permit required before applying for a Mayor's Permit",
+        "explanation": "Secured from the local barangay where the enterprise is situated."
       },
       {
         "left": "Mayor's / Business Permit",
-        "right": "Pinal na lisensya mula sa City o Municipal Hall upang legal na makapag-operate",
-        "explanation": "Inilalabas matapos makumpleto ang sanitary, fire, at barangay clearances."
+        "right": "Final operational license issued by the City or Municipal Hall",
+        "explanation": "Granted by the BPLO upon completing fire, sanitary, and barangay clearances."
       }
     ]
   },
   {
     "id": "ent-match-4",
-    "title": "Set 4: Mga Eksperto, Konsepto, at Patakaran",
-    "description": "Itugma ang bawat tao o konsepto sa kanyang kaukulang kontribusyon o alituntunin.",
+    "title": "Set 4: Experts, Concepts, and Class Policies",
+    "description": "Match each individual, concept, or rule with its contribution or guideline.",
     "pairs": [
       {
         "left": "Entreprendre",
-        "right": "Salitang Pranses na pinagmulan ng entrepreneur ('to undertake')",
-        "explanation": "Etimolohiya ng entrepreneurship."
+        "right": "French origin of entrepreneur meaning 'to undertake'",
+        "explanation": "Linguistic root of entrepreneurship."
       },
       {
         "left": "Joey E. Concepcion",
-        "right": "Tagapagtatag ng Go Negosyo na nagtaguyod ng tamang mindset sa Pilipinas",
-        "explanation": "Advocate ng micro, small, and medium enterprises (MSMEs)."
+        "right": "Founder of Go Negosyo advocating entrepreneurial mindset in the Philippines",
+        "explanation": "Leading advocate for MSMEs and mindset transformation."
       },
       {
         "left": "Barringer & Ireland (2019)",
-        "right": "Nagbigay-diin sa entrepreneur bilang innovator at risk-taker",
-        "explanation": "Mga kilalang may-akda ng batayang aklat sa entrepreneurship."
+        "right": "Highlighted the entrepreneur as an innovator who assumes risks",
+        "explanation": "Renowned authors of foundational entrepreneurship texts."
       },
       {
         "left": "V. Ratten (2023)",
-        "right": "Naglatag ng 5 Key Elements ng Entrepreneurship (Opportunity, Innovation, atbp.)",
-        "explanation": "Iskolar na sumulat ukol sa makabagong proseso ng value creation."
+        "right": "Formulated the 5 Key Elements of Entrepreneurship (Opportunity, Innovation, etc.)",
+        "explanation": "Scholar who detailed the contemporary process of entrepreneurial value creation."
       },
       {
         "left": "15-Minute Grace Period",
-        "right": "Palugit sa pagpasok sa klase sa TUP bago markahang huli (tardy)",
-        "explanation": "Patakaran sa attendance ng klase ni Ms. Tonggao."
+        "right": "Leniency window for class arrival before being marked tardy at TUP",
+        "explanation": "Official attendance decorum in Ms. Tonggao's course."
       }
     ]
   }

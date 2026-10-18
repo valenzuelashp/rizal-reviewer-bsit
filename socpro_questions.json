@@ -1,16 +1,17 @@
 [
   {
     "id": 1,
-    "topic": "Konsepto ng Privacy at Teorya",
-    "question": "Sino ang sumulat ng seminal na artikulo sa Harvard Law Review noong 1890 na nagbigay-kahulugan sa privacy bilang 'the right to be let alone' (karapatang mapag-isa)?",
+    "topic": "Privacy Concepts and Theories",
+    "question": "Who authored the seminal 1890 Harvard Law Review article that defined privacy as 'the right to be let alone'?",
     "answer": "Warren and Brandeis",
     "aliases": [
-      "Warren at Brandeis",
+      "Warren and Brandeis",
       "Samuel Warren and Louis Brandeis",
-      "Samuel Warren at Louis Brandeis",
-      "Brandeis and Warren",
       "Warren & Brandeis",
-      "Warren and Brandeis (1890)"
+      "Brandeis and Warren",
+      "Warren and Brandeis (1890)",
+      "Samuel Warren",
+      "Louis Brandeis"
     ],
     "choices": [
       "Warren and Brandeis",
@@ -18,16 +19,17 @@
       "Helen Nissenbaum",
       "Ann Cavoukian"
     ],
-    "explanation": "Noong 1890, inilathala nina Samuel Warren at Louis Brandeis ang 'The Right to Privacy' sa Harvard Law Review, na nagpapakahulugan sa privacy bilang kalayaan mula sa panghihimasok sa sariling buhay (being let alone)."
+    "explanation": "In 1890, Samuel Warren and Louis Brandeis published 'The Right to Privacy' in the Harvard Law Review, defining privacy as freedom from unwarranted interference ('the right to be let alone')."
   },
   {
     "id": 2,
-    "topic": "Konsepto ng Privacy at Teorya",
-    "question": "Sino ang may-akda ng librong 'Privacy and Freedom' (1967) na nagpaliwanag sa privacy bilang 'control over information' o kontrol ng indibidwal sa kung ano ang ipinapahayag tungkol sa kanyang sarili?",
+    "topic": "Privacy Concepts and Theories",
+    "question": "Who authored 'Privacy and Freedom' (1967), defining privacy as an individual's 'control over information' regarding what is communicated about themselves?",
     "answer": "Alan Westin",
     "aliases": [
-      "Westin",
+      "Alan Westin",
       "Alan F. Westin",
+      "Westin",
       "Alan F Westin",
       "Westin (1967)"
     ],
@@ -37,18 +39,19 @@
       "Warren and Brandeis",
       "Nancy Leveson"
     ],
-    "explanation": "Ayon kay Alan Westin (1967), ang privacy ay ang karapatan ng indibidwal na magpasya kung kailan, paano, at gaano karaming impormasyon tungkol sa kanila ang ibabahagi sa iba (consent-based)."
+    "explanation": "According to Alan Westin (1967), privacy is the claim of individuals to determine for themselves when, how, and to what extent information about them is communicated to others (consent-based)."
   },
   {
     "id": 3,
-    "topic": "Konsepto ng Privacy at Teorya",
-    "question": "Anong balangkas o working test na binuo ni Helen Nissenbaum (2010) ang nagsasabing ang paglabag sa privacy ay hindi nasusukat sa panghihimasok lamang kundi sa paglihis ng daloy ng impormasyon mula sa mga nakagawiang pamantayan (norms) ng pinagmulan nito?",
+    "topic": "Privacy Concepts and Theories",
+    "question": "What conceptual framework developed by Helen Nissenbaum (2010) states that privacy violations occur when information flows depart from established contextual norms rather than mere intrusion?",
     "answer": "Contextual Integrity",
     "aliases": [
-      "Integridad sa Konteksto",
+      "Contextual Integrity",
       "Contextual integrity framework",
-      "Teorya ng Contextual Integrity",
-      "Nissenbaum contextual integrity"
+      "Theory of Contextual Integrity",
+      "Nissenbaum contextual integrity",
+      "Contextual Integrity Theory"
     ],
     "choices": [
       "Contextual Integrity",
@@ -56,14 +59,15 @@
       "Informed Consent",
       "Proportionality Test"
     ],
-    "explanation": "Itinuturo ng Contextual Integrity ni Helen Nissenbaum (2010) na ang impormasyon ay may kontekstwal na pamantayan; ang paglabag ay nagaganap kapag ang datos na kinuha para sa isang layunin ay tahimik na dumaloy sa ibang konteksto."
+    "explanation": "Helen Nissenbaum's Contextual Integrity (2010) posits that information flows are governed by contextual norms; breaches occur when data gathered for one purpose quietly migrates into a different context."
   },
   {
     "id": 4,
-    "topic": "Mga Batas at Kodigo",
-    "question": "Ano ang opisyal na bilang ng Republic Act na kilala bilang Data Privacy Act of 2012 sa Pilipinas?",
+    "topic": "Laws and Codes",
+    "question": "What is the official Republic Act number known as the Data Privacy Act of 2012 in the Philippines?",
     "answer": "Republic Act No. 10173",
     "aliases": [
+      "Republic Act No. 10173",
       "RA 10173",
       "R.A. 10173",
       "RA No. 10173",
@@ -77,37 +81,40 @@
       "Republic Act No. 8792",
       "Republic Act No. 10844"
     ],
-    "explanation": "Ang Data Privacy Act of 2012 ay Republic Act No. 10173, nilagdaan noong 2012 upang protektahan ang pundamental na karapatan ng tao sa privacy habang pinapanatili ang malayang daloy ng impormasyon."
+    "explanation": "The Data Privacy Act of 2012 is Republic Act No. 10173, enacted to protect the fundamental human right to privacy while ensuring the free flow of information."
   },
   {
     "id": 5,
-    "topic": "Mga Batas at Kodigo",
-    "question": "Anong mga seksyon sa ACM Code of Ethics and Professional Conduct ang nagsisilbing batayang propesyonal para sa privacy at confidentiality ng personal data?",
-    "answer": "ACM Code 1.6 at 1.7",
+    "topic": "Laws and Codes",
+    "question": "Which sections in the ACM Code of Ethics and Professional Conduct serve as the engineering foundation for respecting privacy and honoring confidentiality?",
+    "answer": "ACM Code 1.6 and 1.7",
     "aliases": [
       "ACM Code 1.6 and 1.7",
-      "1.6 at 1.7",
+      "1.6 and 1.7",
       "ACM 1.6 and 1.7",
-      "ACM Code 1.6",
+      "ACM Code 1.6 & 1.7",
+      "1.6 & 1.7",
       "ACM 1.6",
-      "1.6 and 1.7"
+      "ACM 1.7",
+      "ACM Code 1.6",
+      "ACM Code 1.7"
     ],
     "choices": [
-      "ACM Code 1.6 at 1.7",
-      "ACM Code 2.1 at 2.2",
-      "ACM Code 3.1 at 3.2",
-      "ACM Code 4.1 at 4.2"
+      "ACM Code 1.6 and 1.7",
+      "ACM Code 2.1 and 2.2",
+      "ACM Code 3.1 and 3.2",
+      "ACM Code 4.1 and 4.2"
     ],
-    "explanation": "Ang ACM Code 1.6 ay 'Respect privacy' at ang 1.7 ay 'Honor confidentiality'—ang mga propesyonal na pamantayang pang-inhinyero sa paghawak ng personal na impormasyon."
+    "explanation": "ACM Code 1.6 is 'Respect privacy' and ACM Code 1.7 is 'Honor confidentiality'—the core computing professional standards for managing personal data."
   },
   {
     "id": 6,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Ayon sa RA 10173, ano ang tawag sa indibidwal na ang personal, sensitibo, o pribilehiyong impormasyon ay pinoproseso?",
+    "topic": "Actors in RA 10173",
+    "question": "Under RA 10173, what is the term for an individual whose personal, sensitive, or privileged information is being processed?",
     "answer": "Data Subject",
     "aliases": [
+      "Data Subject",
       "Data subject",
-      "Paksa ng Datos",
       "Data subjects"
     ],
     "choices": [
@@ -116,18 +123,18 @@
       "Personal Information Processor",
       "Data Protection Officer"
     ],
-    "explanation": "Ang Data Subject ay ang indibidwal na nagmamay-ari ng impormasyong pinoproseso ng isang sistema o organisasyon."
+    "explanation": "The Data Subject is the individual whose personal, sensitive personal, or privileged information is processed."
   },
   {
     "id": 7,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Ano ang tawag sa tao o organisasyong nagpapasya kung anong impormasyon ang kokolektahin, bakit ito ipoproseso, at paano ito gagamitin (halimbawa, ang pamantasan sa isang enrollment system)?",
+    "topic": "Actors in RA 10173",
+    "question": "What term refers to a person or organization that controls the collection, holding, processing, or use of personal information (e.g., a university in an enrollment system)?",
     "answer": "Personal Information Controller",
     "aliases": [
+      "Personal Information Controller",
       "PIC",
-      "Personal information controller",
       "Controller",
-      "PIC (Personal Information Controller)"
+      "Personal Information Controller (PIC)"
     ],
     "choices": [
       "Personal Information Controller",
@@ -135,18 +142,18 @@
       "Data Protection Officer",
       "National Privacy Commission"
     ],
-    "explanation": "Ang Personal Information Controller (PIC) ang may kontrol at pananagutan sa pagpapasiya ng layunin at paraan ng pagproseso ng personal na datos."
+    "explanation": "The Personal Information Controller (PIC) decides the purpose and means of processing personal data and retains overall accountability under Section 21."
   },
   {
     "id": 8,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Ano ang tawag sa ikatlong partidong nagpoproseso ng personal na datos para at sa ngalan ng Personal Information Controller (halimbawa, isang cloud hosting provider o hosted LMS vendor)?",
+    "topic": "Actors in RA 10173",
+    "question": "What term refers to a third-party entity to whom a personal information controller outsources the processing of personal data (e.g., a cloud hosting provider or hosted LMS vendor)?",
     "answer": "Personal Information Processor",
     "aliases": [
+      "Personal Information Processor",
       "PIP",
-      "Personal information processor",
       "Processor",
-      "PIP (Personal Information Processor)"
+      "Personal Information Processor (PIP)"
     ],
     "choices": [
       "Personal Information Processor",
@@ -154,17 +161,17 @@
       "Data Subject",
       "System Administrator"
     ],
-    "explanation": "Ang Personal Information Processor (PIP) ay sinumang pinagkakatiwalaan ng PIC upang magproseso ng datos para sa controller."
+    "explanation": "The Personal Information Processor (PIP) processes personal data on behalf of and under the instructions and contract of a controller."
   },
   {
     "id": 9,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Sino ang indibidwal sa loob ng isang organisasyon na inatasan upang subaybayan ang pagsunod sa RA 10173 at magsilbing opisyal na contact point para sa data subjects at NPC?",
+    "topic": "Actors in RA 10173",
+    "question": "Who is the designated individual within an organization tasked with monitoring compliance with RA 10173 and serving as the contact point for data subjects and the NPC?",
     "answer": "Data Protection Officer",
     "aliases": [
+      "Data Protection Officer",
       "DPO",
-      "Data Protection Officer (DPO)",
-      "Opisyal sa Proteksyon ng Datos"
+      "Data Protection Officer (DPO)"
     ],
     "choices": [
       "Data Protection Officer",
@@ -172,16 +179,16 @@
       "Chief Security Officer",
       "Compliance Auditor"
     ],
-    "explanation": "Ang Data Protection Officer (DPO) ang namamahala sa pagsunod ng organisasyon sa mga patakaran ng privacy at nagsisilbing tulay sa National Privacy Commission."
+    "explanation": "The Data Protection Officer (DPO) oversees the organization's privacy compliance program and serves as the liaison to the National Privacy Commission."
   },
   {
     "id": 10,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Anong ahensya ng pamahalaan ang nilikha ng RA 10173 upang magpatupad, mangasiwa, at mag-isyu ng mga alituntunin ukol sa proteksyon ng datos sa Pilipinas?",
+    "topic": "Actors in RA 10173",
+    "question": "What independent regulatory agency was established by RA 10173 to administer, implement, and monitor data protection policies in the Philippines?",
     "answer": "National Privacy Commission",
     "aliases": [
+      "National Privacy Commission",
       "NPC",
-      "Pambansang Komisyon sa Pagkapribado",
       "National Privacy Commission (NPC)"
     ],
     "choices": [
@@ -190,16 +197,16 @@
       "Cybercrime Investigation and Coordinating Center",
       "National Telecommunications Commission"
     ],
-    "explanation": "Ang National Privacy Commission (NPC) ang independiyenteng regulatory body na nagpapatupad ng Data Privacy Act of 2012."
+    "explanation": "The National Privacy Commission (NPC) is the regulatory body mandated to administer and enforce the provisions of the Data Privacy Act of 2012."
   },
   {
     "id": 11,
-    "topic": "Mga Kategorya ng Impormasyon",
-    "question": "Anong kategorya ng datos sa ilalim ng Section 3(g) ang tumutukoy sa anumang impormasyon kung saan ang pagkakakilanlan ng isang tao ay lantad o madaling matutukoy (halimbawa: pangalan na may tirahan, student number, email, o litrato)?",
+    "topic": "Information Categories",
+    "question": "Which information category under Section 3(g) refers to any information from which the identity of an individual is apparent or can be reasonably and directly ascertained (e.g., full name, home address, student ID, email)?",
     "answer": "Personal Information",
     "aliases": [
+      "Personal Information",
       "Personal information",
-      "Personal na Impormasyon",
       "PI",
       "Personal data"
     ],
@@ -209,16 +216,16 @@
       "Privileged Information",
       "Public Information"
     ],
-    "explanation": "Personal Information (Sec. 3g) ang anumang datos na nagpapakilala o makatwirang makapagtuturo sa pagkakakilanlan ng isang indibidwal."
+    "explanation": "Personal Information (Sec. 3g) refers to any information from which the identity of an individual is apparent or can be reasonably ascertained."
   },
   {
     "id": 12,
-    "topic": "Mga Kategorya ng Impormasyon",
-    "question": "Sa ilalim ng Section 3(l), ang mga grado (grades/education), edad, marital status, medikal na tala, at government IDs (SSS, TIN) ay inuuri bilang anong uri ng impormasyon?",
+    "topic": "Information Categories",
+    "question": "Under Section 3(l), academic grades/records, age, marital status, health records, and government-issued IDs (SSS, TIN) are classified under which category?",
     "answer": "Sensitive Personal Information",
     "aliases": [
+      "Sensitive Personal Information",
       "Sensitive personal information",
-      "Sensitibong Personal na Impormasyon",
       "SPI"
     ],
     "choices": [
@@ -227,16 +234,16 @@
       "Privileged Information",
       "Confidential Business Data"
     ],
-    "explanation": "Ayon sa Sec. 3(l), ang edukasyon, kalusugan, edad, marital status, at mga ID na bigay ng gobyerno ay kabilang sa Sensitive Personal Information na may mas mahigpit na proteksyon at mas mabigat na parusa."
+    "explanation": "Section 3(l) defines Sensitive Personal Information as data concerning an individual's race, marital status, age, health, education, genetic data, court proceedings, and government-issued ID numbers."
   },
   {
     "id": 13,
-    "topic": "Mga Kategorya ng Impormasyon",
-    "question": "Anong kategorya ng datos sa ilalim ng Section 3(k) ang sumasaklaw sa mga komunikasyong itinuturing ng Rules of Court na hindi maaaring piliting ibunyag (tulad ng abogado-kliyente, doktor-pasyente, pari-nagkukumpisal)?",
+    "topic": "Information Categories",
+    "question": "Which category under Section 3(k) encompasses communications and records protected from disclosure by the Rules of Court (e.g., attorney-client, doctor-patient, priest-penitent)?",
     "answer": "Privileged Information",
     "aliases": [
-      "Privileged information",
-      "Pribilehiyong Impormasyon"
+      "Privileged Information",
+      "Privileged information"
     ],
     "choices": [
       "Privileged Information",
@@ -244,17 +251,17 @@
       "Personal Information",
       "Classified Information"
     ],
-    "explanation": "Ang Privileged Information (Sec. 3k) ay protektado ng Rules of Court (hal. komunikasyon sa pagitan ng abogado at kliyente, o manggagamot at pasyente)."
+    "explanation": "Privileged Information (Sec. 3k) refers to any and all forms of data which under the Rules of Court and other pertinent laws constitute privileged communication."
   },
   {
     "id": 14,
-    "topic": "Mga Prinsipyo ng Data Privacy",
-    "question": "Aling prinsipyo sa Section 11 ang nag-aatas na dapat malaman ng data subject kung ano ang pinoproseso, bakit ito kinukuha, sino ang may hawak, at ano ang kanyang mga karapatan?",
+    "topic": "Principles of Data Privacy",
+    "question": "Which general principle under Section 11 mandates that the data subject must be aware of the nature, purpose, extent, and scope of data processing, as well as their rights?",
     "answer": "Transparency",
     "aliases": [
-      "Pagiging Bukas",
-      "Transparensi",
-      "Principle of Transparency"
+      "Transparency",
+      "Principle of Transparency",
+      "Transparency principle"
     ],
     "choices": [
       "Transparency",
@@ -262,17 +269,17 @@
       "Proportionality",
       "Data Quality"
     ],
-    "explanation": "Ang Transparency ay nangangailangan ng malinaw at madaling maunawaang pagpapabatid sa data subject bago at habang pinoproseso ang kanyang datos."
+    "explanation": "Transparency requires clear, accessible, and timely communication to the data subject regarding how and why their data is processed."
   },
   {
     "id": 15,
-    "topic": "Mga Prinsipyo ng Data Privacy",
-    "question": "Aling prinsipyo sa Section 11 ang nagtatakda na ang pagproseso ay dapat sumunod sa isang tiyak at idineklarang layunin na hindi labag sa batas o pampublikong kaayusan?",
+    "topic": "Principles of Data Privacy",
+    "question": "Which principle under Section 11 dictates that the processing of information must be compatible with a declared, specified, and legitimate purpose that is not contrary to law or public policy?",
     "answer": "Legitimate Purpose",
     "aliases": [
-      "Makatarungang Layunin",
-      "Prinsipyo ng Legitimate Purpose",
-      "Legitimate purpose"
+      "Legitimate Purpose",
+      "Legitimate purpose",
+      "Principle of Legitimate Purpose"
     ],
     "choices": [
       "Legitimate Purpose",
@@ -280,15 +287,15 @@
       "Proportionality",
       "Integrity"
     ],
-    "explanation": "Ang Legitimate Purpose ay nagbabawal sa lihim o di-inaasahang paggamit ng impormasyon na iba sa orihinal na idineklarang layunin."
+    "explanation": "Legitimate Purpose prohibits undisclosed or deceptive data processing that deviates from the explicitly declared purpose."
   },
   {
     "id": 16,
-    "topic": "Mga Prinsipyo ng Data Privacy",
-    "question": "Aling prinsipyo sa Section 11 ang nag-uutos na ang kinokolektang datos ay dapat sapat, may kaugnayan, hindi labis (not excessive), at itinatago lamang hangga't kinakailangan?",
+    "topic": "Principles of Data Privacy",
+    "question": "Which principle under Section 11 requires that the processing of personal data be adequate, relevant, suitable, necessary, and not excessive in relation to the purposes for which it is collected?",
     "answer": "Proportionality",
     "aliases": [
-      "Proporsyonalidad",
+      "Proportionality",
       "Principle of Proportionality",
       "Proportionality principle"
     ],
@@ -298,19 +305,19 @@
       "Legitimate Purpose",
       "Accountability"
     ],
-    "explanation": "Ang Proportionality ay sumasagot sa tanong na: 'Aling field sa database ang maaari mong burahin nang hindi nasisira ang serbisyo?'—dapat walang labis na pangongolekta."
+    "explanation": "Proportionality asks: 'Which database column can you drop without breaking the service?'—data collection must not be excessive."
   },
   {
     "id": 17,
-    "topic": "Batayan sa Pagproseso (Lawful Criteria)",
-    "question": "Ilan ang mga pangkalahatang legal na batayan (lawful criteria) sa pagproseso ng karaniwang Personal Information sa ilalim ng Section 12?",
+    "topic": "Lawful Criteria for Processing",
+    "question": "How many lawful criteria (legal grounds) are provided under Section 12 for processing ordinary Personal Information?",
     "answer": "6",
     "aliases": [
-      "Anim",
-      "6 na batayan",
-      "anim na batayan",
+      "6",
+      "Six",
       "6 criteria",
-      "anim"
+      "six criteria",
+      "6 grounds"
     ],
     "choices": [
       "6",
@@ -318,36 +325,37 @@
       "8",
       "10"
     ],
-    "explanation": "May 6 na batayan sa ilalim ng Sec. 12: (1) Consent, (2) Contract, (3) Legal obligation, (4) Vital interests, (5) National emergency/public order, at (6) Legitimate interests."
+    "explanation": "Section 12 provides 6 lawful criteria: (1) Consent, (2) Contract, (3) Legal obligation, (4) Vital interests, (5) National emergency/public order, and (6) Legitimate interests."
   },
   {
     "id": 18,
-    "topic": "Batayan sa Pagproseso (Lawful Criteria)",
-    "question": "Maaari bang gamitin ang katwirang 'Legitimate Interests' bilang legal na batayan upang iproseso ang Sensitive Personal Information sa ilalim ng Section 13?",
-    "answer": "Hindi",
+    "topic": "Lawful Criteria for Processing",
+    "question": "Can 'Legitimate Interests' be used as a lawful basis to process Sensitive Personal Information under Section 13?",
+    "answer": "No",
     "aliases": [
-      "Hindi",
       "No",
-      "Hindi pwede",
-      "Bawal"
+      "Hindi",
+      "Never",
+      "No, it cannot",
+      "No it cannot"
     ],
     "choices": [
-      "Hindi",
-      "Oo",
-      "Oo kung may pahintulot ng DPO",
-      "Oo kung higit sa 100 tao"
+      "No",
+      "Yes",
+      "Yes, with DPO approval",
+      "Yes, if more than 100 people"
     ],
-    "explanation": "HINDI! Ang 'legitimate interests' ay matatagpuan lamang sa Section 12 para sa ordinaryong personal data; HINDI ito balidong batayan para sa sensitive personal information sa ilalim ng Section 13."
+    "explanation": "NO. 'Legitimate interests' is only a lawful ground under Section 12 for ordinary personal information; it is NOT a valid lawful basis for sensitive personal information under Section 13."
   },
   {
     "id": 19,
-    "topic": "Karapatan ng Data Subject",
-    "question": "Anong karapatan ng data subject ang nagbibigay sa kanya ng kapangyarihang tumanggi sa pagproseso ng kanyang datos, kabilang ang paggamit nito para sa direct marketing o profiling?",
+    "topic": "Rights of the Data Subject",
+    "question": "Which data subject right provides the individual the power to withhold or withdraw consent for processing, including direct marketing, automated processing, or profiling?",
     "answer": "Right to object",
     "aliases": [
+      "Right to object",
       "Right to Object",
-      "Karapatang tumanggi",
-      "Karapatan sa pagtutol",
+      "Object",
       "To object"
     ],
     "choices": [
@@ -356,17 +364,16 @@
       "Right to rectification",
       "Right to data portability"
     ],
-    "explanation": "Ang Right to Object (Sec. 16) ay nagbibigay ng karapatan sa data subject na tanggihan ang pagproseso, lalo na sa direct marketing at automated profiling."
+    "explanation": "The Right to Object (Sec. 16) allows the data subject to halt processing, especially when used for direct marketing or unauthorized automated profiling."
   },
   {
     "id": 20,
-    "topic": "Karapatan ng Data Subject",
-    "question": "Anong karapatan ng data subject ang nagpapahintulot sa kanya na ipawasto o itama ang anumang mali o hindi kumpletong tala tungkol sa kanya sa isang sistema?",
+    "topic": "Rights of the Data Subject",
+    "question": "Which data subject right entitles an individual to dispute inaccuracies or errors in their personal data and have the controller correct it immediately?",
     "answer": "Right to rectification",
     "aliases": [
+      "Right to rectification",
       "Right to Rectification",
-      "Karapatang magwasto",
-      "Karapatan sa pagwawasto",
       "Rectification",
       "To rectification"
     ],
@@ -376,19 +383,20 @@
       "Right to be informed",
       "Right to damages"
     ],
-    "explanation": "Ang Right to Rectification ay nag-aatas sa controller na itama ang mga maling impormasyon nang walang labis na pagkaantala."
+    "explanation": "The Right to Rectification enables data subjects to demand correction of inaccurate, outdated, or incomplete records without undue delay."
   },
   {
     "id": 21,
-    "topic": "Karapatan ng Data Subject",
-    "question": "Anong karapatan ng data subject ang nagbibigay sa kanya ng kapangyarihang ipatanggal, ipa-block, o ipabura ang kanyang datos kapag ito ay labag sa batas, luma na, o binawi na ang consent?",
+    "topic": "Rights of the Data Subject",
+    "question": "Which data subject right allows an individual to suspend, withdraw, or order the removal of their personal data when it is unlawfully obtained, outdated, or no longer necessary?",
     "answer": "Right to erasure or blocking",
     "aliases": [
+      "Right to erasure or blocking",
       "Right to erasure",
       "Erasure or blocking",
-      "Karapatang magpabura o magpa-block",
       "Right to be forgotten",
-      "To erasure or blocking"
+      "Erasure",
+      "Blocking"
     ],
     "choices": [
       "Right to erasure or blocking",
@@ -396,18 +404,18 @@
       "Right to file a complaint",
       "Right to object"
     ],
-    "explanation": "Ang Right to Erasure or Blocking ay nag-uutos sa sistema na suspindihin, bawiin, o tuluyang alisin ang tala ng data subject kapag natupad ang mga kondisyon sa batas."
+    "explanation": "The Right to Erasure or Blocking obligates the controller to remove or block personal data upon substantiated grounds specified in Section 16."
   },
   {
     "id": 22,
-    "topic": "Karapatan ng Data Subject",
-    "question": "Anong karapatan sa ilalim ng Section 18 ang nagpapahintulot sa data subject na humingi ng kopya ng kanyang datos sa isang electronic at structured format upang mailipat ito sa ibang sistema?",
+    "topic": "Rights of the Data Subject",
+    "question": "Under Section 18, which right allows the data subject to obtain from the controller a copy of their data in an electronic or structured format commonly used to enable further use?",
     "answer": "Right to data portability",
     "aliases": [
+      "Right to data portability",
       "Data portability",
       "Right to Data Portability",
-      "Karapatan sa data portability",
-      "Data portability (Sec. 18)"
+      "Portability"
     ],
     "choices": [
       "Right to data portability",
@@ -415,34 +423,34 @@
       "Right to damages",
       "Right to be informed"
     ],
-    "explanation": "Ang Right to Data Portability (Sec. 18) ay nagbibigay-daan upang madala o mailipat ng gumagamit ang kanyang electronic records sa ibang provider."
+    "explanation": "The Right to Data Portability (Sec. 18) allows data subjects to easily transfer their digital data from one controller or platform to another."
   },
   {
     "id": 23,
-    "topic": "Karapatan ng Data Subject",
-    "question": "Ayon sa Section 17 ng RA 10173, kanino naisasalin (transmissible) ang mga karapatan ng data subject sakaling siya ay pumanaw o mawalan ng kakayahan?",
+    "topic": "Rights of the Data Subject",
+    "question": "According to Section 17 of RA 10173, to whom are the rights of a data subject transmissible in case of death or incapacity?",
     "answer": "Lawful heirs and assigns",
     "aliases": [
+      "Lawful heirs and assigns",
       "Heirs and assigns",
-      "Mga legal na tagapagmana",
-      "Legal na tagapagmana",
-      "Heirs",
-      "Lawful heirs"
+      "Lawful heirs",
+      "Heirs"
     ],
     "choices": [
       "Lawful heirs and assigns",
-      "Gobyerno",
-      "Personal Information Controller",
+      "The Government",
+      "The Personal Information Controller",
       "National Privacy Commission"
     ],
-    "explanation": "Sa ilalim ng Sec. 17, ang mga karapatan ng data subject ay maaaring igiit ng kanyang mga legal na tagapagmana (lawful heirs) at assigns."
+    "explanation": "Under Section 17, the lawful rights of the data subject are transmissible to their lawful heirs and assigns at any time after death or when incapacitated."
   },
   {
     "id": 24,
-    "topic": "Mga Tungkulin ng Controller",
-    "question": "Sa ilalim ng Section 21 ng RA 10173 (Accountability for Transfer), sino ang nananatiling may pananagutan sa personal na datos kapag ito ay inilipat sa isang third-party processor (PIP) o ipinadala sa ibang bansa?",
+    "topic": "Controller Obligations",
+    "question": "Under Section 21 of RA 10173 (Principle of Accountability), who remains responsible for personal information even when outsourced to a third-party processor (PIP) or transferred overseas?",
     "answer": "Personal Information Controller",
     "aliases": [
+      "Personal Information Controller",
       "PIC",
       "Controller",
       "Personal Information Controller (PIC)"
@@ -451,94 +459,99 @@
       "Personal Information Controller",
       "Personal Information Processor",
       "Data Subject",
-      "DPO lamang"
+      "DPO only"
     ],
-    "explanation": "Nananatiling responsable ang PIC (Sec. 21) sa anumang mangyari sa datos kahit pa ibinigay ito sa isang processor o cloud host; kinakailangan ang mahigpit na kontrata na may katulad na antas ng proteksyon."
+    "explanation": "The Personal Information Controller remains accountable under Sec. 21 and must use contractual and other reasonable means to provide a comparable level of protection."
   },
   {
     "id": 25,
-    "topic": "Mga Tungkulin ng Controller",
-    "question": "Ayon sa NPC Circular 2022-04, kailan mandatory ang pagpaparehistro ng Data Processing Systems at DPO sa National Privacy Commission?",
-    "answer": "250+ empleyado o 1,000+ taong may sensitive data",
+    "topic": "Controller Obligations",
+    "question": "Under NPC Circular 2022-04, when is registration of Data Processing Systems and the DPO mandatory with the National Privacy Commission?",
+    "answer": "250+ employees or 1,000+ individuals with sensitive data",
     "aliases": [
+      "250+ employees or 1,000+ individuals with sensitive data",
       "250 employees or 1000 sensitive data",
-      "250 o higit pang empleyado",
-      "250 employees",
-      "1000 sensitive data",
-      "250+ employees or 1,000+ sensitive data"
+      "250+ employees",
+      "1,000+ sensitive data",
+      "250 employees or 1,000 records",
+      "250 employees"
     ],
     "choices": [
-      "250+ empleyado o 1,000+ taong may sensitive data",
-      "50 empleyado o 500 records",
-      "10 empleyado lamang",
-      "Lahat ng may website"
+      "250+ employees or 1,000+ individuals with sensitive data",
+      "50 employees or 500 records",
+      "10 employees only",
+      "All entities with a public website"
     ],
-    "explanation": "Kailangang magrehistro kung may 250+ kawani, nagpoproseso ng sensitive data ng 1,000+ tao, o nagsasagawa ng automated decision-making/profiling. Ang Certificate ay valid ng 1 taon."
+    "explanation": "Registration is mandatory if an entity employs 250+ individuals, processes sensitive personal data of at least 1,000 individuals, or performs automated profiling. Certificates are valid for 1 year."
   },
   {
     "id": 26,
-    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
-    "question": "Sa ilalim ng NPC Circular 16-03, sa loob ng ilang oras dapat ipagbigay-alam sa NPC at sa mga apektadong data subjects ang isang notifiable personal data breach?",
-    "answer": "72 oras",
+    "topic": "Breach Management (NPC Circular 16-03)",
+    "question": "Under NPC Circular 16-03, within how many hours must a notifiable personal data breach be reported to the NPC and affected data subjects?",
+    "answer": "72 hours",
     "aliases": [
       "72 hours",
       "72",
+      "72 hrs",
       "72-hour",
-      "72 oras mula sa pagkakaalam"
+      "72 hours upon knowledge"
     ],
     "choices": [
-      "72 oras",
-      "24 oras",
-      "48 oras",
-      "30 araw"
+      "72 hours",
+      "24 hours",
+      "48 hours",
+      "30 days"
     ],
-    "explanation": "Dapat i-notify ang NPC at apektadong indibidwal sa loob ng 72 oras mula sa pagkakaalam (knowledge) o makatwirang paniniwala na nagkaroon ng breach."
+    "explanation": "A notifiable breach must be reported to the NPC and affected data subjects within 72 hours from knowledge or reasonable belief that a breach occurred."
   },
   {
     "id": 27,
-    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
-    "question": "Kailan nagsisimulang tumakbo ang 72-hour clock sa pag-uulat ng personal data breach sa NPC?",
-    "answer": "Mula sa pagkakaalam ng breach",
+    "topic": "Breach Management (NPC Circular 16-03)",
+    "question": "When does the 72-hour clock begin to run for reporting a personal data breach to the NPC?",
+    "answer": "From knowledge of the breach",
     "aliases": [
       "From knowledge of the breach",
-      "Mula sa kaalaman sa breach",
       "Upon knowledge",
-      "Knowledge of the breach"
+      "From knowledge",
+      "Knowledge of the breach",
+      "Upon knowledge of the breach"
     ],
     "choices": [
-      "Mula sa pagkakaalam ng breach",
-      "Pagkatapos ng buong imbestigasyon",
-      "Kapag naayos na ang server",
-      "Kapag nakahuli na ng suspek"
+      "From knowledge of the breach",
+      "After the full forensic investigation is concluded",
+      "Once the servers are restored",
+      "When law enforcement catches the perpetrator"
     ],
-    "explanation": "Ang 72 oras ay tumatakbo mula sa sandaling nalaman o naniwala ang controller na may breach, HINDI mula sa katapusan ng imbestigasyon."
+    "explanation": "The 72-hour window starts running immediately from knowledge or reasonable belief that a security incident has occurred, NOT after completing an investigation."
   },
   {
     "id": 28,
-    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
-    "question": "Alin sa mga sumusunod ang tatlong sabay-sabay na rekisito upang maituring na MANDATORY ang breach notification sa NPC at data subjects?",
-    "answer": "Sensitive/fraud data, unauthorized acquisition, at real risk of serious harm",
+    "topic": "Breach Management (NPC Circular 16-03)",
+    "question": "Which three concurrent conditions make breach notification to the NPC and data subjects MANDATORY under NPC Circular 16-03?",
+    "answer": "Sensitive/fraud data, unauthorized acquisition, and real risk of serious harm",
     "aliases": [
-      "Sensitibong datos, unauthorized acquisition, at seryosong panganib",
+      "Sensitive/fraud data, unauthorized acquisition, and real risk of serious harm",
+      "Sensitive or fraud data, unauthorized acquisition, real risk of serious harm",
       "3 conditions",
-      "sensitive or fraud data, unauthorized person, serious harm"
+      "Sensitive data, unauthorized person, serious harm"
     ],
     "choices": [
-      "Sensitive/fraud data, unauthorized acquisition, at real risk of serious harm",
-      "Lahat ng uri ng breach kahit walang panganib",
-      "Kapag may humingi lamang ng tawad ang hacker",
-      "Kapag umabot sa 1 milyong piso ang nawala"
+      "Sensitive/fraud data, unauthorized acquisition, and real risk of serious harm",
+      "All security incidents regardless of risk",
+      "Whenever an unauthorized ping reaches a server",
+      "Only when financial damages exceed one million pesos"
     ],
-    "explanation": "Tatlong rekisito: (1) Sangkot ang sensitive info o identity fraud data, (2) Nakuha ng unauthorized person, at (3) May tunay na panganib ng matinding pinsala (real risk of serious harm)."
+    "explanation": "Mandatory notification requires all 3 conditions: (1) Sensitive info or fraud-enabling data involved, (2) Reasonably believed to have been acquired by an unauthorized person, and (3) Real risk of serious harm."
   },
   {
     "id": 29,
-    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
-    "question": "Ano ang limang sunod-sunod na hakbang (five moves) sa pagtugon sa breach ayon sa NPC Circular 16-03?",
+    "topic": "Breach Management (NPC Circular 16-03)",
+    "question": "What are the five sequential incident response moves prescribed by NPC Circular 16-03?",
     "answer": "Contain, Assess, Notify, Document, Prevent",
     "aliases": [
+      "Contain, Assess, Notify, Document, Prevent",
       "Contain Assess Notify Document Prevent",
-      "Pagsugpo, Pagtataya, Pag-abiso, Pagtatala, Pag-iwas"
+      "Contain, assess, notify, document, prevent"
     ],
     "choices": [
       "Contain, Assess, Notify, Document, Prevent",
@@ -546,18 +559,18 @@
       "Investigate, Sue, Fire, Replace, Archive",
       "Report, Wait, Blame, Settle, Forget"
     ],
-    "explanation": "Limang Hakbang: 1. Contain (itigil ang tagas), 2. Assess (alamin ang laki at panganib), 3. Notify (abiso sa 72 oras), 4. Document (itala ang lahat), 5. Prevent (ayusin ang sistema)."
+    "explanation": "The 5 breach response moves are: 1. Contain (stop the leak), 2. Assess (evaluate extent and risk), 3. Notify (inform NPC and subjects within 72 hrs), 4. Document (record actions and findings), 5. Prevent (remediate root cause)."
   },
   {
     "id": 30,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Sa ilalim ng Section 30 ng RA 10173, ano ang hiwalay na krimen na may parusang 1.5 hanggang 5 taong pagkabilanggo at multang ₱500,000 hanggang ₱1,000,000?",
+    "topic": "Penalties",
+    "question": "Under Section 30 of RA 10173, what distinct criminal offense carries a penalty of 1.5 to 5 years imprisonment and a fine of ₱500,000 to ₱1,000,000?",
     "answer": "Concealment of security breach",
     "aliases": [
-      "Pagtatago ng breach",
+      "Concealment of security breach",
       "Concealment of security breach involving sensitive personal information",
       "Concealment of a security breach",
-      "Pagtatago ng security breach"
+      "Concealment"
     ],
     "choices": [
       "Concealment of security breach",
@@ -565,90 +578,93 @@
       "Malicious disclosure",
       "Unauthorized access"
     ],
-    "explanation": "Ang sadyang pagtatago o hindi pag-uulat ng security breach na kinasasangkutan ng sensitive personal information ay hiwalay na krimen sa ilalim ng Sec. 30."
+    "explanation": "Intentionally hiding or failing to notify the NPC and data subjects about a security breach involving sensitive personal information is a standalone crime under Section 30."
   },
   {
     "id": 31,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Ayon sa Section 35 ng RA 10173 (Large Scale), ano ang mangyayari sa ipinapataw na parusa kapag ang krimen ay nakaapekto sa 100 o higit pang mga tao?",
-    "answer": "Ipinapataw ang pinakamataas na parusa sa saklaw (maximum penalty)",
+    "topic": "Penalties",
+    "question": "According to Section 35 of RA 10173 (Large Scale), what penalty is imposed when a data privacy offense affects at least 100 persons?",
+    "answer": "Maximum penalty in the range",
     "aliases": [
+      "Maximum penalty in the range",
       "Maximum penalty",
-      "Maximum ng parusa",
-      "Pinakamataas na parusa",
-      "Maximum penalty in the range"
+      "Maximum of the penalty",
+      "Maximum penalty is imposed"
     ],
     "choices": [
-      "Ipinapataw ang pinakamataas na parusa sa saklaw (maximum penalty)",
-      "Inililipat ang kaso sa Barangay",
-      "Binibigyan ng 50% discount ang multa",
-      "Pinapawalang-bisa ang reklamo"
+      "Maximum penalty in the range",
+      "Case is downgraded to a civil infraction",
+      "50% reduction in fines",
+      "Administrative reprimand without imprisonment"
     ],
-    "explanation": "Sa ilalim ng Sec. 35, kapag 100 o higit pang katao ang apektado, awtomatikong ipinapataw ang pinakamataas na parusa (maximum of the penalty range)."
+    "explanation": "Under Section 35, if 100 or more persons are affected, the maximum penalty in the prescribed range is automatically imposed."
   },
   {
     "id": 32,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Sa ilalim ng Section 34, sino ang personal na mananagot sa krimen kapag ang lumabag sa Data Privacy Act ay isang korporasyon o kumpanya?",
-    "answer": "Mga opisyal na lumahok o nagpabaya dahil sa gross negligence",
+    "topic": "Penalties",
+    "question": "Under Section 34, who bears criminal liability when the violation of the Data Privacy Act is committed by a corporation or juridical entity?",
+    "answer": "Officers who participated or permitted it through gross negligence",
     "aliases": [
-      "Responsible officers",
-      "Mga opisyal ng korporasyon",
+      "Officers who participated or permitted it through gross negligence",
+      "Corporate officers",
       "Officers through gross negligence",
-      "Corporate officers"
+      "Responsible corporate officers"
     ],
     "choices": [
-      "Mga opisyal na lumahok o nagpabaya dahil sa gross negligence",
-      "Ang pinakabagong empleyado",
-      "Ang mga customer lamang",
-      "Walang sinumang makukulong dahil korporasyon ito"
+      "Officers who participated or permitted it through gross negligence",
+      "The most junior software engineer",
+      "The company's external customers",
+      "No individual can be held liable since a corporation is a distinct entity"
     ],
-    "explanation": "Sa ilalim ng Sec. 34, ang mga opisyal, direktor, o pinunong nakiisa o nagpabaya (gross negligence) ay may pananagutang kriminal (kulong at multa)."
+    "explanation": "Under Section 34, corporate officers, directors, or managers who participated or allowed the violation through gross negligence face imprisonment and personal fines."
   },
   {
     "id": 33,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Ano ang parusa sa ilalim ng Section 27 para sa hindi tamang pagtatapon (Improper Disposal) ng Sensitive Personal Information?",
-    "answer": "1 hanggang 3 taong kulong at ₱100,000 hanggang ₱1,000,000 na multa",
+    "topic": "Penalties",
+    "question": "What is the penalty under Section 27 for Improper Disposal of Sensitive Personal Information?",
+    "answer": "1 to 3 years imprisonment and ₱100,000 to ₱1,000,000 fine",
     "aliases": [
+      "1 to 3 years imprisonment and ₱100,000 to ₱1,000,000 fine",
       "1-3 yrs; ₱100K-₱1M",
       "1 to 3 years and 100k to 1M",
-      "1-3 years",
-      "1-3 yrs"
+      "1-3 years imprisonment",
+      "1-3 years"
     ],
     "choices": [
-      "1 hanggang 3 taong kulong at ₱100,000 hanggang ₱1,000,000 na multa",
-      "6 na buwan lamang na community service",
-      "₱10,000 na administrative fine",
-      "Walang kulong basta humingi ng tawad"
+      "1 to 3 years imprisonment and ₱100,000 to ₱1,000,000 fine",
+      "6 months community service only",
+      "₱10,000 administrative citation",
+      "Written apology without imprisonment"
     ],
-    "explanation": "Ang Improper Disposal ng sensitive info (Sec. 27) ay may parusang 1 hanggang 3 taong pagkabilanggo at multang ₱100K hanggang ₱1M."
+    "explanation": "Improper disposal of sensitive personal information (Sec. 27) carries 1 to 3 years imprisonment and a fine of ₱100,000 to ₱1,000,000."
   },
   {
     "id": 34,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Ano ang parusa para sa Combination or Series of Acts o kumbinasyon ng mga paglabag sa ilalim ng Section 33 ng RA 10173?",
-    "answer": "3 hanggang 6 na taong kulong at ₱1,000,000 hanggang ₱5,000,000 na multa",
+    "topic": "Penalties",
+    "question": "What is the penalty for a Combination or Series of Acts under Section 33 of RA 10173?",
+    "answer": "3 to 6 years imprisonment and ₱1,000,000 to ₱5,000,000 fine",
     "aliases": [
+      "3 to 6 years imprisonment and ₱1,000,000 to ₱5,000,000 fine",
       "3-6 yrs; ₱1M-₱5M",
       "3 to 6 years and 1M to 5M",
-      "3-6 years, 1M-5M",
+      "3-6 years",
       "3-6 yrs"
     ],
     "choices": [
-      "3 hanggang 6 na taong kulong at ₱1,000,000 hanggang ₱5,000,000 na multa",
-      "1 taong probation lamang",
-      "₱500,000 na piyansa",
-      "Habambuhay na pagkabilanggo"
+      "3 to 6 years imprisonment and ₱1,000,000 to ₱5,000,000 fine",
+      "1 year probation only",
+      "₱500,000 bail without incarceration",
+      "Life imprisonment"
     ],
-    "explanation": "Ang Section 33 (Combination of Acts) ay nagpapataw ng 3 hanggang 6 na taong pagkabilanggo at multang ₱1,000,000 hanggang ₱5,000,000."
+    "explanation": "Section 33 imposes 3 to 6 years imprisonment and a fine ranging from ₱1,000,000 to ₱5,000,000 for a combination or series of unlawful acts."
   },
   {
     "id": 35,
     "topic": "Privacy by Design",
-    "question": "Sino ang Information and Privacy Commissioner ng Ontario na nagbuo ng pitong pundamental na prinsipyo ng 'Privacy by Design' (2009/2011)?",
+    "question": "Who was the Information and Privacy Commissioner of Ontario who developed the 7 foundational principles of 'Privacy by Design' (2009/2011)?",
     "answer": "Ann Cavoukian",
     "aliases": [
+      "Ann Cavoukian",
       "Cavoukian",
       "Dr. Ann Cavoukian",
       "Dr Ann Cavoukian"
@@ -659,18 +675,19 @@
       "Alan Westin",
       "Nancy Leveson"
     ],
-    "explanation": "Si Dr. Ann Cavoukian ang nagpakilala sa Privacy by Design (PbD)—ang paniniwalang ang privacy ay dapat nakapaloob sa arkitektura at disenyo ng sistema mula simula."
+    "explanation": "Dr. Ann Cavoukian pioneered Privacy by Design (PbD), establishing that privacy must be embedded into the engineering architecture and default settings of technology."
   },
   {
     "id": 36,
     "topic": "Privacy by Design",
-    "question": "Sa anim na gawi ng Privacy by Design para sa mga software developer, bakit mahalagang gumamit ng synthetic o pseudonymized records sa halip na totoong database sa testing server?",
+    "question": "Among the six developer habits of Privacy by Design, which practice prohibits exporting live customer records to development and test servers?",
     "answer": "Fake the test data",
     "aliases": [
-      "Paggamit ng pekeng datos",
+      "Fake the test data",
       "Fake test data",
       "Synthetic data",
-      "Huwag gumamit ng live data sa test server"
+      "Use synthetic data",
+      "Fake the data"
     ],
     "choices": [
       "Fake the test data",
@@ -678,38 +695,39 @@
       "Restrict by role",
       "Set a deletion date"
     ],
-    "explanation": "Ang gawi na 'Fake the test data' ay nagbabawal sa pag-export ng live customer records papunta sa insecure na test o development servers."
+    "explanation": "The habit 'Fake the test data' mandates using synthetic or pseudonymized records in non-production environments to prevent exposure."
   },
   {
     "id": 37,
-    "topic": "Mga Kaso at Halimbawa",
-    "question": "Anong malaking insidente noong Marso 2016 ang naganap sa Pilipinas kung saan na-deface ang website at na-leak online ang database ng humigit-kumulang 55 milyong botante?",
+    "topic": "Cases and Analysis",
+    "question": "Which major incident in the Philippines in March 2016 resulted in website defacement and the leak of voter records of approximately 55 million citizens?",
     "answer": "2016 COMELEC Voter Data Breach",
     "aliases": [
+      "2016 COMELEC Voter Data Breach",
       "COMELEC data breach",
-      "COMELEC leak",
-      "COMELEC breach 2016",
       "COMELEC breach",
-      "Comeleak"
+      "COMELEC leak",
+      "Comeleak",
+      "COMELEC breach 2016"
     ],
     "choices": [
       "2016 COMELEC Voter Data Breach",
       "PhilHealth Medusa Ransomware Attack",
-      "PSA National ID Data Leak",
+      "PSA National ID Leak",
       "LTO Driver License Database Leak"
     ],
-    "explanation": "Ang 2016 COMELEC voter data breach (tinawag ding 'Comeleak') ang nag-leak ng datos ng ~55M botante. Noong Disyembre 2016, pinanagot ng NPC ang pamunuan ng COMELEC."
+    "explanation": "The 2016 COMELEC voter data breach ('Comeleak') leaked voter records of ~55M Filipinos. In December 2016, the NPC held COMELEC leadership accountable for gross negligence."
   },
   {
     "id": 38,
-    "topic": "Mga Kaso at Halimbawa",
-    "question": "Sa pagsusuri ng mga aksidente at breach sa sistemang pang-inhinyero, anong tanong mula kay Nancy Leveson ang dapat itanong sa halip na 'Sino ang sumira nito?'",
+    "topic": "Cases and Analysis",
+    "question": "In engineering accident and breach analysis, what question formulated by Nancy Leveson should be asked instead of 'Who broke it?'",
     "answer": "Which control was missing?",
     "aliases": [
-      "Aling kontrol ang nawawala?",
+      "Which control was missing?",
       "Which control was missing",
-      "Missing control",
-      "Anong kontrol ang kulang"
+      "What control was missing",
+      "Missing control"
     ],
     "choices": [
       "Which control was missing?",
@@ -717,54 +735,56 @@
       "How much is the ransom?",
       "Why did the hacker do it?"
     ],
-    "explanation": "Ayon sa system safety framework ni Nancy Leveson, ang pagsusuri sa breach ay dapat tumutok sa: 'Which control was missing?' (Aling kontrol sa disenyo ang kulang?)."
+    "explanation": "Nancy Leveson's system safety approach examines architectural and managerial controls by asking 'Which control was missing?' rather than blaming individuals."
   },
   {
     "id": 39,
-    "topic": "Pagsusuri sa Daloy ng Datos",
-    "question": "Ayon sa Table 5.1 ng Module 5, kung ang grado ng mag-aaral ay ipinadala mula sa guro patungo sa registrar at sa estudyante, ito ay angkop sa konteksto. Ngunit bakit itinuturing na paglabag kapag ipinost ito sa isang public group chat?",
-    "answer": "Ang pagsusulit ay hindi pampublikong palabas (Assessment is not public display)",
+    "topic": "Data Flow Analysis",
+    "question": "According to Table 5.1 in Module 5, while transmitting grades from a professor to the registrar and student is appropriate, why is posting grades in a public group chat a violation?",
+    "answer": "Assessment is not public display",
     "aliases": [
       "Assessment is not public display",
-      "Hindi public display ang assessment",
-      "Assessment is not public"
+      "Assessment is not public",
+      "Grading is not public display",
+      "Assessment is not a public display"
     ],
     "choices": [
-      "Ang pagsusulit ay hindi pampublikong palabas (Assessment is not public display)",
-      "Dahil mahina ang internet sa group chat",
-      "Dahil walang watermark ang file",
-      "Dahil bawal mag-chat ang estudyante at guro"
+      "Assessment is not public display",
+      "Because internet connection was unstable",
+      "Because the file lacked a digital watermark",
+      "Because students cannot chat with instructors"
     ],
-    "explanation": "Bumagsak ito sa contextual integrity: ang layunin ng pagtatala ng grado ay edukasyonal na pagsusuri (assessment), hindi pampublikong palabas o display."
+    "explanation": "It fails contextual integrity: the legitimate context of academic assessment is student evaluation, not public display."
   },
   {
     "id": 40,
-    "topic": "Pagsusuri sa Daloy ng Datos",
-    "question": "Kung pinayagan ng pasahero ang ride-hailing app na malaman ang kanyang lokasyon habang bumibiyahe, bakit labag sa Contextual Integrity kung ibebenta ng kumpanya ang kanyang location data sa mga advertisers pagkatapos ng biyahe?",
-    "answer": "Natapos na ang biyahe at hindi sumasama ang pamantayan sa datos",
+    "topic": "Data Flow Analysis",
+    "question": "If a rider consents to location sharing for an active trip in a ride-hailing app, why is selling that location data to advertisers after the trip a breach of Contextual Integrity?",
+    "answer": "The trip ended; the norms did not travel with the data",
     "aliases": [
       "The trip ended; the norms did not travel with the data",
-      "Natapos na ang biyahe",
       "The trip ended",
-      "Norms did not travel with the data"
+      "Norms did not travel with the data",
+      "Trip ended",
+      "The trip ended and norms did not travel with the data"
     ],
     "choices": [
-      "Natapos na ang biyahe at hindi sumasama ang pamantayan sa datos",
-      "Dahil mura lamang ang ibinayad ng pasahero",
-      "Dahil luma na ang GPS ng pasahero",
-      "Dahil walang signal sa daan"
+      "The trip ended; the norms did not travel with the data",
+      "Because the passenger paid an economy fare",
+      "Because the GPS coordinates were inaccurate",
+      "Because cellular roaming was inactive"
     ],
-    "explanation": "'The trip ended; the norms did not travel with the data.' Kahit may consent sa pagsakay, ang pagbebenta sa advertisers ay lumilihis sa orihinal na konteksto ng biyahe."
+    "explanation": "'The trip ended; the norms did not travel with the data.' While consent was provided for navigation, commercial advertising departs from the transport context."
   },
   {
     "id": 41,
-    "topic": "Mga Kategorya ng Impormasyon",
-    "question": "Ang isang General Weighted Average (GWA) o Transcript of Records (TOR) ng isang estudyante ay nabibilang sa anong kategorya sa ilalim ng RA 10173?",
+    "topic": "Information Categories",
+    "question": "Under RA 10173, a student's General Weighted Average (GWA) or Transcript of Records (TOR) falls under which information category?",
     "answer": "Sensitive Personal Information",
     "aliases": [
+      "Sensitive Personal Information",
       "Sensitive personal information",
-      "SPI",
-      "Sensitibo"
+      "SPI"
     ],
     "choices": [
       "Sensitive Personal Information",
@@ -772,17 +792,17 @@
       "Privileged Information",
       "Public Record"
     ],
-    "explanation": "Ang edukasyon (education) ay tahasang binanggit sa Section 3(l) ng RA 10173 bilang Sensitive Personal Information."
+    "explanation": "Education records are explicitly classified under Section 3(l) of RA 10173 as Sensitive Personal Information."
   },
   {
     "id": 42,
-    "topic": "Mga Kategorya ng Impormasyon",
-    "question": "Ang litrato ng isang mag-aaral sa class list o kanyang school email address ay nauuri bilang anong uri ng datos?",
+    "topic": "Information Categories",
+    "question": "A student's portrait on a class roster or their school-issued email address is classified as which type of information?",
     "answer": "Personal Information",
     "aliases": [
+      "Personal Information",
       "Personal information",
-      "PI",
-      "Personal na impormasyon"
+      "PI"
     ],
     "choices": [
       "Personal Information",
@@ -790,56 +810,58 @@
       "Privileged Information",
       "Trade Secret"
     ],
-    "explanation": "Ang email address at litrato ay Personal Information (Sec. 3g) dahil nagbibigay ito ng agarang pagkakakilanlan ng tao nang hindi kabilang sa mga sensitibong kategorya sa 3(l)."
+    "explanation": "Email addresses and portraits are Personal Information (Sec. 3g) as they reasonably identify an individual without belonging to the sensitive classes in 3(l)."
   },
   {
     "id": 43,
-    "topic": "Batayan sa Pagproseso (Lawful Criteria)",
-    "question": "Bakit itinuturing na 'pinakamahinang uri ng batayan' (weakest kind of lawful basis) ang pahintulot o consent na ibinigay ng isang empleyado sa kanyang kumpanya o ng isang estudyante sa kanyang paaralan?",
-    "answer": "Dahil may hawak na kapangyarihan ang institusyon kaya hindi ito malayang naibigay",
+    "topic": "Lawful Criteria for Processing",
+    "question": "Why is consent given by an employee to an employer or a student to a university considered the 'weakest kind of lawful basis'?",
+    "answer": "Due to power imbalance (not freely given)",
     "aliases": [
+      "Due to power imbalance (not freely given)",
       "Power imbalance",
-      "Hindi freely given",
-      "Power over the person",
-      "Dahil may kapangyarihan ang paaralan o employer"
+      "Not freely given",
+      "Due to power imbalance",
+      "Power asymmetry"
     ],
     "choices": [
-      "Dahil may hawak na kapangyarihan ang institusyon kaya hindi ito malayang naibigay",
-      "Dahil walang pirma ng abogado",
-      "Dahil hindi nakasulat sa Tagalog",
-      "Dahil paso na makalipas ang 1 taon"
+      "Due to power imbalance (not freely given)",
+      "Because it lacks a notarized affidavit",
+      "Because it is written in English",
+      "Because it expires after 1 year"
     ],
-    "explanation": "Ang consent ay dapat 'freely given'. Kapag ang institusyon ay may kapangyarihan sa iyong trabaho o pagtatapos, mahirap tumanggi ang indibidwal kaya mahina ang bigat ng consent."
+    "explanation": "Valid consent must be 'freely given'. When an institution exercises authority over employment or graduation, power imbalance compromises genuine free choice."
   },
   {
     "id": 44,
-    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
-    "question": "Kahit hindi umabot sa pamantayan ng mandatory 72-hour notification sa NPC ang isang maliit na data breach, ano ang kailangan pa ring gawin ng Personal Information Controller?",
-    "answer": "Itala ang breach sa internal documentation at i-report taun-taon sa NPC",
+    "topic": "Breach Management (NPC Circular 16-03)",
+    "question": "Even if a minor security incident does not meet the criteria for mandatory 72-hour notification to the NPC, what is the controller still required to do?",
+    "answer": "Document the incident and submit an Annual Breach Report",
     "aliases": [
+      "Document the incident and submit an Annual Breach Report",
       "Document and report annually",
-      "Itala sa internal records",
-      "Document every breach",
-      "Document the breach"
+      "Document the incident",
+      "Document and submit annual report",
+      "Document"
     ],
     "choices": [
-      "Itala ang breach sa internal documentation at i-report taun-taon sa NPC",
-      "Burahin agad ang logs upang walang ebidensya",
-      "Balewalain ito at huwag nang pansinin",
-      "I-post sa social media upang humingi ng paumanhin"
+      "Document the incident and submit an Annual Breach Report",
+      "Delete server logs immediately to purge traces",
+      "Ignore the incident completely",
+      "Post an apology on public social media channels"
     ],
-    "explanation": "Ayon sa Circular 16-03 (Step 4: Document), dapat itala ang lahat ng security incidents at data breaches, at magsumite ng taunang ulat (Annual Breach Report) sa NPC."
+    "explanation": "Under NPC Circular 16-03 (Step 4: Document), controllers must maintain detailed internal logs of all security incidents and submit an Annual Breach Report to the NPC."
   },
   {
     "id": 45,
     "topic": "Privacy by Design",
-    "question": "Anong gawi sa Privacy by Design ang nagtatakda na ang mga gumagamit o empleyado ay makakakita lamang ng datos na kailangan sa kanilang partikular na gawain, at ang bawat access ay may audit log?",
+    "question": "Which Privacy by Design habit dictates that employees only receive access to data strictly required for their specific job role, backed by audit logs?",
     "answer": "Restrict by role",
     "aliases": [
-      "Limitahan ayon sa tungkulin",
+      "Restrict by role",
       "Role-based access control",
-      "Restrict access by role",
-      "RBAC"
+      "RBAC",
+      "Least privilege"
     ],
     "choices": [
       "Restrict by role",
@@ -847,17 +869,17 @@
       "Say it plainly",
       "Assess before building"
     ],
-    "explanation": "Ang 'Restrict by role' (least privilege) ay nagtitiyak na ang mga tauhan ay may access lamang sa kailangan nilang impormasyon at may talaan ng bawat pagbubukas."
+    "explanation": "'Restrict by role' enforces the principle of least privilege, ensuring personnel access only information required for their designated tasks with full auditing."
   },
   {
     "id": 46,
     "topic": "Privacy by Design",
-    "question": "Anong gawi sa Privacy by Design ang nag-aatas na dapat isulat sa schema ng database kung kailan awtomatikong buburahin ang datos (retention policy)?",
+    "question": "Which Privacy by Design habit mandates defining retention and expiration policies directly within database schemas to ensure timely data disposal?",
     "answer": "Set a deletion date",
     "aliases": [
-      "Magtakda ng petsa ng pagbura",
-      "Retention policy",
+      "Set a deletion date",
       "Set deletion date",
+      "Retention policy",
       "Data retention"
     ],
     "choices": [
@@ -866,17 +888,17 @@
       "Assess before building",
       "Say it plainly"
     ],
-    "explanation": "Ang 'Set a deletion date' ay pagtukoy sa lifecycle ng datos: ang retention period ay dapat napagdesisyunan sa disenyo ng database pa lamang."
+    "explanation": "'Set a deletion date' requires designing data lifecycles directly into schemas and code, ensuring personal data is purged once its declared purpose ends."
   },
   {
     "id": 47,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Ano ang krimen sa ilalim ng Section 26 ng RA 10173 kapag ang personal o sensitive data ay nabuksan o nakuha ng iba dahil sa kapabayaan (negligence) ng may hawak nito nang walang sapat na seguridad?",
+    "topic": "Penalties",
+    "question": "What is the specific offense under Section 26 of RA 10173 when personal or sensitive information is accessed by unauthorized parties due to negligence in implementing security measures?",
     "answer": "Access due to negligence",
     "aliases": [
-      "Pag-access dahil sa kapabayaan",
-      "Negligence",
-      "Access due to Negligence"
+      "Access due to negligence",
+      "Access Due to Negligence",
+      "Negligence"
     ],
     "choices": [
       "Access due to negligence",
@@ -884,35 +906,36 @@
       "Improper disposal",
       "Unauthorized processing"
     ],
-    "explanation": "Ang Section 26 ay nagpaparusa sa Access Due to Negligence (kapabayaan sa paglalagay ng organizational, physical, o technical controls)."
+    "explanation": "Section 26 penalizes Access Due to Negligence when failure to implement organizational, physical, or technical security controls results in unauthorized data access."
   },
   {
     "id": 48,
-    "topic": "Mga Parusa (Penalties)",
-    "question": "Ano ang parusa sa ilalim ng Section 25 para sa Hindi Awtorisadong Pagproseso (Unauthorized Processing) ng Sensitive Personal Information?",
-    "answer": "3 hanggang 6 na taong kulong at ₱500,000 hanggang ₱4,000,000 na multa",
+    "topic": "Penalties",
+    "question": "What penalty is imposed under Section 25 for Unauthorized Processing of Sensitive Personal Information?",
+    "answer": "3 to 6 years imprisonment and ₱500,000 to ₱4,000,000 fine",
     "aliases": [
+      "3 to 6 years imprisonment and ₱500,000 to ₱4,000,000 fine",
       "3-6 yrs; ₱500K-₱4M",
       "3 to 6 years and 500k to 4M",
       "3-6 years",
       "3-6 yrs"
     ],
     "choices": [
-      "3 hanggang 6 na taong kulong at ₱500,000 hanggang ₱4,000,000 na multa",
-      "1 taong kulong lamang",
-      "₱50,000 na piyansa",
-      "Reprimand mula sa dekano"
+      "3 to 6 years imprisonment and ₱500,000 to ₱4,000,000 fine",
+      "1 year imprisonment only",
+      "₱50,000 bail without incarceration",
+      "Dean's reprimand"
     ],
-    "explanation": "Ang Section 25 para sa sensitive personal info ay may mabigat na parusang 3 hanggang 6 na taong pagkabilanggo at multang ₱500,000 hanggang ₱4,000,000."
+    "explanation": "Section 25 imposes 3 to 6 years imprisonment and a fine of ₱500,000 to ₱4,000,000 for unauthorized processing of sensitive personal information."
   },
   {
     "id": 49,
-    "topic": "Mga Aktor sa RA 10173",
-    "question": "Kung ang isang mag-aaral ay may reklamo laban sa kanyang eskwelahan hinggil sa maling pagproseso ng kanyang datos matapos itong tanggihan ng paaralan, saang ahensya siya may karapatang maghain ng pormal na reklamo?",
+    "topic": "Actors in RA 10173",
+    "question": "If a student has a data privacy grievance against their university after the institution refuses to resolve the complaint, to which agency can they formally file a complaint?",
     "answer": "National Privacy Commission",
     "aliases": [
+      "National Privacy Commission",
       "NPC",
-      "Pambansang Komisyon sa Pagkapribado",
       "National Privacy Commission (NPC)"
     ],
     "choices": [
@@ -921,16 +944,16 @@
       "CHED",
       "Civil Service Commission"
     ],
-    "explanation": "Ang karapatang magreklamo (Right to file a complaint) ay pormal na idinudulog sa National Privacy Commission (NPC)."
+    "explanation": "The right to file a complaint (Sec. 16) regarding data privacy violations is adjudicated directly before the National Privacy Commission."
   },
   {
     "id": 50,
     "topic": "Privacy by Design",
-    "question": "Anong pagsusuri ang dapat isagawa bago pa simulan ang pagbuo ng isang software o computing system upang matukoy ang mga posibleng banta sa privacy ng mga gagamit?",
+    "question": "What formal assessment should be conducted prior to developing or launching a computing system to identify and mitigate privacy risks?",
     "answer": "Privacy Impact Assessment",
     "aliases": [
+      "Privacy Impact Assessment",
       "PIA",
-      "Pagtataya sa Epekto sa Privacy",
       "Privacy impact assessment"
     ],
     "choices": [
@@ -939,6 +962,6 @@
       "Usability Testing",
       "Load Testing"
     ],
-    "explanation": "Ang Privacy Impact Assessment (PIA) ay isinasagawa sa antas ng disenyo (Assess before building) bago ilunsad ang sistema."
+    "explanation": "A Privacy Impact Assessment (PIA) is carried out during the design stage ('Assess before building') to identify privacy risks and integrate technical controls."
   }
 ]

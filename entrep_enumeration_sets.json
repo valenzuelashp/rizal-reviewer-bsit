@@ -1,166 +1,147 @@
 [
   {
     "id": "ent-enum-1",
-    "topic": "Mga Elemento ng Entrepreneurship (Ratten, 2023)",
-    "question": "Ilista ang limang (5) pangunahing elemento ng Entrepreneurship ayon kay V. Ratten (2023):",
+    "topic": "Elements of Entrepreneurship (Ratten, 2023)",
+    "question": "List the five (5) key elements of Entrepreneurship according to V. Ratten (2023):",
     "required_count": 5,
     "items": [
       {
-        "canonical": "1. Opportunity (Pagkilala sa problema o unmet needs)",
+        "canonical": "1. Opportunity (Recognizing problems and unmet market needs)",
         "keywords": [
-          "opportunity",
-          "oportunidad",
-          "pagkakataon"
+          "opportunity"
         ]
       },
       {
-        "canonical": "2. Innovation (Pagbuo ng bago o pinagbuting solusyon)",
+        "canonical": "2. Innovation (Developing new or improved solutions)",
         "keywords": [
-          "innovation",
-          "inobasyon",
-          "solusyon"
+          "innovation"
         ]
       },
       {
-        "canonical": "3. Resources (Epektibong paggamit ng kagamitan at pondo)",
+        "canonical": "3. Resources (Deploying available assets and capital)",
         "keywords": [
           "resources",
-          "pinagkukunang-yaman",
-          "pondo"
+          "resource"
         ]
       },
       {
-        "canonical": "4. Value Creation (Pagbibigay ng benepisyo sa customer at lipunan)",
+        "canonical": "4. Value Creation (Delivering tangible customer and social utility)",
         "keywords": [
           "value creation",
-          "value",
-          "halaga"
+          "value"
         ]
       },
       {
-        "canonical": "5. Action (Pagsasakatuparan ng ideya tungo sa tunay na venture)",
+        "canonical": "5. Action (Executing and translating ideas into active ventures)",
         "keywords": [
-          "action",
-          "aksyon",
-          "pagkilos"
+          "action"
         ]
       }
     ],
-    "explanation": "Limang Elemento: Opportunity, Innovation, Resources, Value Creation, at Action (Ratten, 2023)."
+    "explanation": "Five Key Elements: Opportunity, Innovation, Resources, Value Creation, and Action (Ratten, 2023)."
   },
   {
     "id": "ent-enum-2",
-    "topic": "Mga Anyo ng Estruktura ng Negosyo",
-    "question": "Ilista ang tatlong (3) pangunahing legal na anyo o estruktura ng negosyo (Business Structures):",
+    "topic": "Forms of Business Structures",
+    "question": "List the three (3) primary legal forms of business structures:",
     "required_count": 3,
     "items": [
       {
-        "canonical": "1. Sole Proprietorship (Isahang Pagmamay-ari)",
+        "canonical": "1. Sole Proprietorship",
         "keywords": [
           "sole proprietorship",
           "sole prop",
-          "isahang pagmamay-ari",
           "single proprietorship"
         ]
       },
       {
-        "canonical": "2. Partnership (Pakikipagsosyo)",
+        "canonical": "2. Partnership",
         "keywords": [
-          "partnership",
-          "sosyo",
-          "pakikipagsosyo"
+          "partnership"
         ]
       },
       {
-        "canonical": "3. Corporation (Korporasyon)",
+        "canonical": "3. Corporation",
         "keywords": [
-          "corporation",
-          "korporasyon"
+          "corporation"
         ]
       }
     ],
-    "explanation": "Tatlong pangunahing anyo ng negosyo: Sole Proprietorship, Partnership, at Corporation."
+    "explanation": "Three Primary Business Structures: Sole Proprietorship, Partnership, and Corporation."
   },
   {
     "id": "ent-enum-3",
-    "topic": "Mga Ahensya sa Pagpaparehistro ng Negosyo",
-    "question": "Ilista ang tatlong (3) pangunahing pambansang ahensya ng pamahalaan sa pagpaparehistro ng negosyo:",
+    "topic": "Government Agencies for Business Registration",
+    "question": "List the three (3) primary national government agencies for business registration in the Philippines:",
     "required_count": 3,
     "items": [
       {
-        "canonical": "1. DTI (Department of Trade and Industry - para sa Sole Prop)",
+        "canonical": "1. DTI (Department of Trade and Industry - for Sole Proprietorships)",
         "keywords": [
           "dti",
           "department of trade and industry"
         ]
       },
       {
-        "canonical": "2. SEC (Securities and Exchange Commission - para sa Partnership at Corp)",
+        "canonical": "2. SEC (Securities and Exchange Commission - for Partnerships and Corporations)",
         "keywords": [
           "sec",
           "securities and exchange commission"
         ]
       },
       {
-        "canonical": "3. BIR (Bureau of Internal Revenue - para sa buwis at TIN)",
+        "canonical": "3. BIR (Bureau of Internal Revenue - for Tax, TIN, and Official Receipts)",
         "keywords": [
           "bir",
           "bureau of internal revenue"
         ]
       }
     ],
-    "explanation": "Tatlong ahensya: DTI (Sole Proprietorship), SEC (Partnership & Corporation), at BIR (Tax at Official Receipts)."
+    "explanation": "Three Agencies: DTI (Sole Proprietorship), SEC (Partnership & Corporation), and BIR (Tax & Official Receipts)."
   },
   {
     "id": "ent-enum-4",
-    "topic": "Ang Daloy ng Mindset Patungong Tagumpay",
-    "question": "Ilista ang limang (5) yugto sa daloy mula sa Paniniwala patungong Tagumpay:",
+    "topic": "The Progression from Mindset to Success",
+    "question": "List the five (5) stages in the progression from Cognitive Beliefs to Success:",
     "required_count": 5,
     "items": [
       {
-        "canonical": "1. Mindset (Kognitibong sistema ng paniniwala)",
+        "canonical": "1. Mindset (Cognitive belief system)",
         "keywords": [
-          "mindset",
-          "paniniwala"
+          "mindset"
         ]
       },
       {
-        "canonical": "2. Attitude (Saloobin o pananaw)",
+        "canonical": "2. Attitude (Way of thinking and feeling)",
         "keywords": [
-          "attitude",
-          "saloobin"
+          "attitude"
         ]
       },
       {
-        "canonical": "3. Behavior (Pag-uugali o gawi)",
+        "canonical": "3. Behavior (Observable habits and conduct)",
         "keywords": [
-          "behavior",
-          "pag-uugali",
-          "gawi"
+          "behavior"
         ]
       },
       {
-        "canonical": "4. Action (Kongkretong pagkilos)",
+        "canonical": "4. Action (Concrete operational execution)",
         "keywords": [
-          "action",
-          "aksyon",
-          "pagkilos"
+          "action"
         ]
       },
       {
-        "canonical": "5. Success (Pagtatagumpay sa layunin)",
+        "canonical": "5. Success (Attainment of desired outcomes)",
         "keywords": [
-          "success",
-          "tagumpay"
+          "success"
         ]
       }
     ],
-    "explanation": "Daloy: MINDSET -> ATTITUDE -> BEHAVIOR -> ACTION -> SUCCESS."
+    "explanation": "Flow: MINDSET -> ATTITUDE -> BEHAVIOR -> ACTION -> SUCCESS."
   },
   {
     "id": "ent-enum-5",
-    "topic": "Mga Rekisito sa Pagkuha ng Mayor's Business Permit",
-    "question": "Ilista ang anim (6) sa mga karaniwang rekisito na isinusumite sa City/Municipal Hall para sa Mayor's Permit:",
+    "topic": "Requirements for Mayor's / Business Permit",
+    "question": "List six (6) common requirements submitted to the City/Municipal Hall for a Mayor's Business Permit:",
     "required_count": 6,
     "items": [
       {
@@ -171,16 +152,16 @@
         ]
       },
       {
-        "canonical": "2. Lease Contract o Katibayan ng Pagmamay-ari ng Lugar",
+        "canonical": "2. Lease Contract or Proof of Ownership",
         "keywords": [
           "lease contract",
           "lease",
-          "patunay ng pagmamay-ari",
-          "proof of ownership"
+          "proof of ownership",
+          "ownership"
         ]
       },
       {
-        "canonical": "3. DTI o SEC Registration Certificate",
+        "canonical": "3. DTI or SEC Registration Certificate",
         "keywords": [
           "dti",
           "sec",
@@ -198,9 +179,9 @@
       {
         "canonical": "5. Fire Safety Inspection Certificate (FSIC)",
         "keywords": [
-          "fire safety",
-          "fsic",
           "fire safety inspection certificate",
+          "fsic",
+          "fire safety",
           "fire"
         ]
       },
@@ -209,16 +190,17 @@
         "keywords": [
           "sanitary permit",
           "sanitary",
+          "health clearance",
           "health permit"
         ]
       }
     ],
-    "explanation": "Mga rekisito sa Mayor's Permit: Barangay Clearance, Lease/Ownership Proof, DTI/SEC Documents, Occupancy Permit, Fire Safety Inspection Certificate, Sanitary Permit, at Community Tax Certificate."
+    "explanation": "Requirements for Mayor's Permit: Barangay Clearance, Lease/Ownership Proof, DTI/SEC Certificate, Occupancy Permit, Fire Safety Inspection Certificate, Sanitary Permit, and Community Tax Certificate."
   },
   {
     "id": "ent-enum-6",
-    "topic": "Mga Kahingian sa Kurso (Course Requirements)",
-    "question": "Ilista ang apat (4) na opisyal na Course Requirements sa asignaturang The Entrepreneurial Mind:",
+    "topic": "Course Requirements for The Entrepreneurial Mind",
+    "question": "List the four (4) official Course Requirements for The Entrepreneurial Mind at TUP:",
     "required_count": 4,
     "items": [
       {
@@ -226,7 +208,7 @@
         "keywords": [
           "learning activities",
           "assessments",
-          "gawain"
+          "activities"
         ]
       },
       {
@@ -234,115 +216,112 @@
         "keywords": [
           "class participation",
           "recitation",
-          "partisipasyon"
+          "participation"
         ]
       },
       {
-        "canonical": "3. Periodic Examinations (Prelim at Midterm)",
+        "canonical": "3. Periodic Examinations (Prelim and Midterm)",
         "keywords": [
           "periodic examinations",
+          "examinations",
           "prelim",
           "midterm",
-          "examinations",
-          "pagsusulit"
+          "exams"
         ]
       },
       {
         "canonical": "4. Final Project (Business Plan)",
         "keywords": [
           "final project",
-          "business plan",
-          "plano sa negosyo"
+          "business plan"
         ]
       }
     ],
-    "explanation": "Course Requirements: (1) Learning Activities & Assessments, (2) Class Participation/Recitation, (3) Periodic Examinations, at (4) Final Project (Business Plan)."
+    "explanation": "Course Requirements: (1) Learning Activities & Assessments, (2) Class Participation/Recitation, (3) Periodic Examinations, and (4) Final Project (Business Plan)."
   },
   {
     "id": "ent-enum-7",
-    "topic": "Mga Kalakasan ng Korporasyon (Pros of Corporation)",
-    "question": "Ilista ang tatlong (3) pangunahing bentaha o kalakasan (Pros) ng isang Korporasyon:",
+    "topic": "Advantages of a Corporation (Pros of Corporation)",
+    "question": "List three (3) major advantages (Pros) of a Corporation:",
     "required_count": 3,
     "items": [
       {
-        "canonical": "1. Limited Liability para sa mga shareholders",
+        "canonical": "1. Limited Liability for shareholders",
         "keywords": [
-          "limited liability",
-          "limitadong pananagutan"
+          "limited liability"
         ]
       },
       {
-        "canonical": "2. Kakayahang makalikom ng malaking kapital (Raise large capital)",
+        "canonical": "2. Ability to raise large capital through shares",
         "keywords": [
+          "raise large capital",
           "large capital",
-          "malaking kapital",
-          "makalikom ng kapital",
+          "raise capital",
           "capital"
         ]
       },
       {
-        "canonical": "3. Perpetual Existence (Patuloy na buhay ng korporasyon)",
+        "canonical": "3. Perpetual Existence",
         "keywords": [
           "perpetual existence",
-          "perpetual",
-          "patuloy na buhay"
+          "perpetual"
         ]
       }
     ],
-    "explanation": "Pros ng Corporation: (1) Limited Liability, (2) Can raise large amounts of capital, (3) Perpetual existence."
+    "explanation": "Pros of a Corporation: (1) Limited Liability, (2) Can raise large amounts of capital, (3) Perpetual existence."
   },
   {
     "id": "ent-enum-8",
-    "topic": "Mga Katangian ng Entrepreneurial Mindset",
-    "question": "Ilista ang anim (6) sa sampung (10) katangian ng isang taong may Entrepreneurial Mindset:",
+    "topic": "Characteristics of an Entrepreneurial Mindset",
+    "question": "List six (6) of the ten (10) characteristics of an Entrepreneurial Mindset:",
     "required_count": 6,
     "items": [
       {
-        "canonical": "1. Critical Thinking (Mapanuring pag-iisip)",
+        "canonical": "1. Critical Thinking",
         "keywords": [
           "critical thinking",
-          "kritikal"
+          "critical"
         ]
       },
       {
-        "canonical": "2. Flexibility and Adaptability (Kakayahang makibagay)",
+        "canonical": "2. Flexibility and Adaptability",
         "keywords": [
           "flexibility",
           "adaptability",
-          "makibagay"
+          "flexible",
+          "adaptable"
         ]
       },
       {
-        "canonical": "3. Communication and Collaboration (Komunikasyon at pakikipagtulungan)",
+        "canonical": "3. Communication and Collaboration",
         "keywords": [
           "communication",
-          "collaboration",
-          "komunikasyon"
+          "collaboration"
         ]
       },
       {
-        "canonical": "4. Initiative and Self-Reliance (Pagkukusa at sariling kakayahan)",
+        "canonical": "4. Initiative and Self-Reliance",
         "keywords": [
           "initiative",
           "self-reliance",
-          "pagkukusa"
+          "self reliance"
         ]
       },
       {
-        "canonical": "5. Opportunity Recognition (Pagkilala sa oportunidad)",
+        "canonical": "5. Opportunity Recognition",
         "keywords": [
           "opportunity recognition",
-          "oportunidad"
+          "opportunity"
         ]
       },
       {
-        "canonical": "6. Resilience (Katatagang bumangon mula sa kabiguan)",
+        "canonical": "6. Resilience",
         "keywords": [
           "resilience",
-          "katatagan"
+          "resilient"
         ]
       }
     ],
-    "explanation": "Mga Katangian: Critical Thinking, Flexibility & Adaptability, Communication & Collaboration, Initiative & Self-Reliance, Opportunity Recognition, Future Orientation, Resilience, Persistence, Resourcefulness, Creativity & Innovation."
+    "explanation": "Ten Mindset Characteristics: Critical Thinking, Flexibility & Adaptability, Communication & Collaboration, Initiative & Self-Reliance, Opportunity Recognition, Future Orientation, Resilience, Persistence, Resourcefulness, Creativity & Innovation."
   }
 ]

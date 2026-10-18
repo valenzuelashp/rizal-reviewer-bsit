@@ -1,129 +1,129 @@
 [
   {
     "id": "soc-match-1",
-    "title": "Set 1: Mga Aktor at Tungkulin sa RA 10173",
-    "description": "Itugma ang bawat aktor sa kanyang kaukulang kahulugan o pananagutan sa ilalim ng batas.",
+    "title": "Set 1: Actors and Roles under RA 10173",
+    "description": "Match each key actor with their legal definition or statutory responsibility.",
     "pairs": [
       {
         "left": "Data Subject",
-        "right": "Indibidwal na ang personal, sensitibo, o pribilehiyong datos ay pinoproseso",
-        "explanation": "Ang taong nagmamay-ari ng impormasyon na pinangangalagaan ng RA 10173."
+        "right": "Individual whose personal, sensitive, or privileged data is processed",
+        "explanation": "The individual who owns the personal data protected under RA 10173."
       },
       {
         "left": "Personal Information Controller (PIC)",
-        "right": "Nagpapasya kung anong datos ang ipoproseso, bakit, at paano (nananatiling may pananagutan sa PIP)",
-        "explanation": "May pananagutan sa pangkalahatang pagproseso alinsunod sa Sec. 21."
+        "right": "Decides what data is processed, why, and how (accountable under Sec. 21)",
+        "explanation": "Holds ultimate accountability for processing compliance under Sec. 21."
       },
       {
         "left": "Personal Information Processor (PIP)",
-        "right": "Ikatlong partidong nagpoproseso para at sa ngalan ng controller (hal. cloud host)",
-        "explanation": "Nagsasagawa ng pagproseso sa ilalim ng tagubilin at kontrata ng PIC."
+        "right": "Third party that processes data for and on behalf of a controller (e.g. cloud host)",
+        "explanation": "Operates under the contractual instructions and oversight of the PIC."
       },
       {
         "left": "Data Protection Officer (DPO)",
-        "right": "Nagsusubaybay sa pagsunod ng organisasyon at nagsisilbing contact point sa NPC",
-        "explanation": "Itinalagang opisyal para sa privacy compliance at ugnayan."
+        "right": "Monitors organizational compliance and serves as contact point for the NPC",
+        "explanation": "Designated corporate officer responsible for privacy compliance."
       },
       {
         "left": "National Privacy Commission (NPC)",
-        "right": "Ahensyang nagpapatupad at nag-iisyu ng mga circular para sa RA 10173",
-        "explanation": "Regulatory commission na namamahala sa proteksyon ng personal data sa Pilipinas."
+        "right": "Regulatory agency that enforces RA 10173 and issues circulars",
+        "explanation": "The central government body regulating personal data protection in the Philippines."
       }
     ]
   },
   {
     "id": "soc-match-2",
-    "title": "Set 2: Mga Teorya at Iskolar sa Privacy",
-    "description": "Itugma ang bawat iskolar o eksperto sa kanyang kaisipan o konseptong binuo.",
+    "title": "Set 2: Privacy Theories and Scholars",
+    "description": "Match each scholar or theorist with their foundational concept or framework.",
     "pairs": [
       {
         "left": "Warren and Brandeis (1890)",
-        "right": "The right to be let alone (kalayaan mula sa panghihimasok)",
-        "explanation": "Harvard Law Review article na nagpasimula sa legal na konsepto ng privacy."
+        "right": "The right to be let alone (freedom from unwarranted intrusion)",
+        "explanation": "Harvard Law Review article establishing the modern legal concept of privacy."
       },
       {
         "left": "Alan Westin (1967)",
-        "right": "Control over information (pagpapasiya kung ano ang ipinapahayag ukol sa sarili)",
-        "explanation": "May-akda ng 'Privacy and Freedom' na nagtutok sa indibidwal na kontrol at pahintulot."
+        "right": "Control over information (individual determination of self-disclosure)",
+        "explanation": "Author of 'Privacy and Freedom', focusing on individual control and consent."
       },
       {
         "left": "Helen Nissenbaum (2010)",
-        "right": "Contextual Integrity (ang daloy ng datos ay dapat umaayon sa konteksto nito)",
-        "explanation": "Working test na sumusuri kung ang daloy ng impormasyon ay tumutugma sa mga pamantayan ng pinagmulan."
+        "right": "Contextual Integrity (data flow must conform to contextual norms)",
+        "explanation": "Framework examining whether information transmission adheres to origin norms."
       },
       {
         "left": "Ann Cavoukian",
-        "right": "Privacy by Design (7 foundational principles para sa mga sistema)",
-        "explanation": "Dating Privacy Commissioner ng Ontario na nagpanukala ng Privacy by Design."
+        "right": "Privacy by Design (7 foundational engineering principles)",
+        "explanation": "Former Ontario Information & Privacy Commissioner who pioneered PbD."
       },
       {
         "left": "Nancy Leveson",
-        "right": "System Safety: 'Which control was missing?' sa halip na 'Sino ang sumira nito?'",
-        "explanation": "Pagsusuri sa mga pagkukulang sa arkitektura at kontrol ng sistema sa panahon ng breach."
+        "right": "System Safety: 'Which control was missing?' instead of 'Who broke it?'",
+        "explanation": "Accident analysis focusing on structural and architectural safety controls."
       }
     ]
   },
   {
     "id": "soc-match-3",
-    "title": "Set 3: Mga Karapatan ng Data Subject",
-    "description": "Itugma ang bawat karapatan sa tiyak na proteksyong ibinibigay nito sa ilalim ng RA 10173.",
+    "title": "Set 3: Rights of the Data Subject",
+    "description": "Match each data subject right with its statutory safeguard under RA 10173.",
     "pairs": [
       {
         "left": "Right to object",
-        "right": "Tumanggi sa pagproseso, kabilang ang direct marketing o profiling",
-        "explanation": "Sec. 16: Pagpigil sa paggamit ng datos para sa mga layuning hindi sinang-ayunan."
+        "right": "Refuse data processing, including direct marketing or profiling",
+        "explanation": "Sec. 16: Right to withhold consent from unauthorized data utilization."
       },
       {
         "left": "Right to rectification",
-        "right": "Ipawasto ang mali o hindi kumpletong tala sa sistema",
-        "explanation": "Sec. 16: Pagtiyak sa katumpakan at kawastuhan ng personal na impormasyon."
+        "right": "Demand correction of inaccurate or incomplete records in the system",
+        "explanation": "Sec. 16: Ensuring the accuracy and integrity of personal information."
       },
       {
         "left": "Right to erasure or blocking",
-        "right": "Ipasuspinde, bawiin, o ipabura ang datos mula sa sistema",
-        "explanation": "Sec. 16: Pag-alis ng datos kapag ilegal, hindi na kailangan, o binawi ang pahintulot."
+        "right": "Suspend, withdraw, or order removal of data from the system",
+        "explanation": "Sec. 16: Purging data when unlawful, obsolete, or when consent is withdrawn."
       },
       {
         "left": "Right to data portability",
-        "right": "Kumuha ng kopya sa electronic at structured format upang mailipat",
-        "explanation": "Sec. 18: Paglilipat ng sariling records sa ibang platform o controller."
+        "right": "Obtain electronic, structured copies to transfer data to another platform",
+        "explanation": "Sec. 18: Enables seamless migration of digital records across service providers."
       },
       {
         "left": "Right to damages",
-        "right": "Magbayad-pinsala sa natamong pinsala dulot ng maling pagproseso",
-        "explanation": "Sec. 16: Karapatang maghabol ng bayad sa kapinsalaang idinulot ng paglabag."
+        "right": "Receive indemnification for damages sustained due to unlawful processing",
+        "explanation": "Sec. 16: Right to financial compensation for injuries caused by statutory violations."
       }
     ]
   },
   {
     "id": "soc-match-4",
-    "title": "Set 4: Mga Parusa at Seksyon ng Batas",
-    "description": "Itugma ang bawat krimen sa kaukulang seksyon sa RA 10173.",
+    "title": "Set 4: Statutory Penalties and Sections",
+    "description": "Match each criminal offense with its corresponding section in RA 10173.",
     "pairs": [
       {
         "left": "Section 25",
-        "right": "Unauthorized Processing ng Personal o Sensitive Information",
-        "explanation": "1-3 yrs (PI) / 3-6 yrs (SPI); multa hanggang ₱4M."
+        "right": "Unauthorized Processing of Personal or Sensitive Information",
+        "explanation": "1-3 yrs (PI) / 3-6 yrs (SPI); fines up to ₱4,000,000."
       },
       {
         "left": "Section 26",
-        "right": "Access Due to Negligence (kapabayaan sa paglalagay ng security controls)",
-        "explanation": "1-3 yrs (PI) / 3-6 yrs (SPI); multa hanggang ₱4M."
+        "right": "Access Due to Negligence (failure to implement security controls)",
+        "explanation": "1-3 yrs (PI) / 3-6 yrs (SPI); fines up to ₱4,000,000."
       },
       {
         "left": "Section 27",
-        "right": "Improper Disposal ng Personal o Sensitive Information",
-        "explanation": "6 mos-2 yrs (PI) / 1-3 yrs (SPI); multa hanggang ₱1M."
+        "right": "Improper Disposal of Personal or Sensitive Information",
+        "explanation": "6 mos-2 yrs (PI) / 1-3 yrs (SPI); fines up to ₱1,000,000."
       },
       {
         "left": "Section 30",
-        "right": "Concealment of Security Breach na kinasasangkutan ng Sensitive Data",
-        "explanation": "1.5-5 yrs; multa na ₱500K hanggang ₱1M."
+        "right": "Concealment of Security Breach involving Sensitive Data",
+        "explanation": "1.5-5 yrs imprisonment; fines ranging from ₱500,000 to ₱1,000,000."
       },
       {
         "left": "Section 35",
-        "right": "Large Scale: Maximum penalty kapag 100 o higit pang tao ang apektado",
-        "explanation": "Awtomatikong pinakamataas na parusa sa saklaw ang ipinapataw."
+        "right": "Large Scale: Maximum penalty imposed when 100+ individuals are affected",
+        "explanation": "Automatically mandates the maximum penalty in the prescribed range."
       }
     ]
   }
