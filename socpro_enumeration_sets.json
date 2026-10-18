@@ -1,0 +1,357 @@
+[
+  {
+    "id": "soc-enum-1",
+    "topic": "Prinsipyo ng Data Privacy (Sec. 11)",
+    "question": "Ilista ang tatlong (3) pangkalahatang prinsipyo ng Data Privacy sa ilalim ng Section 11 ng RA 10173:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "Transparency (Pagiging Bukas)",
+        "keywords": [
+          "transparency",
+          "transparensi",
+          "pagiging bukas"
+        ]
+      },
+      {
+        "canonical": "Legitimate Purpose (Makatarungang Layunin)",
+        "keywords": [
+          "legitimate purpose",
+          "makatarungang layunin",
+          "legitimate"
+        ]
+      },
+      {
+        "canonical": "Proportionality (Proporsyonalidad)",
+        "keywords": [
+          "proportionality",
+          "proporsyonalidad",
+          "hindi labis"
+        ]
+      }
+    ],
+    "explanation": "Tatlong Prinsipyo sa Sec. 11: (1) Transparency, (2) Legitimate Purpose, at (3) Proportionality."
+  },
+  {
+    "id": "soc-enum-2",
+    "topic": "Pamamahala ng Breach (NPC Circular 16-03)",
+    "question": "Ilista ang limang (5) sunod-sunod na hakbang (five moves) sa pagtugon sa personal data breach ayon sa NPC Circular 16-03:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Contain (Pagsugpo / Itigil ang tagas)",
+        "keywords": [
+          "contain",
+          "containment",
+          "pagsugpo",
+          "itigil ang leak"
+        ]
+      },
+      {
+        "canonical": "2. Assess (Pagtataya ng datos at pinsala)",
+        "keywords": [
+          "assess",
+          "assessment",
+          "pagtataya"
+        ]
+      },
+      {
+        "canonical": "3. Notify (Pag-abiso sa NPC at data subjects sa loob ng 72 oras)",
+        "keywords": [
+          "notify",
+          "notification",
+          "pag-abiso",
+          "abiso"
+        ]
+      },
+      {
+        "canonical": "4. Document (Pagtatala ng mga pangyayari at desisyon)",
+        "keywords": [
+          "document",
+          "documentation",
+          "pagtatala",
+          "itala"
+        ]
+      },
+      {
+        "canonical": "5. Prevent (Pag-iwas sa pag-ulit / Pag-aayos ng kontrol)",
+        "keywords": [
+          "prevent",
+          "prevention",
+          "pag-iwas"
+        ]
+      }
+    ],
+    "explanation": "Limang Hakbang: Contain, Assess, Notify, Document, Prevent."
+  },
+  {
+    "id": "soc-enum-3",
+    "topic": "Mga Karapatan ng Data Subject (Sec. 16-18)",
+    "question": "Ilista ang anim (6) sa mga pangunahing karapatan ng isang Data Subject ayon sa RA 10173:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "Right to be informed (Karapatang malaman)",
+        "keywords": [
+          "be informed",
+          "informed",
+          "malaman"
+        ]
+      },
+      {
+        "canonical": "Right to object (Karapatang tumanggi)",
+        "keywords": [
+          "object",
+          "tumanggi",
+          "pagtutol"
+        ]
+      },
+      {
+        "canonical": "Right to access (Karapatang mag-access)",
+        "keywords": [
+          "access",
+          "makita",
+          "makuha"
+        ]
+      },
+      {
+        "canonical": "Right to rectification (Karapatang magwasto)",
+        "keywords": [
+          "rectification",
+          "magwasto",
+          "itama"
+        ]
+      },
+      {
+        "canonical": "Right to erasure or blocking (Karapatang magpabura o magpa-block)",
+        "keywords": [
+          "erasure",
+          "blocking",
+          "magpabura",
+          "burahin"
+        ]
+      },
+      {
+        "canonical": "Right to data portability (Karapatan sa data portability)",
+        "keywords": [
+          "data portability",
+          "portability"
+        ]
+      }
+    ],
+    "explanation": "Mga Karapatan: Be informed, Object, Access, Rectification, Erasure/blocking, Data portability, Damages, at File a complaint."
+  },
+  {
+    "id": "soc-enum-4",
+    "topic": "Batayan sa Pagproseso (Sec. 12)",
+    "question": "Ilista ang anim (6) na legal na batayan (lawful criteria) para sa pagproseso ng karaniwang Personal Information:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "1. Consent ng data subject",
+        "keywords": [
+          "consent",
+          "pahintulot"
+        ]
+      },
+      {
+        "canonical": "2. Fulfilling a contract (Pagtupad sa kontrata)",
+        "keywords": [
+          "contract",
+          "kontrata"
+        ]
+      },
+      {
+        "canonical": "3. Legal obligation ng controller",
+        "keywords": [
+          "legal obligation",
+          "tungkulin sa batas"
+        ]
+      },
+      {
+        "canonical": "4. Vital interests (Buhay at kalusugan)",
+        "keywords": [
+          "vital interests",
+          "buhay",
+          "kalusugan",
+          "life"
+        ]
+      },
+      {
+        "canonical": "5. National emergency o public order",
+        "keywords": [
+          "national emergency",
+          "public order",
+          "kagipitan"
+        ]
+      },
+      {
+        "canonical": "6. Legitimate interests ng controller o ikatlong partido",
+        "keywords": [
+          "legitimate interests",
+          "legitimate interest"
+        ]
+      }
+    ],
+    "explanation": "Anim na batayan sa Sec. 12: Consent, Contract, Legal obligation, Vital interests, National emergency, at Legitimate interests."
+  },
+  {
+    "id": "soc-enum-5",
+    "topic": "Mandatory Breach Notification (NPC Circular 16-03)",
+    "question": "Ilista ang tatlong (3) sabay-sabay na kondisyon upang maging sapilitan (mandatory) ang pag-abiso ng breach sa loob ng 72 oras:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Sangkot ang sensitive personal information o fraud-enabling data",
+        "keywords": [
+          "sensitive personal information",
+          "sensitive",
+          "fraud-enabling data",
+          "fraud"
+        ]
+      },
+      {
+        "canonical": "2. Malamang na nakuha ng isang unauthorized person",
+        "keywords": [
+          "unauthorized person",
+          "unauthorized acquisition",
+          "nakuha ng walang pahintulot"
+        ]
+      },
+      {
+        "canonical": "3. May tunay na panganib ng matinding pinsala (real risk of serious harm)",
+        "keywords": [
+          "real risk of serious harm",
+          "serious harm",
+          "matinding pinsala",
+          "panganib ng pinsala"
+        ]
+      }
+    ],
+    "explanation": "Tatlong mandatory conditions: (1) Sensitive/fraud data, (2) Unauthorized acquisition, (3) Real risk of serious harm."
+  },
+  {
+    "id": "soc-enum-6",
+    "topic": "Privacy by Design (Mga Gawi)",
+    "question": "Ilista ang anim (6) na gawi ng Privacy by Design para sa mga software developer:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "1. Collect less (Kolektahin lamang ang kailangan)",
+        "keywords": [
+          "collect less",
+          "mangolekta ng kaunti"
+        ]
+      },
+      {
+        "canonical": "2. Assess before building (Magsagawa ng PIA sa disenyo)",
+        "keywords": [
+          "assess before building",
+          "pia",
+          "magtasa bago gumawa"
+        ]
+      },
+      {
+        "canonical": "3. Fake the test data (Gumamit ng synthetic data sa test server)",
+        "keywords": [
+          "fake the test data",
+          "synthetic data",
+          "pekeng datos"
+        ]
+      },
+      {
+        "canonical": "4. Restrict by role (Limitahan ang access ayon sa tungkulin)",
+        "keywords": [
+          "restrict by role",
+          "rbac",
+          "limitahan sa tungkulin"
+        ]
+      },
+      {
+        "canonical": "5. Set a deletion date (Magtakda ng retention policy sa schema)",
+        "keywords": [
+          "set a deletion date",
+          "deletion date",
+          "retention"
+        ]
+      },
+      {
+        "canonical": "6. Say it plainly (Gumawa ng malinaw na privacy notice)",
+        "keywords": [
+          "say it plainly",
+          "malinaw na paalala",
+          "privacy notice"
+        ]
+      }
+    ],
+    "explanation": "Anim na gawi: Collect less, Assess before building, Fake the test data, Restrict by role, Set a deletion date, Say it plainly."
+  },
+  {
+    "id": "soc-enum-7",
+    "topic": "Mga Tungkulin ng Controller",
+    "question": "Ilista ang tatlong (3) pangunahing tungkulin ng Personal Information Controller (PIC) ayon sa Module 5A:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Secure the data (Sec. 20 - Organizational, physical, technical security)",
+        "keywords": [
+          "secure the data",
+          "seguridad",
+          "security",
+          "sec 20"
+        ]
+      },
+      {
+        "canonical": "2. Answer for transfers (Sec. 21 - Manatiling responsable sa processors at paglipat)",
+        "keywords": [
+          "answer for transfers",
+          "transfers",
+          "pananagutan sa paglipat",
+          "sec 21"
+        ]
+      },
+      {
+        "canonical": "3. Register (NPC Circular 2022-04 - Irehistro ang DPS at DPO taun-taon)",
+        "keywords": [
+          "register",
+          "rehistro",
+          "registration"
+        ]
+      }
+    ],
+    "explanation": "Tatlong tungkulin: Secure the data (Sec. 20), Answer for transfers (Sec. 21), at Register (NPC Circular 2022-04)."
+  },
+  {
+    "id": "soc-enum-8",
+    "topic": "Mga Kategorya ng Impormasyon (Sec. 3)",
+    "question": "Ilista ang tatlong (3) kategorya ng impormasyon na binibigyang-kahulugan at pinoprotektahan ng RA 10173:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Personal Information (Sec. 3g)",
+        "keywords": [
+          "personal information",
+          "personal na impormasyon",
+          "personal"
+        ]
+      },
+      {
+        "canonical": "2. Sensitive Personal Information (Sec. 3l)",
+        "keywords": [
+          "sensitive personal information",
+          "sensitibong personal na impormasyon",
+          "sensitive"
+        ]
+      },
+      {
+        "canonical": "3. Privileged Information (Sec. 3k)",
+        "keywords": [
+          "privileged information",
+          "pribilehiyong impormasyon",
+          "privileged"
+        ]
+      }
+    ],
+    "explanation": "Tatlong kategorya sa Sec. 3: Personal Information, Sensitive Personal Information, at Privileged Information."
+  }
+]
