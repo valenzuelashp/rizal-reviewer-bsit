@@ -1,0 +1,926 @@
+[
+  {
+    "id": 1,
+    "topic": "Kahulugan at Etimolohiya",
+    "question": "Mula sa anong pandiwang Pranses (French verb) nagmula ang salitang 'entrepreneur' na nangangahulugang 'to undertake' (magsagawa o mamahala ng gawain)?",
+    "answer": "Entreprendre",
+    "aliases": [
+      "entreprendre",
+      "Entreprendre",
+      "entreprende"
+    ],
+    "choices": [
+      "Entreprendre",
+      "Entreprise",
+      "Prendre",
+      "Entrepôt"
+    ],
+    "explanation": "Ang salitang 'entrepreneur' ay nagmula sa French verb na 'entreprendre' na nangangahulugang 'to undertake' (Barringer & Ireland, 2019)."
+  },
+  {
+    "id": 2,
+    "topic": "Kahulugan at Etimolohiya",
+    "question": "Sa etimolohiya ng salitang entrepreneur, ano ang kahulugan ng salitang 'entre' at 'prendre'?",
+    "answer": "Between at to take",
+    "aliases": [
+      "Between at to take",
+      "between and to take",
+      "Between and to take",
+      "between, to take"
+    ],
+    "choices": [
+      "Between at to take",
+      "Before at to give",
+      "Under at to lead",
+      "Inside at to make"
+    ],
+    "explanation": "Ang 'entre' ay nangangahulugang 'between' at ang 'prendre' ay nangangahulugang 'to take'. Ang entrepreneur ay isang taong namamagitan at sumasalo/nagpapasimula ng mga panganib sa negosyo."
+  },
+  {
+    "id": 3,
+    "topic": "Kahulugan at Etimolohiya",
+    "question": "Ayon kina Barringer at Ireland (2019), ano ang karaniwang ginagampanan ng isang entrepreneur sa pagsisimula ng negosyo?",
+    "answer": "Innovator na sumasalo ng mga panganib (assumes risks)",
+    "aliases": [
+      "Innovator",
+      "Assumes risks",
+      "Tagapagsimula na sumasalo ng panganib",
+      "Innovator at risk taker"
+    ],
+    "choices": [
+      "Innovator na sumasalo ng mga panganib (assumes risks)",
+      "Empleyado na sumusunod lamang sa utos",
+      "Investor na walang kinalaman sa operasyon",
+      "Tagamasid sa galaw ng pamilihan"
+    ],
+    "explanation": "Ang entrepreneur ay tinitingnan bilang innovator at pinagmumulan ng bagong ideya, produkto, o serbisyo na sumasalo sa mga panganib (assumes the risks involved) sa pagtatatag ng venture."
+  },
+  {
+    "id": 4,
+    "topic": "Kahulugan at Etimolohiya",
+    "question": "Ayon kay Ratten (2023), ano ang entrepreneurship?",
+    "answer": "Proseso ng pagtukoy ng oportunidad at paggamit ng resources sa malikhaing paraan upang makalikha ng halaga",
+    "aliases": [
+      "Process of identifying opportunities",
+      "Pagtukoy ng oportunidad at paglikha ng value",
+      "Paglikha ng halaga mula sa oportunidad",
+      "Process of identifying opportunities, using resources to create value"
+    ],
+    "choices": [
+      "Proseso ng pagtukoy ng oportunidad at paggamit ng resources sa malikhaing paraan upang makalikha ng halaga",
+      "Panghihiram lamang ng pera sa bangko upang magtinda",
+      "Pagbili at pagbebenta ng shares sa stock market",
+      "Pagtatrabaho sa gobyerno bilang tagapangasiwa ng kalakalan"
+    ],
+    "explanation": "Ayon kay V. Ratten (2023), ang entrepreneurship ay ang proseso ng pagtukoy ng mga oportunidad, paggamit ng bago o pinagsamang resources sa malikhaing paraan upang lumikha ng halaga (create value)."
+  },
+  {
+    "id": 5,
+    "topic": "Mga Elemento ng Entrepreneurship",
+    "question": "Alin sa 5 Pangunahing Elemento ng Entrepreneurship (Ratten, 2023) ang tumutukoy sa pagkilala sa mga suliranin o hindi pa natutugunang pangangailangan ng tao (unmet needs)?",
+    "answer": "Opportunity",
+    "aliases": [
+      "Opportunity",
+      "Oportunidad",
+      "Pagkakataon"
+    ],
+    "choices": [
+      "Opportunity",
+      "Innovation",
+      "Resources",
+      "Action"
+    ],
+    "explanation": "Ang Opportunity ay ang pagkilala sa mga problema, puwang sa merkado, o unmet needs na maaaring gawan ng solusyon."
+  },
+  {
+    "id": 6,
+    "topic": "Mga Elemento ng Entrepreneurship",
+    "question": "Alin sa mga elemento ng entrepreneurship ang tumutukoy sa pagbuo ng bago o pinagbuting solusyon para sa merkado?",
+    "answer": "Innovation",
+    "aliases": [
+      "Innovation",
+      "Inobasyon",
+      "Pagbabago"
+    ],
+    "choices": [
+      "Innovation",
+      "Resources",
+      "Action",
+      "Value Creation"
+    ],
+    "explanation": "Ang Innovation ay ang pagbuo ng bago o pinagbuting solusyon, produkto, serbisyo, o proseso."
+  },
+  {
+    "id": 7,
+    "topic": "Mga Elemento ng Entrepreneurship",
+    "question": "Aling elemento ng entrepreneurship ang nakatuon sa epektibong paggamit ng mga kasalukuyang magagamit na kagamitan, pondo, at kakayahan?",
+    "answer": "Resources",
+    "aliases": [
+      "Resources",
+      "Pinagkukunang-yaman",
+      "Pinagkukunang yaman"
+    ],
+    "choices": [
+      "Resources",
+      "Opportunity",
+      "Value Creation",
+      "Action"
+    ],
+    "explanation": "Ang Resources ay ang mabisang paggamit ng mga materyales, pondo, tao, at impormasyon upang maisakatuparan ang plano."
+  },
+  {
+    "id": 8,
+    "topic": "Mga Elemento ng Entrepreneurship",
+    "question": "Aling elemento ng entrepreneurship ang nagbibigay ng aktwal na pakinabang at benepisyo sa mga kostumer at sa lipunan?",
+    "answer": "Value Creation",
+    "aliases": [
+      "Value Creation",
+      "Paglikha ng Halaga",
+      "Value creation"
+    ],
+    "choices": [
+      "Value Creation",
+      "Innovation",
+      "Opportunity",
+      "Resources"
+    ],
+    "explanation": "Ang Value Creation ay ang paghahatid ng benepisyo at kapakinabangan na nagbibigay-kasiyahan sa customer at nag-aambag sa komunidad."
+  },
+  {
+    "id": 9,
+    "topic": "Mga Elemento ng Entrepreneurship",
+    "question": "Aling elemento ng entrepreneurship ang tumutukoy sa kongkretong pagpapatupad o pagbabago ng ideya upang maging isang tunay at gumaganang negosyo?",
+    "answer": "Action",
+    "aliases": [
+      "Action",
+      "Aksyon",
+      "Pagsasagawa"
+    ],
+    "choices": [
+      "Action",
+      "Opportunity",
+      "Resources",
+      "Value Creation"
+    ],
+    "explanation": "Ang Action ay ang transpormasyon ng ideya o oportunidad tungo sa isang buhay at mapapakinabangang venture."
+  },
+  {
+    "id": 10,
+    "topic": "Entrepreneurial Mindset",
+    "question": "Ano ang kahulugan ng 'Mindset' ayon sa talakayan ng kurso?",
+    "answer": "Cognitive belief system",
+    "aliases": [
+      "Cognitive belief system",
+      "Kognitibong sistema ng paniniwala",
+      "Belief system"
+    ],
+    "choices": [
+      "Cognitive belief system",
+      "Financial statement",
+      "Business model",
+      "Marketing strategy"
+    ],
+    "explanation": "Ang Mindset ay isang 'cognitive belief system' na binubuo ng magkakaugnay na paniniwala, pagpapalagay, at kaalaman na gumagabay sa ating desisyon at pagkilos."
+  },
+  {
+    "id": 11,
+    "topic": "Entrepreneurial Mindset",
+    "question": "Ano ang tamang pagkakasunod-sunod ng apat na hakbang mula sa Mindset patungo sa Tagumpay ayon sa modelo ng kurso?",
+    "answer": "Mindset -> Attitude -> Behavior -> Action -> Success",
+    "aliases": [
+      "Mindset Attitude Behavior Action Success",
+      "Mindset, Attitude, Behavior, Action, Success",
+      "Attitude Behavior Action Success",
+      "Attitude -> Behavior -> Action -> Success"
+    ],
+    "choices": [
+      "Mindset -> Attitude -> Behavior -> Action -> Success",
+      "Success -> Action -> Behavior -> Attitude -> Mindset",
+      "Action -> Mindset -> Attitude -> Success -> Behavior",
+      "Mindset -> Money -> Business -> Marketing -> Success"
+    ],
+    "explanation": "Ang daloy ay nagsisimula sa Mindset na humuhubog sa Attitude, nagiging Behavior, naisasalin sa Action, at nagbubunga ng Success."
+  },
+  {
+    "id": 12,
+    "topic": "Entrepreneurial Mindset",
+    "question": "Sino ang tanyag na tagapagtatag ng 'Go Negosyo' na nagsabing 'Entrepreneurship, with the right mindset, can help anyone reach his goals in life'?",
+    "answer": "Joey E. Concepcion",
+    "aliases": [
+      "Joey Concepcion",
+      "Joey E Concepcion",
+      "Jose Ma. A. Concepcion III",
+      "Joey Concepcion ng Go Negosyo"
+    ],
+    "choices": [
+      "Joey E. Concepcion",
+      "Henry Sy",
+      "Tony Tan Caktiong",
+      "Manny Villar"
+    ],
+    "explanation": "Si Joey E. Concepcion ang nagtatag ng Go Negosyo (Philippine Center for Entrepreneurship) at nagsulong ng kahalagahan ng tamang mindset sa pagnenegosyo."
+  },
+  {
+    "id": 13,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Aling katangian ang tumutukoy sa intelektwal na proseso ng masusing pagsusuri, pagtatasa, at pagbuo ng ideya batay sa obserbasyon at karanasan bilang gabay sa desisyon?",
+    "answer": "Critical Thinking",
+    "aliases": [
+      "Critical Thinking",
+      "Kritikal na Pag-iisip",
+      "Mapanuring pag-iisip"
+    ],
+    "choices": [
+      "Critical Thinking",
+      "Resilience",
+      "Resourcefulness",
+      "Future Orientation"
+    ],
+    "explanation": "Ang Critical Thinking ay ang disiplinadong proseso ng pagkonsepto, pagsusuri, at pagtataya ng impormasyon upang makagawa ng tamang desisyon."
+  },
+  {
+    "id": 14,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Anong katangian ng entrepreneur ang tumutukoy sa kakayahang mabilis na makibagay sa mga pagbabago sa merkado, teknolohiya, at kapaligiran ng negosyo?",
+    "answer": "Flexibility and Adaptability",
+    "aliases": [
+      "Flexibility and Adaptability",
+      "Flexibility",
+      "Adaptability",
+      "Pakikibagay"
+    ],
+    "choices": [
+      "Flexibility and Adaptability",
+      "Persistence",
+      "Self-Reliance",
+      "Critical Thinking"
+    ],
+    "explanation": "Ang Flexibility and Adaptability ay ang kakayahang magbago ng direksyon at mag-adjust kapag may bagong teknolohiya o pagbabago sa konsyumer."
+  },
+  {
+    "id": 15,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Aling katangian ang sumasaklaw sa malinaw na pagpapahayag ng ideya at pagtatrabaho bilang isang pangkat upang makamit ang iisang layunin?",
+    "answer": "Communication and Collaboration",
+    "aliases": [
+      "Communication and Collaboration",
+      "Komunikasyon at Kolaborasyon",
+      "Collaboration"
+    ],
+    "choices": [
+      "Communication and Collaboration",
+      "Initiative and Self-Reliance",
+      "Critical Thinking",
+      "Future Orientation"
+    ],
+    "explanation": "Ang Communication and Collaboration ay kasanayan sa pakikipag-ugnayan at sama-samang pagtatrabaho tungo sa tagumpay ng kumpanya."
+  },
+  {
+    "id": 16,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Anong katangian ang pagkakaroon ng kusa at pagnanais na kumilos nang mag-isa at maagap (proactively) nang hindi na kailangang utusan?",
+    "answer": "Initiative and Self Reliance",
+    "aliases": [
+      "Initiative and Self-Reliance",
+      "Initiative",
+      "Self Reliance",
+      "Pagkukusa"
+    ],
+    "choices": [
+      "Initiative and Self Reliance",
+      "Resilience",
+      "Flexibility",
+      "Future Orientation"
+    ],
+    "explanation": "Ang Initiative and Self-Reliance ay ang pagkukusang kumilos nang independente upang tugunan ang pangangailangan ng negosyo."
+  },
+  {
+    "id": 17,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Anong kakayahan ang pagtukoy sa mga suliranin ng mga tao at pagkilala sa mga potensyal na oportunidad sa negosyo mula rito?",
+    "answer": "Opportunity Recognition",
+    "aliases": [
+      "Opportunity Recognition",
+      "Pagkilala sa Oportunidad",
+      "Recognition of Opportunity"
+    ],
+    "choices": [
+      "Opportunity Recognition",
+      "Resourcefulness",
+      "Creativity",
+      "Persistence"
+    ],
+    "explanation": "Ang Opportunity Recognition ay ang 'mata sa negosyo'—ang kakayahang makakita ng pagkakataon sa gitna ng mga problema at reklamo ng tao."
+  },
+  {
+    "id": 18,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Aling katangian ang kakayahang magtakda ng mga pangmatagalang layunin at mag-isip nang maaga para sa mga hinaharap na posibilidad?",
+    "answer": "Future Orientation",
+    "aliases": [
+      "Future Orientation",
+      "Oryentasyon sa Hinaharap",
+      "Panghinaharap na pananaw"
+    ],
+    "choices": [
+      "Future Orientation",
+      "Critical Thinking",
+      "Resilience",
+      "Initiative"
+    ],
+    "explanation": "Ang Future Orientation ay ang pagkakaroon ng pananaw sa hinaharap (visionary) at pagpaplano para sa susunod na 5 hanggang 10 taon."
+  },
+  {
+    "id": 19,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Ano ang tawag sa kakayahang muling bumangon mula sa kabiguan, balakid, at hamon, at gamitin ang mga ito bilang aral?",
+    "answer": "Resilience",
+    "aliases": [
+      "Resilience",
+      "Katatagan",
+      "Resiliency"
+    ],
+    "choices": [
+      "Resilience",
+      "Resourcefulness",
+      "Flexibility",
+      "Creativity"
+    ],
+    "explanation": "Ang Resilience ay ang katatagang mental at emosyonal na bumangon agad kapag nabigo ang unang subok."
+  },
+  {
+    "id": 20,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Aling katangian ang patuloy na pagpupursigi at pagpapatuloy sa pag-abot ng layunin sa kabila ng matitinding kahirapan at paunang kabiguan?",
+    "answer": "Persistence and Determination",
+    "aliases": [
+      "Persistence and Determination",
+      "Persistence",
+      "Determination",
+      "Pagpupursigi"
+    ],
+    "choices": [
+      "Persistence and Determination",
+      "Opportunity Recognition",
+      "Critical Thinking",
+      "Communication"
+    ],
+    "explanation": "Ang Persistence and Determination (Grit) ay ang hindi pagsuko kahit gaano kabigat ang mga pagsubok sa negosyo."
+  },
+  {
+    "id": 21,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Anong katangian ang epektibong paggamit ng limitadong kagamitan at paghahanap ng mga alternatibong paraan kapag kulang ang pondo o resources?",
+    "answer": "Resourcefulness",
+    "aliases": [
+      "Resourcefulness",
+      "Pagiging Mapamaraan",
+      "Mapamaraan"
+    ],
+    "choices": [
+      "Resourcefulness",
+      "Creativity and Innovation",
+      "Future Orientation",
+      "Self-Reliance"
+    ],
+    "explanation": "Ang Resourcefulness ay ang pagiging mapamaraan: paggawa ng paraan gamit ang anumang nasa kamay upang maisulong ang negosyo."
+  },
+  {
+    "id": 22,
+    "topic": "10 Katangian ng Mindset",
+    "question": "Aling katangian ang kakayahang mag-isip ng mga bagong ideya, magpahusay ng mga kasalukuyang produkto, at tumuklas ng mas mainam na solusyon?",
+    "answer": "Creativity and Innovation",
+    "aliases": [
+      "Creativity and Innovation",
+      "Creativity",
+      "Innovation",
+      "Pagkamalikhain"
+    ],
+    "choices": [
+      "Creativity and Innovation",
+      "Resilience",
+      "Critical Thinking",
+      "Adaptability"
+    ],
+    "explanation": "Ang Creativity and Innovation ay ang paglikha ng bagong anyo, lasa, paraan ng paghahatid, o teknolohiya na nagpapalakas sa bentahe sa kompetisyon."
+  },
+  {
+    "id": 23,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang tawag sa anyo ng negosyo na pag-aari, pinamamahalaan, at pinopondohan ng iisang tao lamang?",
+    "answer": "Sole Proprietorship",
+    "aliases": [
+      "Sole Proprietorship",
+      "Isahang Pagmamay-ari",
+      "Single Proprietorship",
+      "Sole Prop"
+    ],
+    "choices": [
+      "Sole Proprietorship",
+      "Partnership",
+      "Corporation",
+      "Cooperative"
+    ],
+    "explanation": "Ang Sole Proprietorship ang pinakapayak na anyo ng negosyo na pag-aari ng isang indibidwal lamang."
+  },
+  {
+    "id": 24,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Sa anong ahensya ng pamahalaan dapat iparehistro ang Business Name ng isang Sole Proprietorship sa Pilipinas?",
+    "answer": "DTI",
+    "aliases": [
+      "DTI",
+      "Department of Trade and Industry",
+      "Kagawaran ng Kalakalan at Industriya"
+    ],
+    "choices": [
+      "DTI",
+      "SEC",
+      "BIR",
+      "CDA"
+    ],
+    "explanation": "Ang Department of Trade and Industry (DTI) ang nagpaparehistro ng Business Name para sa Sole Proprietorship."
+  },
+  {
+    "id": 25,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang pangunahing disbentaha (cons) ng isang Sole Proprietorship kung saan ang personal na ari-arian ng may-ari (bahay, lupa, sasakyan) ay maaaring kunin upang pambayad sa utang ng negosyo?",
+    "answer": "Unlimited liability",
+    "aliases": [
+      "Unlimited liability",
+      "Walang takdang pananagutan",
+      "Personal liability"
+    ],
+    "choices": [
+      "Unlimited liability",
+      "Limited liability",
+      "Strict government compliance",
+      "Double taxation"
+    ],
+    "explanation": "Sa Sole Proprietorship, walang legal na paghihiwalay ang may-ari at ang negosyo, kaya may 'Unlimited Liability' ang may-ari sa lahat ng pagkakautang."
+  },
+  {
+    "id": 26,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang tawag sa legal na anyo ng negosyo na pag-aari ng dalawa o higit pang indibidwal na nagsasama ng kanilang salapi, ari-arian, at talino?",
+    "answer": "Partnership",
+    "aliases": [
+      "Partnership",
+      "Sosyo",
+      "Pakikipagsosyo"
+    ],
+    "choices": [
+      "Partnership",
+      "Sole Proprietorship",
+      "Corporation",
+      "Joint Venture"
+    ],
+    "explanation": "Ang Partnership ay isang kasunduan kung saan dalawa o higit pang tao ang nag-aambag ng kapital upang magnegosyo at paghatian ang tubo."
+  },
+  {
+    "id": 27,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Bakit sinasabing may 'Limited Life' ang isang Partnership?",
+    "answer": "Dahil nagtatapos o nabubuwag ito kapag namatay o umalis ang isang kasosyo",
+    "aliases": [
+      "Nagtatapos kapag namatay ang kasosyo",
+      "Ends when a partner withdraws or dies",
+      "Nabubuwag kapag namatay o umalis ang partner",
+      "Limited life"
+    ],
+    "choices": [
+      "Dahil nagtatapos o nabubuwag ito kapag namatay o umalis ang isang kasosyo",
+      "Dahil hanggang 1 taon lamang ang permit nito",
+      "Dahil bawal mag-renew sa DTI",
+      "Dahil kailangang palitan ang pangalan taun-taon"
+    ],
+    "explanation": "Ang partnership ay nabubuwag (dissolved) sa sandaling pumanaw, mabaliw, mabangkarote, o pormal na umalis ang isa sa mga kasosyo maliban kung may ibang kasunduan."
+  },
+  {
+    "id": 28,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang tawag sa anyo ng negosyo na isang hiwalay na legal entity (juridical person) na pag-aari ng mga shareholders o stockholders?",
+    "answer": "Corporation",
+    "aliases": [
+      "Corporation",
+      "Korporasyon",
+      "Stock Corporation"
+    ],
+    "choices": [
+      "Corporation",
+      "Partnership",
+      "Sole Proprietorship",
+      "Single Enterprise"
+    ],
+    "explanation": "Ang Korporasyon ay may hiwalay na legal personality sa mga may-ari nito sa ilalim ng batas, na may sariling karapatan na magmay-ari ng ari-arian at magsampa ng kaso."
+  },
+  {
+    "id": 29,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Sa anong komisyon ng gobyerno kailangang iparehistro ang mga Partnership at Corporation sa Pilipinas?",
+    "answer": "SEC",
+    "aliases": [
+      "SEC",
+      "Securities and Exchange Commission",
+      "Komisyon sa mga Panagot at Palitan"
+    ],
+    "choices": [
+      "SEC",
+      "DTI",
+      "BIR",
+      "BOI"
+    ],
+    "explanation": "Ang Securities and Exchange Commission (SEC) ang may hawak sa rehistrasyon at regulasyon ng mga Korporasyon at Partnership."
+  },
+  {
+    "id": 30,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang tawag sa pangunahing bentaha ng korporasyon kung saan ang pananagutan ng mga shareholder ay limitado lamang sa halaga ng kanilang ipinuhunan?",
+    "answer": "Limited liability",
+    "aliases": [
+      "Limited liability",
+      "Limitadong pananagutan",
+      "Limited Liability"
+    ],
+    "choices": [
+      "Limited liability",
+      "Unlimited liability",
+      "Joint liability",
+      "Solidary liability"
+    ],
+    "explanation": "Sa ilalim ng Limited Liability, hindi maaaring galawin ang sariling ari-arian ng stockholder kapag nalugi o nabaon sa utang ang korporasyon."
+  },
+  {
+    "id": 31,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Ano ang tawag sa katangian ng korporasyon kung saan nagpapatuloy ang buhay nito kahit mamatay, magbenta ng shares, o umalis ang sinumang stockholder?",
+    "answer": "Perpetual existence",
+    "aliases": [
+      "Perpetual existence",
+      "Walang katapusang buhay",
+      "Perpetual succession"
+    ],
+    "choices": [
+      "Perpetual existence",
+      "Limited life",
+      "Temporary license",
+      "Annual renewal"
+    ],
+    "explanation": "Ayon sa Revised Corporation Code, ang korporasyon ay may 'Perpetual Existence' maliban na lamang kung may ibang itinakda sa kanilang Articles of Incorporation."
+  },
+  {
+    "id": 32,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Bakit sinasabing maaaring mas mabagal ang paggawa ng desisyon (slower decision-making) sa isang korporasyon?",
+    "answer": "Dahil sa maraming layers ng pamamahala at kailangang aprubahan ng Board of Directors",
+    "aliases": [
+      "Layers ng management",
+      "Board of Directors approval",
+      "Dahil sa layers ng management",
+      "Due to layers of management"
+    ],
+    "choices": [
+      "Dahil sa maraming layers ng pamamahala at kailangang aprubahan ng Board of Directors",
+      "Dahil bawal mag-meeting online",
+      "Dahil walang karapatang bumoto ang shareholders",
+      "Dahil laging sarado ang opisina ng SEC"
+    ],
+    "explanation": "Ang mga pangunahing desisyon sa korporasyon ay dumadaan sa Executive Management, Board of Directors, at kung minsan ay Stockholders' Meeting kaya mas matagal kaysa Sole Prop."
+  },
+  {
+    "id": 33,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Sa anong ahensya ng pamahalaan kailangang magrehistro ang LAHAT ng uri ng negosyo upang makakuha ng Tax Identification Number (TIN), magpa-imprenta ng Official Receipts (OR), at magbayad ng buwis?",
+    "answer": "BIR",
+    "aliases": [
+      "BIR",
+      "Bureau of Internal Revenue",
+      "Kawanihan ng Rentas Internas"
+    ],
+    "choices": [
+      "BIR",
+      "DTI",
+      "SEC",
+      "SSS"
+    ],
+    "explanation": "Ang Bureau of Internal Revenue (BIR) ang namamahala sa pambansang buwis. Dito kinukuha ang Certificate of Registration (Form 2303), Books of Accounts, at Authority to Print (ATP) Receipts."
+  },
+  {
+    "id": 34,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Bakit napakahalagang iparehistro ang negosyo sa pamahalaan ayon sa Module ng Business Start-up?",
+    "answer": "Upang legal itong kilalanin at makakuha ng mga kailangang permit at lisensya",
+    "aliases": [
+      "Legal recognition",
+      "Upang maging legal",
+      "So that your business is legally recognized and you can obtain permits",
+      "Legal recognition and permits"
+    ],
+    "choices": [
+      "Upang legal itong kilalanin at makakuha ng mga kailangang permit at lisensya",
+      "Upang makaiwas sa pagbabayad ng upa",
+      "Upang awtomatikong pautangin ng bangko nang walang interes",
+      "Upang hindi na kailanganin ang empleyado"
+    ],
+    "explanation": "Ang rehistrasyon ay nagbibigay ng legal na personalidad sa negosyo, nagbibigay-tiwala sa customers at bangko, at kailangan para sa lehitimong operasyon."
+  },
+  {
+    "id": 35,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Ano ang unang lokal na clearance na kailangang kunin sa mismong barangay kung saan itatayo ang pisikal na negosyo bago mag-apply ng Mayor's Permit?",
+    "answer": "Barangay Clearance",
+    "aliases": [
+      "Barangay clearance",
+      "Barangay Business Clearance",
+      "Barangay Permit"
+    ],
+    "choices": [
+      "Barangay Clearance",
+      "Mayor's Permit",
+      "Fire Certificate",
+      "Sanitary Permit"
+    ],
+    "explanation": "Bago makakuha ng Mayor's Permit sa munisipyo, kailangan munang kumuha ng Barangay Clearance sa barangay hall kung saan nakatirik ang tindahan o opisina."
+  },
+  {
+    "id": 36,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Alin sa mga sumusunod ang karaniwang rekisito sa pag-apply ng Barangay Clearance?",
+    "answer": "DTI/SEC Certificate, Lease Contract o Patunay ng Pagmamay-ari, at Valid ID",
+    "aliases": [
+      "DTI SEC Certificate Lease contract valid ID",
+      "DTI/SEC Certificate at Lease contract",
+      "DTI/SEC, Lease contract, Valid ID"
+    ],
+    "choices": [
+      "DTI/SEC Certificate, Lease Contract o Patunay ng Pagmamay-ari, at Valid ID",
+      "Passport lamang",
+      "Diploma sa kolehiyo",
+      "Voter's certification at NBI clearance lamang"
+    ],
+    "explanation": "Hinihingi ng barangay ang rehistrasyon ng pangalan (DTI o SEC), kontrata ng upa (o titulo ng lupa kung sarili), at valid ID ng may-ari."
+  },
+  {
+    "id": 37,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Saan tanggapan o gusali pumupunta ang isang negosyante upang kumuha ng Mayor's Permit o Business Permit?",
+    "answer": "City o Municipal Hall",
+    "aliases": [
+      "City Hall",
+      "Municipal Hall",
+      "City o Municipal Hall (Munisipyo)",
+      "Munisipyo"
+    ],
+    "choices": [
+      "City o Municipal Hall",
+      "Barangay Hall",
+      "DTI Regional Office",
+      "Malacañang"
+    ],
+    "explanation": "Ang Mayor's Permit o Business Permit ay pormal na ina-apply sa Business Permits and Licensing Office (BPLO) na matatagpuan sa City o Municipal Hall."
+  },
+  {
+    "id": 38,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Anong sertipiko mula sa Bureau of Fire Protection (BFP) ang kailangang isumite upang patunayang ligtas sa sunog ang gusali ng negosyo?",
+    "answer": "Fire Safety Inspection Certificate",
+    "aliases": [
+      "FSIC",
+      "Fire safety inspection certificate",
+      "Fire safety certificate",
+      "Fire clearance"
+    ],
+    "choices": [
+      "Fire Safety Inspection Certificate",
+      "Sanitary Permit",
+      "Occupancy Permit",
+      "Cedula"
+    ],
+    "explanation": "Ang Fire Safety Inspection Certificate (FSIC) ay iniisyu ng Bureau of Fire Protection (BFP) bago o matapos inspeksyunin ang establisyimento."
+  },
+  {
+    "id": 39,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Anong permit ang nagpapatunay na ang negosyo ay sumusunod sa mga pamantayang pangkalusugan at kalinisan ng lokal na pamahalaan?",
+    "answer": "Sanitary Permit",
+    "aliases": [
+      "Sanitary permit",
+      "Health permit",
+      "Sanitary clearance"
+    ],
+    "choices": [
+      "Sanitary Permit",
+      "Occupancy Permit",
+      "Fire Clearance",
+      "DTI Permit"
+    ],
+    "explanation": "Ang Sanitary Permit ay iniisyu ng City/Municipal Health Office upang tiyakin ang kalinisan ng pasilidad at kalusugan ng mga tauhan."
+  },
+  {
+    "id": 40,
+    "topic": "Rehistrasyon ng Negosyo",
+    "question": "Ano ang tawag sa buwis sa komunidad (Community Tax Certificate o CTC) na karaniwang tinatawag ding 'Cedula' na kailangan sa pagkuha ng Mayor's Permit?",
+    "answer": "Community Tax Certificate",
+    "aliases": [
+      "CTC",
+      "Cedula",
+      "Sedula",
+      "Community tax certificate"
+    ],
+    "choices": [
+      "Community Tax Certificate",
+      "Income Tax Return",
+      "Value Added Tax",
+      "Barangay Cedula"
+    ],
+    "explanation": "Ang Community Tax Certificate (CTC o Cedula) ay binabayaran taun-taon sa City/Municipal Treasurer's Office bilang basic at additional community tax."
+  },
+  {
+    "id": 41,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Sino ang propesor at guro sa asignaturang The Entrepreneurial Mind sa Department of Entrepreneurship, CMMS?",
+    "answer": "Ms. Khristine Kay Tonggao",
+    "aliases": [
+      "Khristine Kay Tonggao",
+      "Prof. Tonggao",
+      "Ms. Tonggao",
+      "Ma'am Tonggao"
+    ],
+    "choices": [
+      "Ms. Khristine Kay Tonggao",
+      "Dr. Jonathan M. Caballero",
+      "Ms. Maria Santos",
+      "Dr. Jose Rizal"
+    ],
+    "explanation": "Si Ms. Khristine Kay Tonggao ang gurong nakasaad sa opisyal na silabus at oryentasyon ng The Entrepreneurial Mind sa CMMS."
+  },
+  {
+    "id": 42,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Ano ang ibig sabihin ng acronym na 'CMMS' sa Technological University of the Philippines (TUP)?",
+    "answer": "College of Management and Multidisciplinary Studies",
+    "aliases": [
+      "College of Management and Multidisciplinary Studies",
+      "College of Management and Multidisciplinary Studies (CMMS)"
+    ],
+    "choices": [
+      "College of Management and Multidisciplinary Studies",
+      "College of Mathematics and Mechanical Sciences",
+      "Center for Marketing and Management Studies",
+      "Council of Modern Multidisciplinary Scholars"
+    ],
+    "explanation": "Ang CMMS ay College of Management and Multidisciplinary Studies, ang kolehiyo na nagpapatakbo sa kurso ng Entrepreneurship sa TUP."
+  },
+  {
+    "id": 43,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Ilang minutong 'grace period' ang ibinibigay bago ituring na huli o 'tardy' ang isang mag-aaral sa klase?",
+    "answer": "15 minuto",
+    "aliases": [
+      "15 minutes",
+      "15 minuto",
+      "15 mins",
+      "Labinlimang minuto",
+      "15"
+    ],
+    "choices": [
+      "15 minuto",
+      "5 minuto",
+      "10 minuto",
+      "30 minuto"
+    ],
+    "explanation": "Labinlimang (15) minutong grace period ang nakasaad sa alituntunin ng klase bago markahang tardy ang estudyante."
+  },
+  {
+    "id": 44,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Ilang bilang ng pagkahuli (tardiness) ang katumbas ng isang (1) liban o absence sa patakaran ng klase?",
+    "answer": "3 tardiness",
+    "aliases": [
+      "Tatlong pagkahuli",
+      "3",
+      "tatlo",
+      "Three tardiness",
+      "3 tardies"
+    ],
+    "choices": [
+      "3 tardiness",
+      "2 tardiness",
+      "4 tardiness",
+      "5 tardiness"
+    ],
+    "explanation": "Tatlong (3) beses na pagkahuli sa klase ay katumbas ng isang (1) liban."
+  },
+  {
+    "id": 45,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Para sa isang 3-unit na kurso, ano ang pinakamataas na pinapahintulutang bilang ng pagliban (maximum absences) bago payuhang mag-drop ang estudyante?",
+    "answer": "3 pagliban (absences)",
+    "aliases": [
+      "3 absences",
+      "3",
+      "Tatlong pagliban",
+      "tatlo",
+      "3 liban"
+    ],
+    "choices": [
+      "3 pagliban (absences)",
+      "5 absences",
+      "2 absences",
+      "6 absences"
+    ],
+    "explanation": "Ang maximum na pinahihintulutan para sa 3-unit course ay 3 absences; ang lumampas dito ay papayuhang mag-drop o makakatanggap ng 5.00/UD kung lampas sa dropping period."
+  },
+  {
+    "id": 46,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Ano ang espesyal na insentibo para sa mga estudyanteng may 'Perfect Attendance' sa pagtatapos ng semestre?",
+    "answer": "One-scale higher mark sa huling marka",
+    "aliases": [
+      "One-scale higher mark",
+      "Isang scale na mas mataas na grado",
+      "Dagdag na marka",
+      "One scale higher"
+    ],
+    "choices": [
+      "One-scale higher mark sa huling marka",
+      "Libreng pagkain sa canteen",
+      "Exemption sa final business plan",
+      "Awtomatikong 1.00 sa lahat ng pagsusulit"
+    ],
+    "explanation": "Ang mga estudyanteng may perpektong attendance ay gagawaran ng 'one-scale higher mark' sa kanilang pinal na grado."
+  },
+  {
+    "id": 47,
+    "topic": "Oryentasyon at Patakaran ng Klase",
+    "question": "Ano ang pangunahing Huling Proyekto (Final Project) na kahingian sa kursong The Entrepreneurial Mind?",
+    "answer": "Business Plan",
+    "aliases": [
+      "Business Plan",
+      "Plano sa Negosyo",
+      "Final Business Plan"
+    ],
+    "choices": [
+      "Business Plan",
+      "Pagsasayaw ng TikTok",
+      "Pagsulat ng Tula",
+      "Pag-oorganisa ng Konsyerto"
+    ],
+    "explanation": "Ang Final Project ng kurso ay ang pagbuo ng isang komprehensibong Business Plan."
+  },
+  {
+    "id": 48,
+    "topic": "Patakaran at Netiquette",
+    "question": "Sa mga virtual synchronous classes gamit ang MS Teams, ano ang dapat gamitin ng mag-aaral bilang kanyang opisyal na Username?",
+    "answer": "Buong Pangalan (Full Name)",
+    "aliases": [
+      "Full Name",
+      "Buong Pangalan",
+      "Full name",
+      "Pangalan"
+    ],
+    "choices": [
+      "Buong Pangalan (Full Name)",
+      "Alyas o Gamertag",
+      "Student ID Number lamang",
+      "Palayaw (Nickname)"
+    ],
+    "explanation": "Nakasaad sa Netiquette Rule 1: 'Use your Full Name as your Username'."
+  },
+  {
+    "id": 49,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Alin sa mga sumusunod ang tamang paglalarawan sa estruktura ng isang Corporation?",
+    "answer": "Isang hiwalay na legal entity na may sariling pananagutan bukod sa mga may-ari nito",
+    "aliases": [
+      "Hiwalay na legal entity",
+      "Separate legal entity",
+      "Hiwalay na legal entity na pag-aari ng shareholders"
+    ],
+    "choices": [
+      "Isang hiwalay na legal entity na may sariling pananagutan bukod sa mga may-ari nito",
+      "Negosyo na awtomatikong nabubuwag kapag nagretiro ang isang shareholder",
+      "Negosyo na hindi kailanman kailangang magbayad ng buwis",
+      "Isang kasunduan sa pagitan ng dalawang magkaibigan nang walang rehistro sa gobyerno"
+    ],
+    "explanation": "Ang Corporation ay isang artipisyal na nilalang na nilikha ng batas na may sariling legal existence na hiwalay sa kanyang mga stockholder."
+  },
+  {
+    "id": 50,
+    "topic": "Mga Estruktura ng Negosyo",
+    "question": "Aling anyo ng negosyo ang pinakamadali at pinakamura (easy and inexpensive) irehistro at simulan ngunit may pinakamalaking personal na panganib sa ari-arian?",
+    "answer": "Sole Proprietorship",
+    "aliases": [
+      "Sole Proprietorship",
+      "Single Proprietorship",
+      "Isahang pagmamay-ari"
+    ],
+    "choices": [
+      "Sole Proprietorship",
+      "Corporation",
+      "Partnership",
+      "Holding Company"
+    ],
+    "explanation": "Ang Sole Proprietorship ang pinakamurang simulan sa pamamagitan lamang ng DTI registration, subalit may panganib ng unlimited personal liability."
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ent-match-1",
+    "title": "Set 1: 10 Katangian ng Entrepreneurial Mindset",
+    "description": "Itugma ang bawat katangian sa wastong kahulugan o deskripsyon nito ayon sa Module.",
+    "pairs": [
+      {
+        "left": "Critical Thinking",
+        "right": "Intelektwal na pagsusuri, pagtatasa, at pagkonsepto ng impormasyon bilang gabay sa aksyon",
+        "explanation": "Mapanuring pag-iisip upang makagawa ng rasyonal na desisyon."
+      },
+      {
+        "left": "Flexibility and Adaptability",
+        "right": "Kakayahang mag-adjust sa mabilis na pagbabago sa merkado at teknolohiya",
+        "explanation": "Bukas sa pagbabago upang manatiling may kaugnayan sa merkado."
+      },
+      {
+        "left": "Opportunity Recognition",
+        "right": "Pagtukoy sa mga problema ng tao at unmet needs na pwedeng gawing negosyo",
+        "explanation": "Kakayahang makakita ng solusyon at negosyo sa pang-araw-araw na suliranin."
+      },
+      {
+        "left": "Resilience",
+        "right": "Mabilis na pagbangon mula sa kabiguan at paggamit nito bilang aral",
+        "explanation": "Pagpapanatili ng positibong pananaw matapos magkamali o matalo."
+      },
+      {
+        "left": "Resourcefulness",
+        "right": "Epektibong paggamit ng limitadong resources at paghahanap ng alternatibo",
+        "explanation": "Paggawa ng paraan kahit kulang ang pondo o kagamitan."
+      }
+    ]
+  },
+  {
+    "id": "ent-match-2",
+    "title": "Set 2: Tatlong Anyo ng Estruktura ng Negosyo",
+    "description": "Itugma ang bawat anyo ng negosyo sa kaukulang katangian, kalakasan, o kahinaan nito.",
+    "pairs": [
+      {
+        "left": "Sole Proprietorship",
+        "right": "Pag-aari ng iisang tao; may ganap na kontrol ngunit may Unlimited Liability",
+        "explanation": "Madaling itayo via DTI ngunit damay ang sariling ari-arian sa utang."
+      },
+      {
+        "left": "Partnership",
+        "right": "Pag-aari ng 2 o higit pa; pinagsamang talino at puhunan ngunit may Limited Life",
+        "explanation": "Nabubuwag kapag umalis o pumanaw ang isang partner."
+      },
+      {
+        "left": "Corporation",
+        "right": "Hiwalay na legal entity; may Limited Liability at Perpetual Existence",
+        "explanation": "Pag-aari ng mga shareholder at inirehistro sa SEC."
+      },
+      {
+        "left": "General Partners",
+        "right": "Mga kasosyo sa partnership na may personal at unlimited liability sa mga utang",
+        "explanation": "Sila ang namamahala at sumasagot sa obligasyon ng partnership."
+      },
+      {
+        "left": "Shareholders / Stockholders",
+        "right": "Mga may-ari ng korporasyon na ang pananagutan ay hanggang sa halaga lamang ng shares",
+        "explanation": "Hindi madadamay ang kanilang personal na ari-arian."
+      }
+    ]
+  },
+  {
+    "id": "ent-match-3",
+    "title": "Set 3: Mga Ahensya at Dokumento sa Pagpaparehistro",
+    "description": "Itugma ang bawat ahensya o dokumento sa kanyang layunin o gamit sa negosyo.",
+    "pairs": [
+      {
+        "left": "DTI (Dept. of Trade and Industry)",
+        "right": "Rehistrasyon ng Business Name para sa Sole Proprietorship",
+        "explanation": "Nagbibigay ng DTI Business Name Certificate."
+      },
+      {
+        "left": "SEC (Securities and Exchange Commission)",
+        "right": "Rehistrasyon ng mga Partnership at Korporasyon",
+        "explanation": "Nagpapatunay ng legalidad ng korporasyon at sosyohan."
+      },
+      {
+        "left": "BIR (Bureau of Internal Revenue)",
+        "right": "Pagkuha ng TIN, pagpaparehistro ng libro, at Official Receipts (OR)",
+        "explanation": "Ahensya para sa pambansang buwis ng lahat ng negosyo."
+      },
+      {
+        "left": "Barangay Clearance",
+        "right": "Unang lokal na clearance na kailangan bago ang Mayor's Permit",
+        "explanation": "Kinukuha sa barangay kung saan itatayo ang tindahan."
+      },
+      {
+        "left": "Mayor's / Business Permit",
+        "right": "Pinal na lisensya mula sa City o Municipal Hall upang legal na makapag-operate",
+        "explanation": "Inilalabas matapos makumpleto ang sanitary, fire, at barangay clearances."
+      }
+    ]
+  },
+  {
+    "id": "ent-match-4",
+    "title": "Set 4: Mga Eksperto, Konsepto, at Patakaran",
+    "description": "Itugma ang bawat tao o konsepto sa kanyang kaukulang kontribusyon o alituntunin.",
+    "pairs": [
+      {
+        "left": "Entreprendre",
+        "right": "Salitang Pranses na pinagmulan ng entrepreneur ('to undertake')",
+        "explanation": "Etimolohiya ng entrepreneurship."
+      },
+      {
+        "left": "Joey E. Concepcion",
+        "right": "Tagapagtatag ng Go Negosyo na nagtaguyod ng tamang mindset sa Pilipinas",
+        "explanation": "Advocate ng micro, small, and medium enterprises (MSMEs)."
+      },
+      {
+        "left": "Barringer & Ireland (2019)",
+        "right": "Nagbigay-diin sa entrepreneur bilang innovator at risk-taker",
+        "explanation": "Mga kilalang may-akda ng batayang aklat sa entrepreneurship."
+      },
+      {
+        "left": "V. Ratten (2023)",
+        "right": "Naglatag ng 5 Key Elements ng Entrepreneurship (Opportunity, Innovation, atbp.)",
+        "explanation": "Iskolar na sumulat ukol sa makabagong proseso ng value creation."
+      },
+      {
+        "left": "15-Minute Grace Period",
+        "right": "Palugit sa pagpasok sa klase sa TUP bago markahang huli (tardy)",
+        "explanation": "Patakaran sa attendance ng klase ni Ms. Tonggao."
+      }
+    ]
+  }
+]
