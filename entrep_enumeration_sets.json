@@ -1,12 +1,66 @@
 [
   {
     "id": "ent-enum-1",
-    "topic": "Elements of Entrepreneurship (Ratten, 2023)",
-    "question": "List the five (5) key elements of Entrepreneurship according to V. Ratten (2023):",
+    "topic": "Entrepreneurial Competencies",
+    "question": "List six (6) of the ten (10) Entrepreneurial Mindset Competencies and Characteristics:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "1. Critical Thinking",
+        "keywords": [
+          "critical thinking",
+          "critical"
+        ]
+      },
+      {
+        "canonical": "2. Flexibility and Adaptability",
+        "keywords": [
+          "flexibility",
+          "adaptability",
+          "flexible",
+          "adaptable"
+        ]
+      },
+      {
+        "canonical": "3. Communication and Collaboration",
+        "keywords": [
+          "communication",
+          "collaboration"
+        ]
+      },
+      {
+        "canonical": "4. Initiative and Self-Reliance",
+        "keywords": [
+          "initiative",
+          "self-reliance",
+          "self reliance"
+        ]
+      },
+      {
+        "canonical": "5. Opportunity Recognition",
+        "keywords": [
+          "opportunity recognition",
+          "opportunity"
+        ]
+      },
+      {
+        "canonical": "6. Resilience",
+        "keywords": [
+          "resilience",
+          "resilient"
+        ]
+      }
+    ],
+    "explanation": "Ten Competencies: Critical Thinking, Flexibility & Adaptability, Communication & Collaboration, Initiative & Self-Reliance, Opportunity Recognition, Future Orientation, Resilience, Persistence & Determination, Resourcefulness, Creativity & Innovation."
+  },
+  {
+    "id": "ent-enum-2",
+    "topic": "Entrepreneurial Competencies",
+    "question": "List the five (5) Key Elements of Entrepreneurship according to V. Ratten (2023):",
     "required_count": 5,
     "items": [
       {
-        "canonical": "1. Opportunity (Recognizing problems and unmet market needs)",
+        "canonical": "1. Opportunity (Recognizing problems and unmet needs)",
         "keywords": [
           "opportunity"
         ]
@@ -18,21 +72,21 @@
         ]
       },
       {
-        "canonical": "3. Resources (Deploying available assets and capital)",
+        "canonical": "3. Resources (Effectively deploying available assets)",
         "keywords": [
           "resources",
           "resource"
         ]
       },
       {
-        "canonical": "4. Value Creation (Delivering tangible customer and social utility)",
+        "canonical": "4. Value Creation (Delivering benefits to customers and society)",
         "keywords": [
           "value creation",
           "value"
         ]
       },
       {
-        "canonical": "5. Action (Executing and translating ideas into active ventures)",
+        "canonical": "5. Action (Transforming ideas into viable ventures)",
         "keywords": [
           "action"
         ]
@@ -41,9 +95,65 @@
     "explanation": "Five Key Elements: Opportunity, Innovation, Resources, Value Creation, and Action (Ratten, 2023)."
   },
   {
-    "id": "ent-enum-2",
-    "topic": "Forms of Business Structures",
-    "question": "List the three (3) primary legal forms of business structures:",
+    "id": "ent-enum-3",
+    "topic": "Business Plan & Business Start-ups",
+    "question": "List the six (6) main sections of the official GEE12D Business Plan format:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "I. Introductory Page (Logo, Business Name, Vision, Mission, Goal)",
+        "keywords": [
+          "introductory page",
+          "introductory",
+          "intro"
+        ]
+      },
+      {
+        "canonical": "II. Executive Summary",
+        "keywords": [
+          "executive summary",
+          "summary"
+        ]
+      },
+      {
+        "canonical": "III. Description of the Business (Marketing, Operation, Organization, Financial)",
+        "keywords": [
+          "description of the business",
+          "description of business",
+          "business description"
+        ]
+      },
+      {
+        "canonical": "IV. The Product (Design, Budgetary Requirement, Process, Packaging)",
+        "keywords": [
+          "the product",
+          "product"
+        ]
+      },
+      {
+        "canonical": "V. Ad Sample of Product (Brochure, Leaflets, etc.)",
+        "keywords": [
+          "ad sample",
+          "ad sample of product",
+          "advertisement",
+          "sample"
+        ]
+      },
+      {
+        "canonical": "VI. References (APA format)",
+        "keywords": [
+          "references",
+          "reference",
+          "apa"
+        ]
+      }
+    ],
+    "explanation": "Six Business Plan Sections: I. Introductory Page, II. Executive Summary, III. Description of the Business, IV. The Product, V. Ad Sample of Product, VI. References."
+  },
+  {
+    "id": "ent-enum-4",
+    "topic": "Business Plan & Business Start-ups",
+    "question": "List the three (3) primary forms of Business Structures (Legal Forms of Business):",
     "required_count": 3,
     "items": [
       {
@@ -67,81 +177,12 @@
         ]
       }
     ],
-    "explanation": "Three Primary Business Structures: Sole Proprietorship, Partnership, and Corporation."
-  },
-  {
-    "id": "ent-enum-3",
-    "topic": "Government Agencies for Business Registration",
-    "question": "List the three (3) primary national government agencies for business registration in the Philippines:",
-    "required_count": 3,
-    "items": [
-      {
-        "canonical": "1. DTI (Department of Trade and Industry - for Sole Proprietorships)",
-        "keywords": [
-          "dti",
-          "department of trade and industry"
-        ]
-      },
-      {
-        "canonical": "2. SEC (Securities and Exchange Commission - for Partnerships and Corporations)",
-        "keywords": [
-          "sec",
-          "securities and exchange commission"
-        ]
-      },
-      {
-        "canonical": "3. BIR (Bureau of Internal Revenue - for Tax, TIN, and Official Receipts)",
-        "keywords": [
-          "bir",
-          "bureau of internal revenue"
-        ]
-      }
-    ],
-    "explanation": "Three Agencies: DTI (Sole Proprietorship), SEC (Partnership & Corporation), and BIR (Tax & Official Receipts)."
-  },
-  {
-    "id": "ent-enum-4",
-    "topic": "The Progression from Mindset to Success",
-    "question": "List the five (5) stages in the progression from Cognitive Beliefs to Success:",
-    "required_count": 5,
-    "items": [
-      {
-        "canonical": "1. Mindset (Cognitive belief system)",
-        "keywords": [
-          "mindset"
-        ]
-      },
-      {
-        "canonical": "2. Attitude (Way of thinking and feeling)",
-        "keywords": [
-          "attitude"
-        ]
-      },
-      {
-        "canonical": "3. Behavior (Observable habits and conduct)",
-        "keywords": [
-          "behavior"
-        ]
-      },
-      {
-        "canonical": "4. Action (Concrete operational execution)",
-        "keywords": [
-          "action"
-        ]
-      },
-      {
-        "canonical": "5. Success (Attainment of desired outcomes)",
-        "keywords": [
-          "success"
-        ]
-      }
-    ],
-    "explanation": "Flow: MINDSET -> ATTITUDE -> BEHAVIOR -> ACTION -> SUCCESS."
+    "explanation": "Three Forms of Business Structures: Sole Proprietorship, Partnership, and Corporation."
   },
   {
     "id": "ent-enum-5",
-    "topic": "Requirements for Mayor's / Business Permit",
-    "question": "List six (6) common requirements submitted to the City/Municipal Hall for a Mayor's Business Permit:",
+    "topic": "Permits and Licenses",
+    "question": "List six (6) common requirements submitted to City/Municipal Hall for a Mayor's / Business Permit:",
     "required_count": 6,
     "items": [
       {
@@ -195,133 +236,116 @@
         ]
       }
     ],
-    "explanation": "Requirements for Mayor's Permit: Barangay Clearance, Lease/Ownership Proof, DTI/SEC Certificate, Occupancy Permit, Fire Safety Inspection Certificate, Sanitary Permit, and Community Tax Certificate."
+    "explanation": "Requirements for Mayor's Permit: Barangay Clearance, Lease/Ownership Proof, DTI/SEC Documents, Occupancy Permit, Fire Safety Inspection Certificate, Sanitary Permit, and Community Tax Certificate."
   },
   {
     "id": "ent-enum-6",
-    "topic": "Course Requirements for The Entrepreneurial Mind",
-    "question": "List the four (4) official Course Requirements for The Entrepreneurial Mind at TUP:",
-    "required_count": 4,
-    "items": [
-      {
-        "canonical": "1. Completion of Learning Activities and Assessments",
-        "keywords": [
-          "learning activities",
-          "assessments",
-          "activities"
-        ]
-      },
-      {
-        "canonical": "2. Class Participation / Recitation",
-        "keywords": [
-          "class participation",
-          "recitation",
-          "participation"
-        ]
-      },
-      {
-        "canonical": "3. Periodic Examinations (Prelim and Midterm)",
-        "keywords": [
-          "periodic examinations",
-          "examinations",
-          "prelim",
-          "midterm",
-          "exams"
-        ]
-      },
-      {
-        "canonical": "4. Final Project (Business Plan)",
-        "keywords": [
-          "final project",
-          "business plan"
-        ]
-      }
-    ],
-    "explanation": "Course Requirements: (1) Learning Activities & Assessments, (2) Class Participation/Recitation, (3) Periodic Examinations, and (4) Final Project (Business Plan)."
-  },
-  {
-    "id": "ent-enum-7",
-    "topic": "Advantages of a Corporation (Pros of Corporation)",
-    "question": "List three (3) major advantages (Pros) of a Corporation:",
+    "topic": "Permits and Licenses",
+    "question": "List the three (3) primary national government agencies for business registration in the Philippines:",
     "required_count": 3,
     "items": [
       {
-        "canonical": "1. Limited Liability for shareholders",
+        "canonical": "1. DTI (Department of Trade and Industry - for Sole Proprietorships)",
         "keywords": [
-          "limited liability"
+          "dti",
+          "department of trade and industry"
         ]
       },
       {
-        "canonical": "2. Ability to raise large capital through shares",
+        "canonical": "2. SEC (Securities and Exchange Commission - for Partnerships and Corporations)",
         "keywords": [
-          "raise large capital",
-          "large capital",
-          "raise capital",
-          "capital"
+          "sec",
+          "securities and exchange commission"
         ]
       },
       {
-        "canonical": "3. Perpetual Existence",
+        "canonical": "3. BIR (Bureau of Internal Revenue - for Tax, TIN, and Official Receipts)",
         "keywords": [
-          "perpetual existence",
-          "perpetual"
+          "bir",
+          "bureau of internal revenue"
         ]
       }
     ],
-    "explanation": "Pros of a Corporation: (1) Limited Liability, (2) Can raise large amounts of capital, (3) Perpetual existence."
+    "explanation": "Three Agencies: DTI (Sole Proprietorship), SEC (Partnership & Corporation), and BIR (Tax & Official Receipts)."
+  },
+  {
+    "id": "ent-enum-7",
+    "topic": "Social Entrepreneurship",
+    "question": "List the four (4) primary forms of Social Entrepreneurship discussed in the module:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Community Project",
+        "keywords": [
+          "community project",
+          "community"
+        ]
+      },
+      {
+        "canonical": "2. Non-Profit Organization",
+        "keywords": [
+          "non-profit organization",
+          "non-profit",
+          "nonprofit"
+        ]
+      },
+      {
+        "canonical": "3. Co-operative (Co-op)",
+        "keywords": [
+          "co-operative",
+          "cooperative",
+          "co-op",
+          "coop"
+        ]
+      },
+      {
+        "canonical": "4. Social Enterprise / Social Purpose Business",
+        "keywords": [
+          "social enterprise",
+          "social purpose business",
+          "social purpose"
+        ]
+      }
+    ],
+    "explanation": "Four Forms of Social Entrepreneurship: (1) Community Project, (2) Non-Profit Organization, (3) Co-operative (Co-op), and (4) Social Enterprise / Social Purpose Business."
   },
   {
     "id": "ent-enum-8",
-    "topic": "Characteristics of an Entrepreneurial Mindset",
-    "question": "List six (6) of the ten (10) characteristics of an Entrepreneurial Mindset:",
-    "required_count": 6,
+    "topic": "Social Entrepreneurship",
+    "question": "List the five (5) stages in the sequential flow from Mindset to Success:",
+    "required_count": 5,
     "items": [
       {
-        "canonical": "1. Critical Thinking",
+        "canonical": "1. Mindset (Cognitive belief system)",
         "keywords": [
-          "critical thinking",
-          "critical"
+          "mindset"
         ]
       },
       {
-        "canonical": "2. Flexibility and Adaptability",
+        "canonical": "2. Attitude (Way of thinking and feeling)",
         "keywords": [
-          "flexibility",
-          "adaptability",
-          "flexible",
-          "adaptable"
+          "attitude"
         ]
       },
       {
-        "canonical": "3. Communication and Collaboration",
+        "canonical": "3. Behavior (Observable habits and conduct)",
         "keywords": [
-          "communication",
-          "collaboration"
+          "behavior"
         ]
       },
       {
-        "canonical": "4. Initiative and Self-Reliance",
+        "canonical": "4. Action (Concrete execution and ventures)",
         "keywords": [
-          "initiative",
-          "self-reliance",
-          "self reliance"
+          "action"
         ]
       },
       {
-        "canonical": "5. Opportunity Recognition",
+        "canonical": "5. Success (Attainment of goals and positive impact)",
         "keywords": [
-          "opportunity recognition",
-          "opportunity"
-        ]
-      },
-      {
-        "canonical": "6. Resilience",
-        "keywords": [
-          "resilience",
-          "resilient"
+          "success"
         ]
       }
     ],
-    "explanation": "Ten Mindset Characteristics: Critical Thinking, Flexibility & Adaptability, Communication & Collaboration, Initiative & Self-Reliance, Opportunity Recognition, Future Orientation, Resilience, Persistence, Resourcefulness, Creativity & Innovation."
+    "explanation": "The Flow to Success: MINDSET -> ATTITUDE -> BEHAVIOR -> ACTION -> SUCCESS."
   }
 ]
