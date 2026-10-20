@@ -657,43 +657,6 @@
   },
   {
     "id": 38,
-    "topic": "Business Plan & Business Start-ups",
-    "question": "What are the official document formatting guidelines for the Business Plan submission at TUP (GEE12D)?",
-    "answer": "Times New Roman, Size 12, Margins TBR 1\" / Left 1.5\", Spacing 1.15\"",
-    "aliases": [
-      "Times New Roman, Size 12, Margins TBR 1\" / Left 1.5\", Spacing 1.15\"",
-      "Times New Roman 12",
-      "Times New Roman, 12, 1.15 spacing"
-    ],
-    "choices": [
-      "Times New Roman, Size 12, Margins TBR 1\" / Left 1.5\", Spacing 1.15\"",
-      "Arial, Size 10, Margins 1\" all around, Double Spacing",
-      "Calibri, Size 11, Margins 0.5\", Single Spacing",
-      "Georgia, Size 14, Margins 2\", Spacing 1.5\""
-    ],
-    "explanation": "Official guidelines: Font Style: Times New Roman, Font Size: 12, Margins: Top-Bottom-Right 1\"; Left 1.50\", Line and Paragraph Spacing: 1.15\", saved as PDF."
-  },
-  {
-    "id": 39,
-    "topic": "Business Plan & Business Start-ups",
-    "question": "What is the designated time limit for the culminating Product Presentation (Video or PPT)?",
-    "answer": "15 to 20 minutes",
-    "aliases": [
-      "15 to 20 minutes",
-      "15-20 minutes",
-      "15-20 mins",
-      "15 to 20 mins"
-    ],
-    "choices": [
-      "15 to 20 minutes",
-      "5 to 10 minutes",
-      "30 to 45 minutes",
-      "60 minutes"
-    ],
-    "explanation": "The presentation guidelines state: 'Product Presentation may be in a form of Video or Ppt good for 15-20 minutes only.'"
-  },
-  {
-    "id": 40,
     "topic": "Permits and Licenses",
     "question": "Why is business registration mandatory before commercial operations can begin?",
     "answer": "To legally recognize the business and obtain necessary permits and licenses",
@@ -712,7 +675,7 @@
     "explanation": "Registration establishes legal recognition, grants rights under commercial law, and is the prerequisite for municipal operating permits."
   },
   {
-    "id": 41,
+    "id": 39,
     "topic": "Permits and Licenses",
     "question": "Which government department issues the Business Name Registration Certificate for Sole Proprietorships in the Philippines?",
     "answer": "DTI",
@@ -729,7 +692,7 @@
     "explanation": "The Department of Trade and Industry (DTI) registers business names for sole proprietorships."
   },
   {
-    "id": 42,
+    "id": 40,
     "topic": "Permits and Licenses",
     "question": "Which government commission is responsible for the legal registration and incorporation of Partnerships and Corporations?",
     "answer": "SEC",
@@ -746,7 +709,7 @@
     "explanation": "The Securities and Exchange Commission (SEC) certifies the legal personality of partnerships and corporations."
   },
   {
-    "id": 43,
+    "id": 41,
     "topic": "Permits and Licenses",
     "question": "Which agency must ALL business entities register with to secure a Tax Identification Number (TIN), Certificate of Registration (Form 2303), and Official Receipts?",
     "answer": "BIR",
@@ -763,7 +726,7 @@
     "explanation": "The Bureau of Internal Revenue (BIR) manages national taxes, issues TINs and Form 2303, and grants Authority to Print (ATP) invoices."
   },
   {
-    "id": 44,
+    "id": 42,
     "topic": "Permits and Licenses",
     "question": "What is the initial local clearance secured from the specific village/community where the business premises will be physically situated?",
     "answer": "Barangay Clearance",
@@ -781,7 +744,7 @@
     "explanation": "A Barangay Clearance confirms that the local community has no objections to the enterprise operating within its territory."
   },
   {
-    "id": 45,
+    "id": 43,
     "topic": "Permits and Licenses",
     "question": "Which documents are required when applying for a Barangay Clearance at the Barangay Hall?",
     "answer": "DTI/SEC Certificate, Lease contract or proof of ownership, Valid ID and application form",
@@ -799,7 +762,7 @@
     "explanation": "Barangay clearance requires proof of business name (DTI/SEC), location tenure (lease/deed), and a valid government ID."
   },
   {
-    "id": 46,
+    "id": 44,
     "topic": "Permits and Licenses",
     "question": "Where does an entrepreneur go to secure the Mayor's Permit (Business Permit)?",
     "answer": "City or Municipal Hall",
@@ -818,7 +781,7 @@
     "explanation": "The Mayor's Permit is secured from the Business Permits and Licensing Office (BPLO) at the City or Municipal Hall."
   },
   {
-    "id": 47,
+    "id": 45,
     "topic": "Permits and Licenses",
     "question": "Which document certifies that an establishment meets the Fire Code standards and is issued by the Bureau of Fire Protection (BFP)?",
     "answer": "Fire Safety Inspection Certificate",
@@ -836,7 +799,7 @@
     "explanation": "The Fire Safety Inspection Certificate (FSIC) is granted by the BFP following physical inspection of fire exits, extinguishers, and wiring."
   },
   {
-    "id": 48,
+    "id": 46,
     "topic": "Permits and Licenses",
     "question": "Which clearance verifies that an enterprise complies with municipal public health and environmental hygiene standards?",
     "answer": "Sanitary Permit",
@@ -855,7 +818,7 @@
     "explanation": "The Sanitary Permit is issued by the City/Municipal Health Office after inspecting cleanliness and health cards."
   },
   {
-    "id": 49,
+    "id": 47,
     "topic": "Permits and Licenses",
     "question": "What local community tax certificate, colloquially termed a 'Cedula', is required for Mayor's Permit processing?",
     "answer": "Community Tax Certificate",
@@ -873,7 +836,7 @@
     "explanation": "The Community Tax Certificate (CTC or Cedula) is paid annually at the City/Municipal Treasurer's Office."
   },
   {
-    "id": 50,
+    "id": 48,
     "topic": "Permits and Licenses",
     "question": "Which building document certifies that a physical structure is deemed safe and approved for commercial occupation and use?",
     "answer": "Occupancy Permit",
@@ -891,7 +854,7 @@
     "explanation": "An Occupancy Permit is issued by the City/Municipal Engineering/Building Office certifying compliance with the National Building Code."
   },
   {
-    "id": 51,
+    "id": 49,
     "topic": "Social Entrepreneurship",
     "question": "What is Social Entrepreneurship as defined in the GEE12D module?",
     "answer": "An approach in which entrepreneurs develop, fund, and implement solutions to social, cultural, or environmental issues",
@@ -909,7 +872,7 @@
     "explanation": "Social Entrepreneurship is an approach where start-ups and entrepreneurs develop, fund, and implement innovative solutions to social, cultural, or environmental challenges."
   },
   {
-    "id": 52,
+    "id": 50,
     "topic": "Social Entrepreneurship",
     "question": "How do social entrepreneurs fundamentally differ from traditional business owners?",
     "answer": "They focus on creating positive social impact rather than primarily aiming to earn profits",
@@ -928,7 +891,7 @@
     "explanation": "Unlike traditional business owners who prioritize shareholder profits, social entrepreneurs dedicate their enterprise to creating positive, lasting social change."
   },
   {
-    "id": 53,
+    "id": 51,
     "topic": "Social Entrepreneurship",
     "question": "Which populations are the primary focus of most social entrepreneurs?",
     "answer": "Marginalized and exploited populations (the poor, sick, vulnerable, defenseless)",
@@ -946,7 +909,7 @@
     "explanation": "Social entrepreneurs focus on vulnerable populations—including the poor, the sick, and the defenseless—who are neglected by conventional markets."
   },
   {
-    "id": 54,
+    "id": 52,
     "topic": "Social Entrepreneurship",
     "question": "What phrase describes how social entrepreneurs translate grief, sympathy, and despair over injustice into innovative solutions?",
     "answer": "Putting Conscience to Work",
@@ -963,7 +926,7 @@
     "explanation": "The slide 'Putting Conscience to Work' explains that social entrepreneurs refuse to remain bystanders and instead turn empathy into ethical action."
   },
   {
-    "id": 55,
+    "id": 53,
     "topic": "Social Entrepreneurship",
     "question": "What form of social entrepreneurship is a relatively small-scale effort addressing social, environmental, or economic issues within a specific locality?",
     "answer": "Community Project",
@@ -980,7 +943,7 @@
     "explanation": "A Community Project is a localized, small-scale effort such as building a suburb community garden or organizing a volunteer rural fire department."
   },
   {
-    "id": 56,
+    "id": 54,
     "topic": "Social Entrepreneurship",
     "question": "Which of the following is an example of a social entrepreneurship Community Project cited in the module?",
     "answer": "A community garden in an affluent suburb or a volunteer fire department in a rural area",
@@ -999,7 +962,7 @@
     "explanation": "The module cites building community gardens and establishing volunteer fire departments as quintessential community projects."
   },
   {
-    "id": 57,
+    "id": 55,
     "topic": "Social Entrepreneurship",
     "question": "What type of entity exists not to generate revenue for shareholders, but to create an enterprise focused on a specific charitable or humanitarian cause?",
     "answer": "Non-Profit Organization",
@@ -1018,7 +981,7 @@
     "explanation": "A Non-Profit Organization operates for an overarching mission; any surplus funds are reinvested rather than distributed as dividends."
   },
   {
-    "id": 58,
+    "id": 56,
     "topic": "Social Entrepreneurship",
     "question": "What is a common misconception about non-profit organizations addressed in the module?",
     "answer": "That they funnel 100% of all donations directly into their mission without spending on operations",
@@ -1037,7 +1000,7 @@
     "explanation": "Non-profits must spend money on essential operational expenses like salaries, marketing, and physical offices to maintain organizational viability."
   },
   {
-    "id": 59,
+    "id": 57,
     "topic": "Social Entrepreneurship",
     "question": "When a non-profit organization generates extra revenue beyond its immediate operating costs, what must it do with the funds?",
     "answer": "Put it back into the endowment or reinvest it into the mission",
@@ -1056,7 +1019,7 @@
     "explanation": "Non-profits are bound by duty and law to reinvest surplus earnings into the endowment or programs rather than paying shareholders."
   },
   {
-    "id": 60,
+    "id": 58,
     "topic": "Social Entrepreneurship",
     "question": "According to the International Co-operative Alliance, what is a Co-operative (Co-op)?",
     "answer": "An autonomous association of persons united voluntarily to meet common needs through a jointly owned and democratically controlled enterprise",
@@ -1074,7 +1037,7 @@
     "explanation": "The International Co-operative Alliance defines a co-op as an autonomous association jointly owned and democratically controlled by its members."
   },
   {
-    "id": 61,
+    "id": 59,
     "topic": "Social Entrepreneurship",
     "question": "What common basic human needs do member-owned and operated Co-operatives typically focus on?",
     "answer": "Housing or groceries",
@@ -1093,7 +1056,7 @@
     "explanation": "Co-ops typically mobilize community members around essential survival needs, such as affordable housing and collective grocery purchasing."
   },
   {
-    "id": 62,
+    "id": 60,
     "topic": "Social Entrepreneurship",
     "question": "Can a Co-operative operate on either a non-profit or a for-profit basis?",
     "answer": "Yes, they can operate on either basis",
@@ -1112,7 +1075,7 @@
     "explanation": "In most jurisdictions, co-ops enjoy flexibility and can be structured either as non-profit societies or as for-profit cooperative businesses."
   },
   {
-    "id": 63,
+    "id": 61,
     "topic": "Social Entrepreneurship",
     "question": "What type of business operates according to a specific social or charitable mission, often backed by a non-profit to provide job training for marginalized people?",
     "answer": "Social Enterprise",
@@ -1129,7 +1092,7 @@
     "explanation": "A Social Enterprise pairs commercial revenue generation with a social cause, such as vocational training for vulnerable groups or indigenous community crafts."
   },
   {
-    "id": 64,
+    "id": 62,
     "topic": "Social Entrepreneurship",
     "question": "What is a Social Purpose Business?",
     "answer": "A business founded to both generate profit and affect positive change for the public good",
@@ -1147,7 +1110,7 @@
     "explanation": "A Social Purpose Business strikes an ideal balance between for-profit operations and social impact, proving financial gain can align with ethics."
   },
   {
-    "id": 65,
+    "id": 63,
     "topic": "Social Entrepreneurship",
     "question": "What type of investment approach operates like traditional venture capital but adds the explicit requirement of generating measurable social good?",
     "answer": "Impact Investing",
@@ -1164,7 +1127,7 @@
     "explanation": "Impact Investing directs capital toward enterprises that combine viable business models with measurable positive social or environmental impact."
   },
   {
-    "id": 66,
+    "id": 64,
     "topic": "Social Entrepreneurship",
     "question": "How do modern social entrepreneurs leverage technology to uplift remote or underserved communities?",
     "answer": "By bringing high-speed internet connectivity to remote communities to give students access to knowledge resources",
@@ -1183,7 +1146,7 @@
     "explanation": "Modern social ventures deploy technology—such as community broadband or off-grid solar—to democratize education and knowledge access."
   },
   {
-    "id": 67,
+    "id": 65,
     "topic": "Social Entrepreneurship",
     "question": "According to the UIC Guidebook featured in the presentation, where should a social entrepreneur begin their journey?",
     "answer": "By discovering your community's unmet needs",
@@ -1202,7 +1165,7 @@
     "explanation": "The guidebook stresses that genuine social ventures begin by immersing oneself in the community to discover real, unmet needs."
   },
   {
-    "id": 68,
+    "id": 66,
     "topic": "Social Entrepreneurship",
     "question": "Which memorable quote by Carl W. Buechner closes the Social Entrepreneurship lecture?",
     "answer": "They may forget what you said, but they will never forget how you made them feel",
@@ -1220,7 +1183,7 @@
     "explanation": "Carl W. Buechner's quote encapsulates empathy and emotional resonance: 'They may forget what you said, but they will never forget how you made them feel.'"
   },
   {
-    "id": 69,
+    "id": 67,
     "topic": "Social Entrepreneurship",
     "question": "Why must a social entrepreneur remain 'financially savvy' even though profit is not their primary goal?",
     "answer": "To succeed, sustain operations, and ensure the longevity of their cause",
@@ -1239,7 +1202,7 @@
     "explanation": "Without sound financial management and revenue generation, an enterprise cannot keep its doors open or sustainably serve its beneficiaries."
   },
   {
-    "id": 70,
+    "id": 68,
     "topic": "Social Entrepreneurship",
     "question": "What are the four (4) primary forms of Social Entrepreneurship detailed in the course module?",
     "answer": "Community Project, Non-Profit Organization, Co-operative (Co-op), Social Enterprise / Social Purpose Business",
@@ -1257,7 +1220,7 @@
     "explanation": "The module delineates the 4 forms: (1) Community Project, (2) Non-Profit Organization, (3) Co-operative, and (4) Social Enterprise / Social Purpose Business."
   },
   {
-    "id": 71,
+    "id": 69,
     "topic": "Social Entrepreneurship",
     "question": "How can indigenous tribes utilize social enterprises as an instrument of economic justice against displacement?",
     "answer": "By operating commercial ventures (like crafts or tribal gaming) to pay salaries and fund tribal community welfare",
@@ -1273,61 +1236,5 @@
       "By abandoning tribal traditions to work in offshore processing centers"
     ],
     "explanation": "The module highlights how displaced indigenous communities operate ventures (e.g. tribal enterprises) to reclaim economic autonomy and fund community health and education."
-  },
-  {
-    "id": 72,
-    "topic": "Course Orientation & Decorum",
-    "question": "What is the official course code for 'The Entrepreneurial Mind' under CMMS at TUP?",
-    "answer": "GEE12D",
-    "aliases": [
-      "GEE12D",
-      "GEE 12D",
-      "GEE-12D"
-    ],
-    "choices": [
-      "GEE12D",
-      "GEM14",
-      "CC101",
-      "ITE204"
-    ],
-    "explanation": "As stated in the official syllabus and business plan guidelines, the course code is GEE12D."
-  },
-  {
-    "id": 73,
-    "topic": "Course Orientation & Decorum",
-    "question": "How many tardies are equivalent to one (1) absence, and what is the maximum allowable absences in this 3-unit course?",
-    "answer": "3 tardies = 1 absence; 3 maximum allowable absences",
-    "aliases": [
-      "3 tardies = 1 absence; 3 maximum allowable absences",
-      "3 tardies = 1 absence",
-      "3 tardies and 3 absences",
-      "3 tardiness = 1 absence"
-    ],
-    "choices": [
-      "3 tardies = 1 absence; 3 maximum allowable absences",
-      "2 tardies = 1 absence; 5 maximum allowable absences",
-      "5 tardies = 1 absence; 2 maximum allowable absences",
-      "4 tardies = 1 absence; 6 maximum allowable absences"
-    ],
-    "explanation": "Three counts of tardiness equal one absence, and exceeding 3 total absences triggers a recommendation to drop."
-  },
-  {
-    "id": 74,
-    "topic": "Course Orientation & Decorum",
-    "question": "What academic reward is granted to students who maintain Perfect Attendance throughout the semester?",
-    "answer": "One-scale higher mark on the final grade",
-    "aliases": [
-      "One-scale higher mark on the final grade",
-      "One-scale higher mark",
-      "One scale higher",
-      "One scale higher mark"
-    ],
-    "choices": [
-      "One-scale higher mark on the final grade",
-      "Full exemption from the final business plan",
-      "Automatic 1.00 on prelims and midterms",
-      "Free cafeteria meal passes"
-    ],
-    "explanation": "Students who complete the semester with perfect attendance receive a one-scale higher mark on their final grade."
   }
 ]
