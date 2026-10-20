@@ -1295,25 +1295,6 @@
   {
     "id": 73,
     "topic": "Course Orientation & Decorum",
-    "question": "How many minutes of grace period are allowed before a student is marked tardy in Ms. Tonggao's class?",
-    "answer": "15 minutes",
-    "aliases": [
-      "15 minutes",
-      "15 mins",
-      "15",
-      "Fifteen minutes"
-    ],
-    "choices": [
-      "15 minutes",
-      "5 minutes",
-      "10 minutes",
-      "30 minutes"
-    ],
-    "explanation": "Students enjoy a 15-minute grace period; arrival after 15 minutes is recorded as tardiness."
-  },
-  {
-    "id": 74,
-    "topic": "Course Orientation & Decorum",
     "question": "How many tardies are equivalent to one (1) absence, and what is the maximum allowable absences in this 3-unit course?",
     "answer": "3 tardies = 1 absence; 3 maximum allowable absences",
     "aliases": [
@@ -1331,7 +1312,7 @@
     "explanation": "Three counts of tardiness equal one absence, and exceeding 3 total absences triggers a recommendation to drop."
   },
   {
-    "id": 75,
+    "id": 74,
     "topic": "Course Orientation & Decorum",
     "question": "What academic reward is granted to students who maintain Perfect Attendance throughout the semester?",
     "answer": "One-scale higher mark on the final grade",
