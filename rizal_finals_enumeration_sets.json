@@ -1,0 +1,612 @@
+[
+  {
+    "id": "finals-enum-1",
+    "group": "group1",
+    "topic": "Sucesos de las Islas Filipinas (Ambeth Ocampo)",
+    "question": "Ilista ang apat (4) na dahilan ni Jose Rizal sa pagpili sa 'Sucesos de las Islas Filipinas' ni Antonio de Morga upang lagyan ng anotasyon (ayon kay Ambeth Ocampo):",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Bihira o pambihira ang akda (mahirap matagpuan)",
+        "keywords": [
+          "bihira",
+          "pambihira",
+          "rare",
+          "mahirap hanapin",
+          "mahirap matagpuan"
+        ]
+      },
+      {
+        "canonical": "2. Obhetibo at sekular ang pananaw (hindi pari si Morga)",
+        "keywords": [
+          "obhetibo",
+          "sekular",
+          "hindi pari",
+          "hindi prayle",
+          "objective"
+        ]
+      },
+      {
+        "canonical": "3. Mas simpatetiko sa paglalarawan ng mga indio / Pilipino",
+        "keywords": [
+          "simpatetiko",
+          "simpatiko",
+          "makatarungan sa indio",
+          "mabuti sa pilipino"
+        ]
+      },
+      {
+        "canonical": "4. Si Morga mismo ang nakasaksi sa mga pangyayaring inilahad (primary source)",
+        "keywords": [
+          "nakasaksi",
+          "saksi",
+          "personal na nakasaksi",
+          "eyewitness",
+          "naranasan"
+        ]
+      }
+    ],
+    "explanation": "4 na dahilan ayon kay Ambeth Ocampo: (1) Bihira ang aklat, (2) Obhetibo at sekular, (3) Mas simpatetiko sa mga Pilipino, at (4) Personal na saksi si Morga sa mga kaganapan."
+  },
+  {
+    "id": "finals-enum-2",
+    "group": "group1",
+    "topic": "Asosasyong Internasyonal ng mga Filipinohista (1889)",
+    "question": "Ilista ang limang (5) nahalal na opisyal ng Asosasyong Internasyonal ng mga Filipinohista sa Paris noong Agosto 1889:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Pangulo: Dr. Ferdinand Blumentritt (Austriyano)",
+        "keywords": [
+          "blumentritt",
+          "ferdinand blumentritt",
+          "pangulo"
+        ]
+      },
+      {
+        "canonical": "2. Pangalawang Pangulo: G. Edmund Plauchut (Pranses)",
+        "keywords": [
+          "plauchut",
+          "edmund plauchut",
+          "pangalawang pangulo"
+        ]
+      },
+      {
+        "canonical": "3. Tagapayo: Dr. Reinhold Rost (Anglo-German)",
+        "keywords": [
+          "rost",
+          "reinhold rost",
+          "tagapayo"
+        ]
+      },
+      {
+        "canonical": "4. Tagapayo: Dr. Antonio Ma. Regidor (Pilipino-Espanyol)",
+        "keywords": [
+          "regidor",
+          "antonio regidor",
+          "antonio ma. regidor"
+        ]
+      },
+      {
+        "canonical": "5. Kalihim: Dr. Jose Rizal (Pilipino)",
+        "keywords": [
+          "rizal",
+          "jose rizal",
+          "kalihim"
+        ]
+      }
+    ],
+    "explanation": "Mga Opisyal: Pangulo - Blumentritt; Pangalawang Pangulo - Plauchut; Mga Tagapayo - Rost at Regidor; Kalihim - Rizal."
+  },
+  {
+    "id": "finals-enum-3",
+    "group": "group1",
+    "topic": "Mga Akda at Sanaysay sa London at Paris (1888–1890)",
+    "question": "Ilista ang limang (5) mahahalagang sanaysay o akdang pampanitikan na isinulat ni Rizal sa London at Paris:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Ingratitudes / Mga Kawalang Turing (Enero 15, 1890)",
+        "keywords": [
+          "ingratitudes",
+          "mga kawalang turing",
+          "kawalang turing"
+        ]
+      },
+      {
+        "canonical": "2. Verdades Nuevas / Mga Bagong Katotohanan (Hulyo 31, 1889)",
+        "keywords": [
+          "verdades nuevas",
+          "mga bagong katotohanan",
+          "bagong katotohanan"
+        ]
+      },
+      {
+        "canonical": "3. Diferencias / Mga Pagkakaiba",
+        "keywords": [
+          "diferencias",
+          "mga pagkakaiba",
+          "pagkakaiba"
+        ]
+      },
+      {
+        "canonical": "4. Por Telefono (Satira laban kay Padre Salvador Font)",
+        "keywords": [
+          "por telefono",
+          "telefono"
+        ]
+      },
+      {
+        "canonical": "5. Specimens of Tagalog Folklore / Two Eastern Fables",
+        "keywords": [
+          "specimens of tagalog folklore",
+          "two eastern fables",
+          "folklore",
+          "fables",
+          "ma-yi",
+          "filipinas dentro de cien anos",
+          "sobre la indolencia"
+        ]
+      }
+    ],
+    "explanation": "Mga akda: Ingratitudes, Verdades Nuevas, Diferencias, Por Telefono, Specimens of Tagalog Folklore, Two Eastern Fables, Filipinas Dentro de Cien Anos, at Sobre la Indolencia."
+  },
+  {
+    "id": "finals-enum-4",
+    "group": "group2",
+    "topic": "Kaligirang Pangkasaysayan ng El Filibusterismo",
+    "question": "Ilista ang apat (4) na lungsod sa Europa kung saan isinulat at binago ni Rizal ang manuskrito ng El Filibusterismo:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. London, Inglatera (binago ang banghay at iwinasto ang kabanata noong 1888)",
+        "keywords": [
+          "london",
+          "inglatera",
+          "england"
+        ]
+      },
+      {
+        "canonical": "2. Paris, Pransiya (ipinagpatuloy ang pagsusulat noong 1889)",
+        "keywords": [
+          "paris",
+          "pransiya",
+          "france"
+        ]
+      },
+      {
+        "canonical": "3. Madrid, Espanya / Brussels, Belgium (1889-1890)",
+        "keywords": [
+          "madrid",
+          "brussels",
+          "espanya",
+          "belgium",
+          "belgica"
+        ]
+      },
+      {
+        "canonical": "4. Biarritz, Pransiya (tinapos ang buong manuskrito noong Marso 29, 1891)",
+        "keywords": [
+          "biarritz",
+          "biarritz pransiya"
+        ]
+      }
+    ],
+    "explanation": "Sinimulan sa Calamba (1887), binago sa London (1888), ipinagpatuloy sa Paris, Madrid, at Brussels (1889-1890), at tinapos sa Biarritz (Marso 29, 1891)."
+  },
+  {
+    "id": "finals-enum-5",
+    "group": "group2",
+    "topic": "Paghahambing: Noli Me Tangere vs. El Filibusterismo",
+    "question": "Ilista ang limang (5) pangunahing pagkakaiba sa katangian ng Noli Me Tangere at El Filibusterismo:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Kategorya: Nobelang Romantiko (Noli) vs. Nobelang Politikal (Fili)",
+        "keywords": [
+          "romantiko vs politikal",
+          "romantiko",
+          "politikal",
+          "nobelang politikal"
+        ]
+      },
+      {
+        "canonical": "2. Diwa: Aklat ng Puso (Noli) vs. Aklat ng Isip (Fili)",
+        "keywords": [
+          "aklat ng puso vs aklat ng isip",
+          "pusa at isip",
+          "aklat ng puso",
+          "aklat ng isip"
+        ]
+      },
+      {
+        "canonical": "3. Talinghaga: Diagnosis ng sakit (Noli) vs. Reseta o lunas (Fili)",
+        "keywords": [
+          "diagnosis vs reseta",
+          "diagnosis",
+          "reseta",
+          "lunas"
+        ]
+      },
+      {
+        "canonical": "4. Bilang ng Kabanata: 64 na kabanata (Noli) vs. 39 na kabanata (Fili)",
+        "keywords": [
+          "64 vs 39",
+          "64 kabanata",
+          "39 kabanata",
+          "bilang ng kabanata"
+        ]
+      },
+      {
+        "canonical": "5. Tagapagligtas: Dr. Maximo Viola (Noli) vs. Valentin Ventura (Fili)",
+        "keywords": [
+          "viola vs ventura",
+          "maximo viola",
+          "valentin ventura",
+          "tagapagligtas"
+        ]
+      }
+    ],
+    "explanation": "Paghahambing: (1) Romantiko vs. Politikal, (2) Puso vs. Isip, (3) Diagnosis vs. Reseta, (4) 64 vs. 39 kabanata, (5) Maximo Viola vs. Valentin Ventura."
+  },
+  {
+    "id": "finals-enum-6",
+    "group": "group2",
+    "topic": "Buhay at Panggagamot sa Hong Kong (1891–1892)",
+    "question": "Ilista ang apat (4) na mahahalagang detalye sa buhay at panggagamot ni Dr. Jose Rizal sa Hong Kong:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Klinika sa Blg. 5 D'Aguilar Street at tirahan sa Blg. 2 Rednaxela Terrace",
+        "keywords": [
+          "d'aguilar",
+          "rednaxela",
+          "5 d'aguilar",
+          "2 rednaxela terrace",
+          "klinika",
+          "tirahan"
+        ]
+      },
+      {
+        "canonical": "2. Pagtulong ni Dr. Lorenzo Pereira Marques sa pagrekomenda ng mga pasyente sa mata",
+        "keywords": [
+          "dr. lorenzo marques",
+          "marques",
+          "lorenzo marques"
+        ]
+      },
+      {
+        "canonical": "3. Matagumpay na operasyon sa katarata ng kaliwang mata ng kanyang inang si Doña Teodora",
+        "keywords": [
+          "operasyon sa katarata",
+          "kaliwang mata ng ina",
+          "katarata ng ina",
+          "katarata"
+        ]
+      },
+      {
+        "canonical": "4. Panggagamot sa epidemya ng trangkaso (influenza) sa Hong Kong",
+        "keywords": [
+          "trangkaso",
+          "epidemya ng trangkaso",
+          "influenza"
+        ]
+      }
+    ],
+    "explanation": "Mahahalagang Tala sa Hong Kong: (1) Klinika sa 5 D'Aguilar / Tirahan sa 2 Rednaxela, (2) Suporta ni Dr. Marques, (3) Operasyon sa mata ng ina, (4) Paggamot sa epidemya ng trangkaso, at (5) Pagsasama ng pamilya noong Pasko 1891."
+  },
+  {
+    "id": "finals-enum-7",
+    "group": "group3",
+    "topic": "Mga Layunin ng La Liga Filipina (Hulyo 3, 1892)",
+    "question": "Ilista ang limang (5) pangunahing layunin ng La Liga Filipina batay sa saligang-batas nito:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Pag-isahin ang buong kapuluan sa isang buo, malakas, at magkakaugnay na katawan",
+        "keywords": [
+          "pag-isahin ang buong kapuluan",
+          "pag-isahin ang pilipinas",
+          "pagkakaisa",
+          "pagkaisa"
+        ]
+      },
+      {
+        "canonical": "2. Pagtatanggol laban sa bawat uri ng karahasan at kawalang-katarungan",
+        "keywords": [
+          "karahasan",
+          "kawalang-katarungan",
+          "pagtatanggol sa karahasan",
+          "laban sa karahasan"
+        ]
+      },
+      {
+        "canonical": "3. Proteksyon at pagdadamayan sa bawat kagipitan at pangangailangan",
+        "keywords": [
+          "proteksyon",
+          "pagdadamayan",
+          "tulong sa bawat kasapi",
+          "proteksyon sa kasapi"
+        ]
+      },
+      {
+        "canonical": "4. Pagpapasigla at pagpapaunlad ng edukasyon, agrikultura, at komersyo",
+        "keywords": [
+          "edukasyon",
+          "agrikultura",
+          "komersyo",
+          "pagpapaunlad ng edukasyon"
+        ]
+      },
+      {
+        "canonical": "5. Pag-aaral at pagpapatupad ng mga makabuluhang reporma",
+        "keywords": [
+          "reporma",
+          "pag-aaral ng reporma",
+          "pagpapatupad ng reporma"
+        ]
+      }
+    ],
+    "explanation": "5 Layunin ng La Liga: (1) Pagkaisa ng kapuluan, (2) Pagtatanggol laban sa karahasan, (3) Proteksyon sa kasapi, (4) Edukasyon, agrikultura, komersyo, at (5) Reporma."
+  },
+  {
+    "id": "finals-enum-8",
+    "group": "group3",
+    "topic": "Mga Nahalal na Opisyal ng La Liga Filipina",
+    "question": "Ilista ang apat (4) na nahalal na pinuno at opisyal ng La Liga Filipina noong Hulyo 3, 1892 sa Tondo:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Pangulo: Ambrosio Salvador",
+        "keywords": [
+          "ambrosio salvador",
+          "salvador",
+          "pangulo"
+        ]
+      },
+      {
+        "canonical": "2. Kalihim: Deodato Arellano",
+        "keywords": [
+          "deodato arellano",
+          "arellano",
+          "kalihim"
+        ]
+      },
+      {
+        "canonical": "3. Ingat-yaman: Bonifacio Arevalo",
+        "keywords": [
+          "bonifacio arevalo",
+          "arevalo",
+          "ingat-yaman"
+        ]
+      },
+      {
+        "canonical": "4. Piskal: Agustin dela Rosa",
+        "keywords": [
+          "agustin dela rosa",
+          "dela rosa",
+          "piskal"
+        ]
+      }
+    ],
+    "explanation": "Mga Opisyal: Pangulo - Ambrosio Salvador; Kalihim - Deodato Arellano; Ingat-yaman - Bonifacio Arevalo; Piskal - Agustin dela Rosa."
+  },
+  {
+    "id": "finals-enum-9",
+    "group": "group3",
+    "topic": "Ang Pitong (7) Kalbaryo ni Rizal (Yunit XI)",
+    "question": "Ilista ang pitong (7) magkakasunod na Kalbaryo at tagpuan sa buhay ni Rizal ayon sa ulat ng Pangkat 3:",
+    "required_count": 7,
+    "items": [
+      {
+        "canonical": "1. Unang Kalbaryo: Pagdakip at Pagpapatapon (Fort Santiago / Bapor Cebu)",
+        "keywords": [
+          "pagdakip",
+          "pagpapatapon",
+          "unang kalbaryo"
+        ]
+      },
+      {
+        "canonical": "2. Ikalawang Kalbaryo: Dapitan (Pananatili ng 4 na taon sa Zamboanga)",
+        "keywords": [
+          "dapitan",
+          "ikalawang kalbaryo"
+        ]
+      },
+      {
+        "canonical": "3. Ikatlong Kalbaryo: Manila / Biyahe sa Espanya (Castilla, Isla de Panay, Montjuïc, S.S. Colón)",
+        "keywords": [
+          "manila",
+          "castilla",
+          "montjuic",
+          "ikatlong kalbaryo",
+          "biyahe"
+        ]
+      },
+      {
+        "canonical": "4. Ikaapat na Kalbaryo: Ang Paglilitis (Cuartel de España)",
+        "keywords": [
+          "paglilitis",
+          "cuartel de espana",
+          "ikaapat na kalbaryo"
+        ]
+      },
+      {
+        "canonical": "5. Ikalimang Kalbaryo: Kuta ng Santiago (Huling 24 oras sa kapilya)",
+        "keywords": [
+          "kuta ng santiago",
+          "fort santiago",
+          "huling 24 oras",
+          "ikalimang kalbaryo"
+        ]
+      },
+      {
+        "canonical": "6. Ikaanim na Kalbaryo: Bagumbayan (Pagbitay sa pamamagitan ng pagbaril)",
+        "keywords": [
+          "bagumbayan",
+          "pagbitay",
+          "pagbaril",
+          "ikaanim na kalbaryo"
+        ]
+      },
+      {
+        "canonical": "7. Ikapitong Kalbaryo: Libingan sa Paco (Lihim na paglilibing nang walang kabaong o lapida)",
+        "keywords": [
+          "paco",
+          "libingan sa paco",
+          "sementeryo ng paco",
+          "ikapitong kalbaryo"
+        ]
+      }
+    ],
+    "explanation": "Ang Pitong Kalbaryo: 1. Pagdakip/Pagpapatapon, 2. Dapitan, 3. Manila/Biyahe patungong Espanya, 4. Ang Paglilitis, 5. Kuta ng Santiago, 6. Bagumbayan, 7. Libingan sa Paco."
+  },
+  {
+    "id": "finals-enum-10",
+    "group": "group3",
+    "topic": "Mga Ambag at Imbensyon ni Rizal sa Dapitan",
+    "question": "Ilista ang limang (5) natatanging ambag, imbensyon, o proyektong pangkomunidad ni Rizal sa Dapitan:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Gravity Waterworks System (Sistema ng patubig gamit ang kawayan at luwad)",
+        "keywords": [
+          "waterworks",
+          "gravity waterworks",
+          "patubig",
+          "tubig"
+        ]
+      },
+      {
+        "canonical": "2. Relief Map ng Mindanao sa plasa (katuwang si P. Francisco Sanchez)",
+        "keywords": [
+          "relief map",
+          "mapa ng mindanao",
+          "mapa",
+          "relief map ng mindanao"
+        ]
+      },
+      {
+        "canonical": "3. Pagtatayo ng paaralan para sa mga batang lalaki (16 na mag-aaral nang libre)",
+        "keywords": [
+          "paaralan",
+          "paaralan sa dapitan",
+          "eskwelahan",
+          "pagtuturo"
+        ]
+      },
+      {
+        "canonical": "4. Sulpukan (makabagong lighter na pansindi ng sigarilyo)",
+        "keywords": [
+          "sulpukan",
+          "lighter",
+          "pansindi"
+        ]
+      },
+      {
+        "canonical": "5. Pagtuklas sa 3 hayop: Draco rizali, Rhacophorus rizali, at Apogonia rizali",
+        "keywords": [
+          "draco rizali",
+          "rhacophorus rizali",
+          "apogonia rizali",
+          "tatlong hayop",
+          "pagtuklas ng hayop",
+          "makina ng ladrillo",
+          "kooperatiba"
+        ]
+      }
+    ],
+    "explanation": "Mga Ambag sa Dapitan: Waterworks system, Relief map ng Mindanao, Paaralan, Sulpukan, Pagtuklas ng 3 hayop, Makina sa paggawa ng ladrilyo (6,000/araw), at Sociedad de Agricultores."
+  },
+  {
+    "id": "finals-enum-11",
+    "group": "group3",
+    "topic": "Mga Sakdal at Kaso sa Paglilitis kay Rizal (Disyembre 1896)",
+    "question": "Ilista ang tatlong (3) opisyal na sakdal o paratang ng pamahalaang militar laban kay Jose Rizal:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Rebelyon (Rebellion)",
+        "keywords": [
+          "rebelyon",
+          "rebellion",
+          "pagrerebelde"
+        ]
+      },
+      {
+        "canonical": "2. Sedisyon (Sedition)",
+        "keywords": [
+          "sedisyon",
+          "sedition",
+          "panunulsol"
+        ]
+      },
+      {
+        "canonical": "3. Pagtatatag ng Ilegal na Samahan (Illegal Association / La Liga Filipina)",
+        "keywords": [
+          "ilegal na samahan",
+          "illegal association",
+          "samahang labag sa batas",
+          "samahan"
+        ]
+      }
+    ],
+    "explanation": "Tatlong opisyal na sakdal: Rebelyon, Sedisyon, at Pagtatatag ng Ilegal na Samahan (Artikulo 189 ng Kodigo Penal)."
+  },
+  {
+    "id": "finals-enum-12",
+    "group": "group3",
+    "topic": "Huling 24 Oras ni Rizal sa Fort Santiago (Disyembre 29-30, 1896)",
+    "question": "Ilista ang limang (5) mahahalagang panauhin o paring bumisita kay Rizal sa kanyang kapilya sa Fort Santiago bago siya bitayin:",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Padre Miguel Saderra Mata / Padre Luis Viza (nagbigay ng Sagradong Puso)",
+        "keywords": [
+          "saderra mata",
+          "luis viza",
+          "viza",
+          "saderra"
+        ]
+      },
+      {
+        "canonical": "2. Padre Federico Faura (nagbabala noon ukol sa pagkapugot ng ulo)",
+        "keywords": [
+          "faura",
+          "federico faura",
+          "padre faura"
+        ]
+      },
+      {
+        "canonical": "3. Teniente Luis Taviel de Andrade (kanyang abogadong tagapagtanggol)",
+        "keywords": [
+          "taviel de andrade",
+          "luis taviel",
+          "andrade"
+        ]
+      },
+      {
+        "canonical": "4. Doña Teodora Alonso at kapatid na si Trinidad (tumanggap ng kusinilya)",
+        "keywords": [
+          "teodora alonso",
+          "trinidad",
+          "ina",
+          "trining",
+          "kapatid na trinidad"
+        ]
+      },
+      {
+        "canonical": "5. Padre Vicente Balaguer / Padre Jose Vilaclara (nagdaos ng misa at kasal)",
+        "keywords": [
+          "balaguer",
+          "vilaclara",
+          "vicente balaguer",
+          "jose vilaclara",
+          "gaspar cestano",
+          "santiago mataix"
+        ]
+      }
+    ],
+    "explanation": "Mga Bisita: Padre Saderra Mata, Padre Viza, Padre Antonio Rosell, Padre Faura, Padre Vilaclara, Padre Balaguer, Santiago Mataix, Doña Teodora, Trinidad, Don Gaspar Cestaño, at Teniente Luis Taviel de Andrade."
+  }
+]

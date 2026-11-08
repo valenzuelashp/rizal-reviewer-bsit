@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Kailan at saan ipinanganak si Antonio de Morga, ang may-akda ng Sucesos de las Islas Filipinas?",
+    "answer": "1559 sa Seville, Espanya",
+    "aliases": [
+      "1559 sa Seville, Espanya",
+      "1559",
+      "Seville",
+      "Seville, Espanya",
+      "1559 sa Seville",
+      "Seville, Spain"
+    ],
+    "choices": [
+      "1559 sa Seville, Espanya",
+      "1561 sa Madrid, Espanya",
+      "1572 sa Barcelona, Espanya",
+      "1580 sa Mexico City"
+    ],
+    "explanation": "Ayon sa reviewer ng Pangkat 1, si Antonio de Morga ay ipinanganak noong 1559 sa Seville, Spain. Naging Kapitan Heneral siya noong 1593 at hukom ng Audiencia noong 1598."
+  },
+  {
+    "id": 2,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Kailan at saan unang inilathala ang orihinal na aklat na Sucesos de las Islas Filipinas ni Antonio de Morga?",
+    "answer": "1609 sa Mexico City",
+    "aliases": [
+      "1609 sa Mexico City",
+      "1609",
+      "Mexico City",
+      "1609 sa Mexico",
+      "Mehiko",
+      "Mexico"
+    ],
+    "choices": [
+      "1609 sa Mexico City",
+      "1600 sa Madrid",
+      "1615 sa Maynila",
+      "1890 sa Paris"
+    ],
+    "explanation": "Ang Sucesos de las Islas Filipinas ay unang inilimbag sa Casa de Geronimo Balli sa Mexico City noong taong 1609."
+  },
+  {
+    "id": 3,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang literal na kahulugan ng salitang Espanyol na 'Sucesos' sa pamagat ng akda ni Morga?",
+    "answer": "Mga kaganapan o pangyayari",
+    "aliases": [
+      "Mga kaganapan o pangyayari",
+      "mga kaganapan",
+      "pangyayari",
+      "mga pangyayari",
+      "kaganapan",
+      "events",
+      "happenings"
+    ],
+    "choices": [
+      "Mga kaganapan o pangyayari",
+      "Mga tagumpay ng Espanya",
+      "Kasaysayan ng mga pulo",
+      "Batas ng kolonya"
+    ],
+    "explanation": "Ang salitang 'Sucesos' ay nangangahulugang mga kaganapan o pangyayari (events/occurrences)."
+  },
+  {
+    "id": 4,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ayon kay Ambeth Ocampo, ilan ang pangunahing dahilan kung bakit pinili ni Rizal na i-anotasyon ang Sucesos ni Morga?",
+    "answer": "4 na dahilan",
+    "aliases": [
+      "4 na dahilan",
+      "4",
+      "Apat",
+      "apat na dahilan",
+      "4 dahilan"
+    ],
+    "choices": [
+      "4 na dahilan",
+      "3 dahilan",
+      "5 dahilan",
+      "2 dahilan"
+    ],
+    "explanation": "4 na dahilan ayon kay Ambeth Ocampo: (1) Bihira ang akda, (2) Obhetibo at sekular dahil hindi pari si Morga, (3) Mas simpatetiko sa mga indio, at (4) Si Morga mismo ang nakasaksi sa mga inilahad."
+  },
+  {
+    "id": 5,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Bakit itinuturing na obhetibo at sekular ang pananaw ni Antonio de Morga sa kanyang aklat?",
+    "answer": "Dahil siya ay isang opisyal ng pamahalaan at hindi pari o relihiyoso",
+    "aliases": [
+      "Dahil siya ay isang opisyal ng pamahalaan at hindi pari o relihiyoso",
+      "hindi pari si Morga",
+      "hindi siya prayle",
+      "opisyal ng gobyerno",
+      "hindi pari"
+    ],
+    "choices": [
+      "Dahil siya ay isang opisyal ng pamahalaan at hindi pari o relihiyoso",
+      "Dahil siya ay isang katutubong Pilipino",
+      "Dahil sinulat niya ito sa Tagalog",
+      "Dahil tutol siya sa pananakop ng Espanya"
+    ],
+    "explanation": "Hindi pari o prayle si Morga kundi isang lingkod-sibil at hukom ng Audiencia, kaya sekular at hindi pabor sa iisang relihiyosong orden ang kanyang tala."
+  },
+  {
+    "id": 6,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Kailan at saang lungsod inilathala ang anotasyon ni Dr. Jose Rizal sa Sucesos de las Islas Filipinas?",
+    "answer": "Enero 1890 sa Paris",
+    "aliases": [
+      "Enero 1890 sa Paris",
+      "Enero 1890",
+      "Paris, 1890",
+      "1890 sa Paris",
+      "Paris",
+      "Garnier Freres"
+    ],
+    "choices": [
+      "Enero 1890 sa Paris",
+      "Marso 1887 sa Berlin",
+      "Setyembre 1891 sa Ghent",
+      "Hunyo 1892 sa Hong Kong"
+    ],
+    "explanation": "Inilathala ang anotasyon ni Rizal sa Sucesos noong Enero 1890 sa Paris sa pamamagitan ng palimbagan ng Garnier Frères."
+  },
+  {
+    "id": 7,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang kilalang Austriyanong iskolar na sumulat ng paunang salita (prologo) ng anotasyon ni Rizal sa Sucesos?",
+    "answer": "Ferdinand Blumentritt",
+    "aliases": [
+      "Ferdinand Blumentritt",
+      "Blumentritt",
+      "Prof. Ferdinand Blumentritt",
+      "Fernando Blumentritt"
+    ],
+    "choices": [
+      "Ferdinand Blumentritt",
+      "Dr. Reinhold Rost",
+      "Dr. H. Kern",
+      "Edmund Plauchut"
+    ],
+    "explanation": "Si Propesor Ferdinand Blumentritt ang sumulat ng Prologo kung saan pinuri niya ang akda ni Rizal ngunit pinuna rin ang pagiging labis na mapupunahin nito sa Simbahan."
+  },
+  {
+    "id": 8,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang librarian ng Ministry of Foreign Affairs sa London na tinawag si Rizal na 'una perla de hombre' (isang perlas na tao)?",
+    "answer": "Dr. Reinhold Rost",
+    "aliases": [
+      "Dr. Reinhold Rost",
+      "Reinhold Rost",
+      "Dr. Rost",
+      "Rost"
+    ],
+    "choices": [
+      "Dr. Reinhold Rost",
+      "Ferdinand Blumentritt",
+      "Dr. Adolf B. Meyer",
+      "Dr. H. Kern"
+    ],
+    "explanation": "Si Dr. Reinhold Rost ang dalubhasa sa Malayan languages at librarian na nagrekomenda kay Rizal upang makapanaliksik sa British Museum."
+  },
+  {
+    "id": 9,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Saan nanirahan si Rizal habang nagsasaliksik sa British Museum sa London noong 1888 hanggang 1889?",
+    "answer": "Sa tahanan ng pamilyang Beckett",
+    "aliases": [
+      "Sa tahanan ng pamilyang Beckett",
+      "Pamilyang Beckett",
+      "Beckett",
+      "bahay ng mga Beckett"
+    ],
+    "choices": [
+      "Sa tahanan ng pamilyang Beckett",
+      "Sa hotel de Oriente",
+      "Sa klinika ni Dr. Rost",
+      "Sa tirahan ni Valentin Ventura"
+    ],
+    "explanation": "Nanirahan si Rizal sa tahanan nina Charles at Georgina Beckett sa London kung saan nagkaroon ng lihim na pagtingin sa kanya ang panganay na anak na si Gertrude (Tottie)."
+  },
+  {
+    "id": 10,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ilang buwanang upa ang binabayaran ni Rizal sa tinitirhang boarding house ng pamilyang Beckett sa London?",
+    "answer": "8 British pounds o 45 pounds",
+    "aliases": [
+      "8 British pounds o 45 pounds",
+      "8 pounds",
+      "45 pounds",
+      "8 British pounds",
+      "8 pounds kada buwan"
+    ],
+    "choices": [
+      "8 British pounds o 45 pounds",
+      "20 dolyar",
+      "100 pesetas",
+      "50 francs"
+    ],
+    "explanation": "Ayon sa reviewer ng Pangkat 1, ang upa ni Rizal sa pamilyang Beckett ay 8 British pounds (katumbas ng humigit-kumulang 45 pounds sa kabuuang gastos)."
+  },
+  {
+    "id": 11,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang 18-taong gulang na anak ng may-ari ng bahay sa London na nagkaroon ng damdamin kay Rizal?",
+    "answer": "Gertrude Beckett (Tottie)",
+    "aliases": [
+      "Gertrude Beckett (Tottie)",
+      "Gertrude Beckett",
+      "Tottie",
+      "Gertrude"
+    ],
+    "choices": [
+      "Gertrude Beckett (Tottie)",
+      "Nellie Boustead",
+      "Petite Suzanne Jacoby",
+      "Leonor Rivera"
+    ],
+    "explanation": "Si Gertrude Beckett (tinawag na Tottie), 18 taong gulang noon, ay nahulog kay Rizal na 27 taong gulang; umiwas si Rizal upang di masira ang kanyang misyon para sa bayan."
+  },
+  {
+    "id": 12,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang pangalan ng barkong sinakyan ni Rizal mula New York patungong Liverpool, Inglatera noong 1888?",
+    "answer": "SS City of Rome",
+    "aliases": [
+      "SS City of Rome",
+      "City of Rome",
+      "S.S. City of Rome"
+    ],
+    "choices": [
+      "SS City of Rome",
+      "Melbourne",
+      "Isla de Panay",
+      "Don Juan"
+    ],
+    "explanation": "Sumakay si Rizal sa marangyang barkong SS City of Rome (itinuturing na pangalawa sa pinakamalaking barko noon) mula New York patungong Liverpool."
+  },
+  {
+    "id": 13,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Saan matatagpuan ang tirahan ni Valentin Ventura sa Paris kung saan inayos ni Rizal ang anotasyon ng Sucesos?",
+    "answer": "Blg. 45, Rue Maubeuge",
+    "aliases": [
+      "Blg. 45, Rue Maubeuge",
+      "45 Rue Maubeuge",
+      "Rue Maubeuge",
+      "Blg 45 Rue Maubeuge"
+    ],
+    "choices": [
+      "Blg. 45, Rue Maubeuge",
+      "2 Rednaxela Terrace",
+      "5 D'Aguilar Street",
+      "Silid 22 Hotel de Oriente"
+    ],
+    "explanation": "Pansamantalang nanirahan si Rizal sa tahanan ni Valentin Ventura sa Blg. 45, Rue Maubeuge sa Paris noong tagsibol ng 1889."
+  },
+  {
+    "id": 14,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang inihalal na Pangulo ng Asosasyong Internasyonal ng mga Filipinohista na binuo ni Rizal sa Paris noong Agosto 1889?",
+    "answer": "Dr. Ferdinand Blumentritt",
+    "aliases": [
+      "Dr. Ferdinand Blumentritt",
+      "Ferdinand Blumentritt",
+      "Blumentritt"
+    ],
+    "choices": [
+      "Dr. Ferdinand Blumentritt",
+      "Dr. Jose Rizal",
+      "G. Edmund Plauchut",
+      "Dr. Antonio Ma. Regidor"
+    ],
+    "explanation": "Si Dr. Ferdinand Blumentritt ang inihalal na Pangulo, habang si Dr. Jose Rizal ang naging Kalihim ng samahan."
+  },
+  {
+    "id": 15,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang naging posisyon ni Dr. Jose Rizal sa Asosasyong Internasyonal ng mga Filipinohista?",
+    "answer": "Kalihim (Secretary)",
+    "aliases": [
+      "Kalihim (Secretary)",
+      "Kalihim",
+      "Secretary"
+    ],
+    "choices": [
+      "Kalihim (Secretary)",
+      "Pangulo",
+      "Pangalawang Pangulo",
+      "Ingat-yaman"
+    ],
+    "explanation": "Gumanap si Dr. Jose Rizal bilang Kalihim (Secretary) ng Asosasyong Internasyonal ng mga Filipinohista."
+  },
+  {
+    "id": 16,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Bakit hindi natuloy ang pampasinayang kumperensya ng Asosasyong Internasyonal ng mga Filipinohista sa Paris noong 1889?",
+    "answer": "Dahil ipinagbawal ng pamahalaang Pranses ang mga pribadong kumperensya sa panahon ng Eksposisyong Unibersal",
+    "aliases": [
+      "Dahil ipinagbawal ng pamahalaang Pranses ang mga pribadong kumperensya sa panahon ng Eksposisyong Unibersal",
+      "ipinagbawal ng pamahalaang Pranses",
+      "bawal ang pribadong kumperensya",
+      "kakulangan sa pondo"
+    ],
+    "choices": [
+      "Dahil ipinagbawal ng pamahalaang Pranses ang mga pribadong kumperensya sa panahon ng Eksposisyong Unibersal",
+      "Dahil nagkasakit si Blumentritt",
+      "Dahil nakansela ang Eksposisyon",
+      "Dahil pinagbawalan sila ng embahada ng Espanya"
+    ],
+    "explanation": "Ipinagbawal ng pamahalaang Pranses ang mga pribadong samahan na magdaos ng kumperensya upang maiwasan ang pagsisikip at mga suliraning panseguridad habang idinaraos ang International Exposition ng 1889."
+  },
+  {
+    "id": 17,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Anong akda ni Rizal ang inilathala sa Trübner's Record noong Hulyo 1889 na naghambing sa mga pabula ng Pilipinas at Japan?",
+    "answer": "Two Eastern Fables",
+    "aliases": [
+      "Two Eastern Fables",
+      "Two Eastern Fables (1889)"
+    ],
+    "choices": [
+      "Two Eastern Fables",
+      "Specimens of Tagalog Folklore",
+      "Sobre la Indolencia",
+      "Ma-yi"
+    ],
+    "explanation": "Ang 'Two Eastern Fables' ay naghambing sa pabulang 'Ang Pagong at ang Matsing' sa Pilipinas at ang katumbas nito sa Japan; pinag-aralan ito ni Dr. H. Kern sa International Congress of Orientalists sa Stockholm."
+  },
+  {
+    "id": 18,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang pamagat ng sanaysay ni Rizal noong Enero 15, 1890 bilang tugon sa panlalait ni Gob.-Hen. Weyler na 'mga anak na walang turing' ang mga Pilipino?",
+    "answer": "Ingratitudes (Mga Kawalang Turing)",
+    "aliases": [
+      "Ingratitudes (Mga Kawalang Turing)",
+      "Ingratitudes",
+      "Mga Kawalang Turing"
+    ],
+    "choices": [
+      "Ingratitudes (Mga Kawalang Turing)",
+      "Verdades Nuevas",
+      "Diferencias",
+      "Por Telefono"
+    ],
+    "explanation": "Ang 'Ingratitudes' ay tugon ni Rizal kay Gobernador-Heneral Valeriano Weyler nang tawagin nitong walang utang na loob ang mga taga-Calamba na nagrereklamo sa asyenda."
+  },
+  {
+    "id": 19,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Anong sanaysay ang isinulat ni Rizal sa La Solidaridad noong Hulyo 31, 1889 bilang tugon sa liham ni Vicente Belloc y Sanchez sa pahayagang La Patria?",
+    "answer": "Verdades Nuevas (Mga Bagong Katotohanan)",
+    "aliases": [
+      "Verdades Nuevas (Mga Bagong Katotohanan)",
+      "Verdades Nuevas",
+      "Mga Bagong Katotohanan"
+    ],
+    "choices": [
+      "Verdades Nuevas (Mga Bagong Katotohanan)",
+      "Diferencias",
+      "Ingratitudes",
+      "Sobre la Indolencia"
+    ],
+    "explanation": "Ang 'Verdades Nuevas' ay nagpatunay na may sariling sibilisasyon, sistema ng pagsulat, at kultura ang mga katutubong Pilipino bago pa dumating ang mga Espanyol."
+  },
+  {
+    "id": 20,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sa sanaysay na 'Diferencias', paano iwinasto ni Rizal ang balarila ng Latin ng manunulat ng La Patria?",
+    "answer": "Itinama na ang salitang 'status' ay nasa kaukulang ablativo at hindi 'estatu'",
+    "aliases": [
+      "Itinama na ang salitang 'status' ay nasa kaukulang ablativo at hindi 'estatu'",
+      "ablativo",
+      "ablatibo",
+      "status ay ablativo"
+    ],
+    "choices": [
+      "Itinama na ang salitang 'status' ay nasa kaukulang ablativo at hindi 'estatu'",
+      "Sinabing mali ang baybay ng salitang patria",
+      "Pinalitan ang pandiwang Latin ng Espanyol",
+      "Sinabing walang gramatika ang Latin"
+    ],
+    "explanation": "Ginamit ni Rizal ang kanyang malalim na kaalaman sa Latin upang ipahiya ang Espanyol na kritiko sa pamamagitan ng pagwawasto sa kaukulang pambalarila (ablativo) ng salitang status."
+  },
+  {
+    "id": 21,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang satirikong polyeto na isinulat ni Rizal sa Barcelona noong 1889 sa ilalim ng sagisag-panulat na 'Dimas Alang' laban kay Padre Salvador Font?",
+    "answer": "Por Telefono",
+    "aliases": [
+      "Por Telefono",
+      "Por Teléfono"
+    ],
+    "choices": [
+      "Por Telefono",
+      "Diferencias",
+      "Ingratitudes",
+      "La Vision de Fray Rodriguez"
+    ],
+    "explanation": "Ang 'Por Telefono' ay isang nakatutuwang satira na naglalarawan ng pag-uusap sa telepono sa pagitan ng isang prayle sa Maynila at ng kanyang superior sa Madrid ukol sa panggigipit sa mga Pilipino."
+  },
+  {
+    "id": 22,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Anong makasaysayang piitan sa Oroquieta St., Maynila na itinatag noong 1847 at binuksan noong 1865 ang tinukoy ni Rizal sa kanyang sanaysay?",
+    "answer": "Old Bilibid Prison",
+    "aliases": [
+      "Old Bilibid Prison",
+      "Lumang Bilibid",
+      "Old Bilibid",
+      "Carcel y Presidio Correccional"
+    ],
+    "choices": [
+      "Old Bilibid Prison",
+      "Fort Santiago",
+      "New Bilibid Prison",
+      "Montjuïc"
+    ],
+    "explanation": "Ang tinukoy ni Rizal ay ang Old Bilibid Prison sa Oroquieta St., Maynila (binuksan 1865). Ang New Bilibid sa Muntinlupa ay binuksan lamang noong 1940."
+  },
+  {
+    "id": 23,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang bayaw ni Rizal na ipinatapon sa Bohol nang walang paglilitis dahil sa alitan sa Hacienda de Calamba?",
+    "answer": "Manuel T. Hidalgo",
+    "aliases": [
+      "Manuel T. Hidalgo",
+      "Manuel Hidalgo",
+      "Don Manuel Hidalgo",
+      "Manuel Timoteo Hidalgo"
+    ],
+    "choices": [
+      "Manuel T. Hidalgo",
+      "Silvestre Ubaldo",
+      "Antonio Lopez",
+      "Mariano Herbosa"
+    ],
+    "explanation": "Si Manuel T. Hidalgo (asawa ni Saturnina) ay ipinatapon sa Tagbilaran, Bohol ni Gob.-Hen. Weyler nang walang pormal na paglilitis."
+  },
+  {
+    "id": 24,
+    "group": "group1",
+    "source": "reviewer",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang pangunahing pandaigdigang sanhi ng pagkalugi ng asukal sa Calamba na nagtulak sa mga Dominikano na itaas ang upa sa lupa?",
+    "answer": "Ang pag-usbong ng beet sugar (asukal mula sa labanos/sugar beet) sa Europa",
+    "aliases": [
+      "Ang pag-usbong ng beet sugar (asukal mula sa labanos/sugar beet) sa Europa",
+      "beet sugar",
+      "asukal mula sa beet",
+      "pagbagsak ng presyo ng asukal"
+    ],
+    "choices": [
+      "Ang pag-usbong ng beet sugar (asukal mula sa labanos/sugar beet) sa Europa",
+      "Pananalasa ng balang at bagyo",
+      "Pagharang ng mga piratang Olandes",
+      "Digmaan sa pagitan ng Espanya at Amerika"
+    ],
+    "explanation": "Dahil sa paglaganap ng mas murang beet sugar sa Europa, bumagsak ang presyo ng tubo sa pandaigdigang pamilihan, kaya pilit itinaas ng mga prayle ang upa upang mapanatili ang kanilang kita."
+  },
+  {
+    "id": 25,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Kailan namatay si Antonio de Morga matapos mapatunayang nagkasala ng korapsyon sa kanyang panunungkulan sa Audiencia ng Mexico?",
+    "answer": "1636",
+    "aliases": [
+      "1636",
+      "Taong 1636",
+      "noong 1636"
+    ],
+    "choices": [
+      "1636",
+      "1609",
+      "1615",
+      "1650"
+    ],
+    "explanation": "Namatay si Antonio de Morga noong 1636 sa Mexico matapos ang isang imbestigasyon kung saan napatunayan siyang nagkasala ng korapsyon at katiwalian."
+  },
+  {
+    "id": 26,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ilang bahagi binubuo ang akda ni Rizal na 'Specimens of Tagalog Folklore' na inilathala sa London noong 1889?",
+    "answer": "Tatlong bahagi (kasabihan, palaisipan, at tula)",
+    "aliases": [
+      "Tatlong bahagi (kasabihan, palaisipan, at tula)",
+      "3 bahagi",
+      "tatlong bahagi",
+      "3"
+    ],
+    "choices": [
+      "Tatlong bahagi (kasabihan, palaisipan, at tula)",
+      "Dalawang bahagi",
+      "Apat na bahagi",
+      "Limang bahagi"
+    ],
+    "explanation": "Binubuo ito ng Proverbial Sayings (Kasabihan), Puzzles/Riddles (Palaisipan/Bugtong), at Verses/Poetry (Tula)."
+  },
+  {
+    "id": 27,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang salitang Espanyol na ginamit ni Rizal upang ilarawan ang sadyang pananatili ng mga prayle sa mga katutubo sa kamangmangan upang madali silang mapasunod?",
+    "answer": "Embrutecer",
+    "aliases": [
+      "Embrutecer",
+      "embrutecer",
+      "pagpapapurol ng isip",
+      "stupefy"
+    ],
+    "choices": [
+      "Embrutecer",
+      "Ilustrado",
+      "Ablativo",
+      "Makiyabelismo"
+    ],
+    "explanation": "Ang 'Embrutecer' (o stupefying/brutalizing the minds) ay ang sadyang paghadlang ng mga prayle sa edukasyon upang mapanatili ang mga Pilipino sa kamangmangan."
+  },
+  {
+    "id": 28,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Kailan isinumite ni Rizal at ng mga lider ng Calamba ang opisyal na ulat at reklamo laban sa paniningil ng asyenda ng mga Dominikano?",
+    "answer": "Disyembre 30, 1887",
+    "aliases": [
+      "Disyembre 30, 1887",
+      "Dec 30, 1887",
+      "Disyembre 1887",
+      "30 Disyembre 1887"
+    ],
+    "choices": [
+      "Disyembre 30, 1887",
+      "Enero 15, 1890",
+      "Hulyo 4, 1889",
+      "Oktubre 1887"
+    ],
+    "explanation": "Noong Disyembre 30, 1887, tinapos at nilagdaan ng mga taga-Calamba ang ulat na naglantad sa hindi makatarungang pagtaas ng buwis, kawalan ng resibo, at di-makatwirang pag-aangkin ng lupa."
+  },
+  {
+    "id": 29,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang Pranses na manunulat at heograpo na naging Pangalawang Pangulo ng Asosasyong Internasyonal ng mga Filipinohista?",
+    "answer": "G. Edmund Plauchut",
+    "aliases": [
+      "G. Edmund Plauchut",
+      "Edmund Plauchut",
+      "Plauchut"
+    ],
+    "choices": [
+      "G. Edmund Plauchut",
+      "Ferdinand Blumentritt",
+      "Alexandre Dumas",
+      "Eugene Sue"
+    ],
+    "explanation": "Si Edmund Plauchut, isang kilalang manunulat na Pranses na nakasaksi sa pagbitay sa GOMBURZA noong 1872, ang hinirang na Pangalawang Pangulo."
+  },
+  {
+    "id": 30,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang pangunahing pagkakakilanlan ng El Filibusterismo bilang isang akdang pampanitikan kung ihahambing sa Noli Me Tangere?",
+    "answer": "Nobelang Politikal at Aklat ng Isip (Reseta)",
+    "aliases": [
+      "Nobelang Politikal at Aklat ng Isip (Reseta)",
+      "Nobelang Politikal",
+      "Aklat ng Isip",
+      "reseta",
+      "aklat ng isip"
+    ],
+    "choices": [
+      "Nobelang Politikal at Aklat ng Isip (Reseta)",
+      "Nobelang Romantiko at Aklat ng Puso",
+      "Koleksyon ng mga Tula",
+      "Makasaysayang Talambuhay"
+    ],
+    "explanation": "Ang Noli Me Tangere ay nobelang romantiko at aklat ng puso (diagnosis), samantalang ang El Filibusterismo ay nobelang politikal at aklat ng isip (reseta/lunas)."
+  },
+  {
+    "id": 31,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Kanino buong-pusong inihandog ni Dr. Jose Rizal ang kanyang nobelang El Filibusterismo?",
+    "answer": "Sa tatlong paring martir na GOMBURZA",
+    "aliases": [
+      "Sa tatlong paring martir na GOMBURZA",
+      "Gomburza",
+      "GOMBURZA",
+      "Padre Gomez, Burgos, at Zamora",
+      "tatlong paring martir"
+    ],
+    "choices": [
+      "Sa tatlong paring martir na GOMBURZA",
+      "Kay Leonor Rivera",
+      "Kay Ferdinand Blumentritt",
+      "Sa Inang Bayan"
+    ],
+    "explanation": "Inihandog ni Rizal ang El Filibusterismo sa alaala ng tatlong paring martir: Mariano Gomez, Jose Burgos, at Jacinto Zamora na binitay noong Pebrero 17, 1872."
+  },
+  {
+    "id": 32,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ilang taong gulang si Jose Rizal nang maganap ang malagim na pagbitay sa tatlong paring GOMBURZA noong Pebrero 17, 1872?",
+    "answer": "10 taong gulang",
+    "aliases": [
+      "10 taong gulang",
+      "10",
+      "sampung taong gulang",
+      "sampung taon"
+    ],
+    "choices": [
+      "10 taong gulang",
+      "15 taong gulang",
+      "8 taong gulang",
+      "12 taong gulang"
+    ],
+    "explanation": "Sampung taong gulang pa lamang si Rizal noon sa Calamba; ang kwento ng kanilang kamatayan ay isinalaysay sa kanya ng kanyang kapatid na si Paciano."
+  },
+  {
+    "id": 33,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang pinalitan ni Gobernador-Heneral Valeriano Weyler na nagpadala ng 50 sundalo upang sunugin ang mga bahay sa Calamba?",
+    "answer": "Gobernador-Heneral Emilio Terrero",
+    "aliases": [
+      "Gobernador-Heneral Emilio Terrero",
+      "Emilio Terrero",
+      "Terrero",
+      "Gob-Hen Terrero"
+    ],
+    "choices": [
+      "Gobernador-Heneral Emilio Terrero",
+      "Gobernador-Heneral Ramon Blanco",
+      "Gobernador-Heneral Camilo de Polavieja",
+      "Gobernador-Heneral Eulogio Despujol"
+    ],
+    "explanation": "Si Gobernador-Heneral Emilio Terrero ang nagpasimula ng imbestigasyon sa mga asyenda, ngunit pinalitan siya ng mas malupit at makaprayleng si Valeriano Weyler."
+  },
+  {
+    "id": 34,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sa anong lungsod at petsa ganap na natapos ni Rizal ang buong manuskrito ng El Filibusterismo?",
+    "answer": "Marso 29, 1891 sa Biarritz, Pransiya",
+    "aliases": [
+      "Marso 29, 1891 sa Biarritz, Pransiya",
+      "Marso 29, 1891",
+      "Biarritz",
+      "Biarritz, Pransiya",
+      "Marso 29, 1891 sa Biarritz"
+    ],
+    "choices": [
+      "Marso 29, 1891 sa Biarritz, Pransiya",
+      "Setyembre 18, 1891 sa Ghent",
+      "Hulyo 5, 1891 sa Brussels",
+      "Oktubre 1887 sa Calamba"
+    ],
+    "explanation": "Natapos ni Rizal ang pagsulat ng manuskrito noong Marso 29, 1891 sa Biarritz, Pransiya habang nanunuluyan sa villa ng pamilya Boustead."
+  },
+  {
+    "id": 35,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Bakit lumipat si Rizal mula Brussels patungong Genta (Ghent), Belgium noong Hulyo 5, 1891?",
+    "answer": "Dahil mas mura ang pagpapalimbag doon at upang makaiwas sa panghahalina ni Petite Suzanne",
+    "aliases": [
+      "Dahil mas mura ang pagpapalimbag doon at upang makaiwas sa panghahalina ni Petite Suzanne",
+      "mas mura ang pagpapalimbag at iwas kay Petite Suzanne",
+      "mas murang imprenta",
+      "Petite Suzanne"
+    ],
+    "choices": [
+      "Dahil mas mura ang pagpapalimbag doon at upang makaiwas sa panghahalina ni Petite Suzanne",
+      "Upang makipagkita kay Marcelo H. del Pilar",
+      "Dahil pinalayas siya ng may-ari ng bahay sa Brussels",
+      "Upang mag-aral ng optalmolohiya sa unibersidad"
+    ],
+    "explanation": "Dalawa ang dahilan: mas mababa ang singil ng palimbagan sa Ghent kumpara sa Brussels, at upang maiwasan ang pag-iibigan nila ni Petite Suzanne Jacoby."
+  },
+  {
+    "id": 36,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang kababayang nag-aaral ng inhenyeriya na naging kasama ni Rizal sa kuwarto sa Genta at naghati sa rasyon ng biskwit?",
+    "answer": "Jose Alejandro",
+    "aliases": [
+      "Jose Alejandro",
+      "Alejandro",
+      "G. Jose Alejandro"
+    ],
+    "choices": [
+      "Jose Alejandro",
+      "Edilberto Evangelista",
+      "Valentin Ventura",
+      "Maximo Viola"
+    ],
+    "explanation": "Si Jose Alejandro ang kasama ni Rizal sa kuwarto na nakaubos ng kanyang 30-araw na rasyon ng biskwit sa loob lamang ng tatlong araw dahil sa matinding gutom."
+  },
+  {
+    "id": 37,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Saang pahina tuluyang natigil ang paglilimbag ng El Filibusterismo noong Agosto 6, 1891 dahil sa kakulangan sa pondo?",
+    "answer": "Pahina 112",
+    "aliases": [
+      "Pahina 112",
+      "ika-112 pahina",
+      "112",
+      "pahina 112"
+    ],
+    "choices": [
+      "Pahina 112",
+      "Pahina 50",
+      "Pahina 64",
+      "Pahina 200"
+    ],
+    "explanation": "Natigil ang imprenta sa ika-112 na pahina noong Agosto 6, 1891 dahil naubos ang pera ni Rizal at hindi dumating ang ipinangakong tulong mula sa Pilipinas."
+  },
+  {
+    "id": 38,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang itinuturing na 'Tagapagligtas ng El Filibusterismo' dahil nagpadala siya ng pondo mula Paris upang matapos ang paglilimbag?",
+    "answer": "Valentin Ventura",
+    "aliases": [
+      "Valentin Ventura",
+      "Ventura"
+    ],
+    "choices": [
+      "Valentin Ventura",
+      "Dr. Maximo Viola",
+      "Jose Ma. Basa",
+      "Sixto Lopez"
+    ],
+    "explanation": "Si Valentin Ventura ang nagligtas sa Fili sa pamamagitan ng pagpapadala ng sapat na pondo; inihandog ni Rizal sa kanya ang orihinal na manuskrito."
+  },
+  {
+    "id": 39,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Kailan opisyal na nailabas mula sa imprenta sa Genta ang natapos na nobelang El Filibusterismo?",
+    "answer": "Setyembre 18, 1891",
+    "aliases": [
+      "Setyembre 18, 1891",
+      "Setyembre 18 1891",
+      "18 Setyembre 1891",
+      "Sept 18, 1891"
+    ],
+    "choices": [
+      "Setyembre 18, 1891",
+      "Marso 29, 1891",
+      "Hulyo 5, 1891",
+      "Oktubre 2, 1891"
+    ],
+    "explanation": "Nailabas sa imprenta ng F. Meyer-Van Loo Press sa Ghent ang El Filibusterismo noong Setyembre 18, 1891."
+  },
+  {
+    "id": 40,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ilang kabanata ang bumubuo sa huling inilathalang bersyon ng El Filibusterismo matapos magkaltas si Rizal dahil sa kakulangan sa pondo?",
+    "answer": "39 na kabanata",
+    "aliases": [
+      "39 na kabanata",
+      "39",
+      "tatlumpu't siyam",
+      "tatlumpu't siyam na kabanata"
+    ],
+    "choices": [
+      "39 na kabanata",
+      "64 na kabanata",
+      "44 na kabanata",
+      "50 kabanata"
+    ],
+    "explanation": "Binawasan ni Rizal ang orihinal na balak na 44 na kabanata tungo sa 39 na kabanata sa pinal na limbag upang makatipid sa gastos sa papel at imprenta."
+  },
+  {
+    "id": 41,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang matalik na kaibigan ni Rizal na pumuri sa estilo ng Fili ngunit pumuna sa napakadilim at nakapanghihinang wakas nito?",
+    "answer": "Graciano Lopez Jaena",
+    "aliases": [
+      "Graciano Lopez Jaena",
+      "Lopez Jaena",
+      "Graciano Lopez-Jaena"
+    ],
+    "choices": [
+      "Graciano Lopez Jaena",
+      "Marcelo H. del Pilar",
+      "Mariano Ponce",
+      "Ferdinand Blumentritt"
+    ],
+    "explanation": "Sa liham noong Oktubre 2, 1891, sinabi ni Lopez Jaena na parang Eugene Sue ang madilim na wakas ng nobela at mas nais sana niyang binigyan si Simoun ng bayaning kamatayan tulad nina Porthos o Bernardo del Carpio."
+  },
+  {
+    "id": 42,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Magkano ang inabot na presyo ng bawat natitirang sipi ng El Filibusterismo matapos kumpiskahin ng mga awtoridad ang mga kahon patungong Hong Kong?",
+    "answer": "400 pesetas",
+    "aliases": [
+      "400 pesetas",
+      "400",
+      "400 peseta"
+    ],
+    "choices": [
+      "400 pesetas",
+      "100 pesetas",
+      "50 piso",
+      "1,000 pesetas"
+    ],
+    "explanation": "Dahil sa malawakang pagkumpiska sa mga kahon ng aklat, naging napakabihira ng nobela at umabot sa 400 pesetas ang halaga ng bawat sipi sa merkado."
+  },
+  {
+    "id": 43,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang pangalan ng bapor na naglalayag sa Ilog Pasig patungong Laguna na naging tagpuan sa unang kabanata ng El Filibusterismo?",
+    "answer": "Bapor Tabo",
+    "aliases": [
+      "Bapor Tabo",
+      "Tabo"
+    ],
+    "choices": [
+      "Bapor Tabo",
+      "Bapor Cebu",
+      "Don Juan",
+      "Isla de Panay"
+    ],
+    "explanation": "Ang Bapor Tabo ay sumasagisag sa pamahalaang kolonyal—mabagal, marumi, mapagpanggap, at nahahati sa dalawang antas ng lipunan (itaas at ilalim ng kubyerta)."
+  },
+  {
+    "id": 44,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang dalawang bansag kay Simoun na naglalarawan sa kanyang lihim na impluwensya at kapangyarihan sa likod ng Kapitan Heneral?",
+    "answer": "Eminencia Negra at Kardenal Moreno",
+    "aliases": [
+      "Eminencia Negra at Kardenal Moreno",
+      "Eminencia Negra",
+      "Kardenal Moreno",
+      "Eminencia Negro"
+    ],
+    "choices": [
+      "Eminencia Negra at Kardenal Moreno",
+      "El Filibustero at Subersibo",
+      "Ang Dakilang Mag-aalahas",
+      "Tagapayo at Piskal"
+    ],
+    "explanation": "Binansagan si Simoun na 'Eminencia Negra' (Black Eminence) at 'Kardenal Moreno' (Brown Cardinal) dahil siya ang nagdidikta sa mga desisyon ng Malacañang."
+  },
+  {
+    "id": 45,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang dalagang anak ni Kabesang Tales na mas piniling tumalon sa bintana ng kumbento kaysa magpahasa kay Padre Camorra?",
+    "answer": "Huli",
+    "aliases": [
+      "Huli",
+      "Juliana",
+      "Huliana"
+    ],
+    "choices": [
+      "Huli",
+      "Paulita Gomez",
+      "Maria Clara",
+      "Sinang"
+    ],
+    "explanation": "Si Huli ang kasintahan ni Basilio na nagpatiwakal sa kumbento upang protektahan ang kanyang puri laban sa panggigipit ni Padre Camorra."
+  },
+  {
+    "id": 46,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang nakamamatay na sangkap sa loob ng magarang lamparang iniregalo ni Simoun sa kasal nina Juanito Pelaez at Paulita Gomez?",
+    "answer": "Nitrogliserina (Nitroglycerine)",
+    "aliases": [
+      "Nitrogliserina (Nitroglycerine)",
+      "Nitrogliserina",
+      "nitroglycerin",
+      "nitro-gliserina"
+    ],
+    "choices": [
+      "Nitrogliserina (Nitroglycerine)",
+      "Pulbura",
+      "Dinamita",
+      "Lason"
+    ],
+    "explanation": "Pinalamanan ni Simoun ng nitrogliserina ang lampara upang sumabog kapag itinaas ang mitsa nito sa oras na humina ang liwanag habang nagtitipon ang mga pinuno ng pamahalaan at simbahan."
+  },
+  {
+    "id": 47,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang pumasok sa bahay at kumuha ng lampara upang itapon ito sa ilog upang iligtas ang minamahal niyang si Paulita Gomez?",
+    "answer": "Isagani",
+    "aliases": [
+      "Isagani"
+    ],
+    "choices": [
+      "Isagani",
+      "Basilio",
+      "Kabesang Tales",
+      "Placido Penitente"
+    ],
+    "explanation": "Nang marinig ni Isagani ang babala ni Basilio, nanaig ang kanyang pag-ibig kay Paulita Gomez kaya inagaw niya ang lampara at inihagis sa ilog, dahilan upang mabigo ang pagsabog."
+  },
+  {
+    "id": 48,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Kaninong tahanan nagtago at uminom ng lason si Simoun upang hindi maabutan nang buhay ng mga Guardia Civil?",
+    "answer": "Padre Florentino",
+    "aliases": [
+      "Padre Florentino",
+      "bahay ni Padre Florentino"
+    ],
+    "choices": [
+      "Padre Florentino",
+      "Padre Salvi",
+      "Kapitan Tiago",
+      "Kabesang Tales"
+    ],
+    "explanation": "Nagtungo si Simoun sa tahanan ng katutubong paring si Padre Florentino malapit sa dagat kung saan siya nagtapat bago binawian ng buhay."
+  },
+  {
+    "id": 49,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang ginawa ni Padre Florentino sa baul ng kayamanan ni Simoun matapos itong pumanaw?",
+    "answer": "Itinapon ito sa kailaliman ng dagat",
+    "aliases": [
+      "Itinapon ito sa kailaliman ng dagat",
+      "itinapon sa dagat",
+      "inihagis sa dagat",
+      "itinapon sa karagatan"
+    ],
+    "choices": [
+      "Itinapon ito sa kailaliman ng dagat",
+      "Ibinigay sa simbahan",
+      "Ipinamahagi sa mga mahihirap",
+      "Ibinayad sa utang ng pamahalaan"
+    ],
+    "explanation": "Itinapon ni Padre Florentino ang kayamanan sa karagatan upang hindi na ito magamit sa kasamaan at kasakiman, at nanalangin na itago ito ng kalikasan hanggang maging karapat-dapat ang bayan."
+  },
+  {
+    "id": 50,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Kailan nilisan ni Rizal ang Europa mula Marseilles sakay ng barkong Melbourne patungong Hong Kong?",
+    "answer": "Oktubre 18, 1891",
+    "aliases": [
+      "Oktubre 18, 1891",
+      "18 Oktubre 1891",
+      "Oct 18, 1891"
+    ],
+    "choices": [
+      "Oktubre 18, 1891",
+      "Nobyembre 20, 1891",
+      "Setyembre 18, 1891",
+      "Disyembre 1, 1891"
+    ],
+    "explanation": "Nilisan ni Rizal ang Europa noong Oktubre 18, 1891 upang maiwasan ang hidwaan sa Madrid at makasama ang kanyang pamilya sa Hong Kong."
+  },
+  {
+    "id": 51,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ilang sipi ng bagong limbang na El Filibusterismo ang dinala ni Rizal lulan ng barkong Melbourne?",
+    "answer": "600 sipi",
+    "aliases": [
+      "600 sipi",
+      "600",
+      "animnaraang sipi",
+      "600 kopya"
+    ],
+    "choices": [
+      "600 sipi",
+      "100 sipi",
+      "1,000 sipi",
+      "300 sipi"
+    ],
+    "explanation": "Bitbit ni Rizal ang 600 sipi ng nobela upang maipamahagi at maipuslit sa Pilipinas mula sa Hong Kong."
+  },
+  {
+    "id": 52,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang misyonerong Tyrolese na naging kalaro ni Rizal sa ahedres (chess) habang lulan ng Melbourne na inilarawan niyang 'isang Padre Damaso na walang pagyayabang'?",
+    "answer": "Padre Fuchs",
+    "aliases": [
+      "Padre Fuchs",
+      "Fuchs"
+    ],
+    "choices": [
+      "Padre Fuchs",
+      "Padre Faura",
+      "Padre Pastells",
+      "Padre Sanchez"
+    ],
+    "explanation": "Si Padre Fuchs ay isang misyonerong patungong Tsina na naging kaibigan at kalaro ni Rizal sa ahedres habang naglalakbay."
+  },
+  {
+    "id": 53,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Saan matatagpuan ang klinika ni Dr. Jose Rizal sa Hong Kong?",
+    "answer": "Blg. 5 Kalye D'Aguilar",
+    "aliases": [
+      "Blg. 5 Kalye D'Aguilar",
+      "5 D'Aguilar Street",
+      "No. 5 D'Aguilar Street",
+      "D'Aguilar Street"
+    ],
+    "choices": [
+      "Blg. 5 Kalye D'Aguilar",
+      "2 Rednaxela Terrace",
+      "Silid 22 Hotel de Oriente",
+      "Rue Maubeuge"
+    ],
+    "explanation": "Ang klinika ni Rizal ay nasa No. 5 D'Aguilar Street, habang ang tirahan ng kanyang pamilya ay nasa No. 2 Rednaxela Terrace."
+  },
+  {
+    "id": 54,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Bakit inaresto at sapilitang pinalakad ng mga Guardia Civil si Doña Teodora Alonso mula Calamba hanggang Santa Cruz, Laguna?",
+    "answer": "Dahil sa hindi umano paggamit ng kanyang opisyal na apelyidong 'Realonda'",
+    "aliases": [
+      "Dahil sa hindi umano paggamit ng kanyang opisyal na apelyidong 'Realonda'",
+      "apelyidong Realonda",
+      "hindi paggamit ng Realonda",
+      "Realonda"
+    ],
+    "choices": [
+      "Dahil sa hindi umano paggamit ng kanyang opisyal na apelyidong 'Realonda'",
+      "Dahil sa pagtatago ng kopya ng Noli",
+      "Dahil sa hindi pagbabayad ng buwis sa lupa",
+      "Dahil sa lihim na pagsulat kay Rizal"
+    ],
+    "explanation": "Inusig ang 65-taong gulang at halos bulag nang si Doña Teodora sa mababaw na paratang na hindi niya ginamit ang apelyidong 'Realonda' alinsunod sa Claveria decree."
+  },
+  {
+    "id": 55,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang Portuges na manggagamot sa Hong Kong na naging kaibigan ni Rizal at nagrekomenda sa kanya ng maraming pasyente sa mata?",
+    "answer": "Dr. Lorenzo Pereira Marques",
+    "aliases": [
+      "Dr. Lorenzo Pereira Marques",
+      "Dr. Marques",
+      "Lorenzo Marques",
+      "Dr. Lorenzo P. Marques"
+    ],
+    "choices": [
+      "Dr. Lorenzo Pereira Marques",
+      "Dr. Ariston Bautista Lin",
+      "Dr. Reinhold Rost",
+      "Dr. Louis de Wecker"
+    ],
+    "explanation": "Si Dr. Lorenzo Pereira Marques ay humanga sa kakayahan ni Rizal bilang siruhano sa mata kaya ipinasa niya rito ang kanyang mga pasyenteng may suliranin sa paningin."
+  },
+  {
+    "id": 56,
+    "group": "group2",
+    "source": "reviewer",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Anong bahagi ng mata ng kanyang ina ang matagumpay na inoperahan ni Dr. Jose Rizal sa Hong Kong na nagbalik ng paningin nito?",
+    "answer": "Katarata sa kaliwang mata",
+    "aliases": [
+      "Katarata sa kaliwang mata",
+      "katarata",
+      "kaliwang mata",
+      "katarata sa mata"
+    ],
+    "choices": [
+      "Katarata sa kaliwang mata",
+      "Katarata sa kanang mata",
+      "Glaucoma",
+      "Retina"
+    ],
+    "explanation": "Matagumpay na inoperahan ni Rizal ang katarata sa kaliwang mata ng kanyang ina sa Hong Kong, dahilan upang muli itong makabasa at makasulat."
+  },
+  {
+    "id": 57,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang buong pangalan ng Kastilang gobernador-heneral na humalili kay Terrero at tinawag ding 'Butcher' dahil sa kanyang kalupitan sa Calamba at Cuba?",
+    "answer": "Valeriano Weyler y Nicolau",
+    "aliases": [
+      "Valeriano Weyler y Nicolau",
+      "Valeriano Weyler",
+      "Weyler"
+    ],
+    "choices": [
+      "Valeriano Weyler y Nicolau",
+      "Emilio Terrero y Perinat",
+      "Camilo de Polavieja",
+      "Eulogio Despujol"
+    ],
+    "explanation": "Si Valeriano Weyler y Nicolau ang nag-utos na sunugin ang kabahayan ng mga magsasaka sa Calamba at ipatapon ang pamilya ni Rizal."
+  },
+  {
+    "id": 58,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Anong pahayagan sa Madrid ang naglathala nang serye sa El Filibusterismo noong Oktubre 1891?",
+    "answer": "El Nuevo Regimen",
+    "aliases": [
+      "El Nuevo Regimen",
+      "El Nuevo Régimen"
+    ],
+    "choices": [
+      "El Nuevo Regimen",
+      "La Publicidad",
+      "La Solidaridad",
+      "La Patria"
+    ],
+    "explanation": "Isinerye ng pahayagang El Nuevo Regimen sa Madrid ang nobela noong Oktubre 1891 upang ipakilala ang akda sa mga mambabasa sa Espanya."
+  },
+  {
+    "id": 59,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang kaibigang nagpadala kay Rizal sa Hong Kong ng mga aklat medikal tulad ng 'Diagnostic Pathology' at 'Traite Diagnostique'?",
+    "answer": "Dr. Ariston Bautista Lin",
+    "aliases": [
+      "Dr. Ariston Bautista Lin",
+      "Ariston Bautista Lin",
+      "Dr. Ariston Bautista"
+    ],
+    "choices": [
+      "Dr. Ariston Bautista Lin",
+      "Don Antonio Vergel de Dios",
+      "Jose Ma. Basa",
+      "Dr. Lorenzo Marques"
+    ],
+    "explanation": "Si Dr. Ariston Bautista Lin mula Paris ang nagpadala kay Rizal ng mahahalagang aklat medikal upang magamit niya sa kanyang klinika sa Hong Kong."
+  },
+  {
+    "id": 60,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Kailan dumating si Dr. Jose Rizal sa Maynila kasama ang kanyang kapatid na si Lucia sakay ng bapor Don Juan?",
+    "answer": "Hunyo 26, 1892 (12:00 ng tanghali)",
+    "aliases": [
+      "Hunyo 26, 1892 (12:00 ng tanghali)",
+      "Hunyo 26, 1892",
+      "Hunyo 26 1892",
+      "26 Hunyo 1892"
+    ],
+    "choices": [
+      "Hunyo 26, 1892 (12:00 ng tanghali)",
+      "Hulyo 3, 1892",
+      "Hulyo 7, 1892",
+      "Hulyo 17, 1892"
+    ],
+    "explanation": "Dumating si Rizal sa Maynila noong Linggo, Hunyo 26, 1892 ganap na alas-12 ng tanghali sakay ng bapor Don Juan mula Hong Kong."
+  },
+  {
+    "id": 61,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Saang hotel at anong silid nanuluyan si Rizal pagdating sa Maynila noong Hunyo 26, 1892?",
+    "answer": "Hotel de Oriente, Silid 22",
+    "aliases": [
+      "Hotel de Oriente, Silid 22",
+      "Hotel de Oriente",
+      "Silid 22",
+      "Room 22 Hotel de Oriente"
+    ],
+    "choices": [
+      "Hotel de Oriente, Silid 22",
+      "Hotel de Paris, Silid 10",
+      "Casa Real, Silid 5",
+      "Fonda de Lala, Silid 12"
+    ],
+    "explanation": "Nanuluyan si Rizal sa marangyang Hotel de Oriente sa Plaza Calderon de la Barca sa Binondo, sa Silid Blg. 22 na nakaharap sa simbahan."
+  },
+  {
+    "id": 62,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Kailan at saan opisyal na itinatag ni Dr. Jose Rizal ang La Liga Filipina?",
+    "answer": "Hulyo 3, 1892 sa tahanan ni Doroteo Ongjunco sa Kalye Ylaya, Tondo",
+    "aliases": [
+      "Hulyo 3, 1892 sa tahanan ni Doroteo Ongjunco sa Kalye Ylaya, Tondo",
+      "Hulyo 3, 1892",
+      "bahay ni Doroteo Ongjunco",
+      "Kalye Ylaya, Tondo",
+      "Tondo, Maynila"
+    ],
+    "choices": [
+      "Hulyo 3, 1892 sa tahanan ni Doroteo Ongjunco sa Kalye Ylaya, Tondo",
+      "Hunyo 26, 1892 sa Hotel de Oriente",
+      "Hulyo 7, 1892 sa Kuta ng Santiago",
+      "Agosto 23, 1896 sa Balintawak"
+    ],
+    "explanation": "Itinatag ang La Liga Filipina noong gabi ng Linggo, Hulyo 3, 1892 sa bahay ni Doroteo Ongjunco sa Kalye Ylaya, Tondo, Maynila."
+  },
+  {
+    "id": 63,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang opisyal na sagisag o motto ng La Liga Filipina na nangangahulugang 'Bawat isa ay katulad ng lahat'?",
+    "answer": "Unus instar omnium",
+    "aliases": [
+      "Unus instar omnium",
+      "Unus Instar Omnium"
+    ],
+    "choices": [
+      "Unus instar omnium",
+      "Consummatum est",
+      "Amor Patrio",
+      "Per aspera ad astra"
+    ],
+    "explanation": "Ang 'Unus instar omnium' ay salitang Latin na nangangahulugang 'Bawat isa'y katulad ng lahat' (One like all / One for all)."
+  },
+  {
+    "id": 64,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Magkano ang buwanang butaw (membership fee) na binabayaran ng bawat kasapi ng La Liga Filipina?",
+    "answer": "10 sentimos bawat buwan",
+    "aliases": [
+      "10 sentimos bawat buwan",
+      "10 sentimos",
+      "sampung sentimos",
+      "10 centavos"
+    ],
+    "choices": [
+      "10 sentimos bawat buwan",
+      "1 piso bawat buwan",
+      "50 sentimos",
+      "5 sentimos bawat linggo"
+    ],
+    "explanation": "Ang butaw na 10 sentimos bawat buwan ay inilalaan para sa tulong sa mahihirap na kasapi, pautang sa negosyo/agrikultura, at pagtatayo ng mga murang tindahan."
+  },
+  {
+    "id": 65,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang inihalal na unang Pangulo ng La Liga Filipina noong Hulyo 3, 1892?",
+    "answer": "Ambrosio Salvador",
+    "aliases": [
+      "Ambrosio Salvador"
+    ],
+    "choices": [
+      "Ambrosio Salvador",
+      "Deodato Arellano",
+      "Bonifacio Arevalo",
+      "Agustin dela Rosa"
+    ],
+    "explanation": "Si Ambrosio Salvador ang nahalal na Pangulo, si Deodato Arellano bilang Kalihim, si Bonifacio Arevalo bilang Ingat-yaman, at si Agustin dela Rosa bilang Piskal."
+  },
+  {
+    "id": 66,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang mapanuyang polyeto laban sa mga prayleng Dominiko na diumano'y natagpuan sa punda ng unan ni Lucia na naging dahilan ng pagdakip kay Rizal?",
+    "answer": "Pobres Frailes (Mga Kawawang Prayle)",
+    "aliases": [
+      "Pobres Frailes (Mga Kawawang Prayle)",
+      "Pobres Frailes",
+      "Mga Kawawang Prayle"
+    ],
+    "choices": [
+      "Pobres Frailes (Mga Kawawang Prayle)",
+      "Por Telefono",
+      "La Vision de Fray Rodriguez",
+      "Cuestiones de Sumo Interes"
+    ],
+    "explanation": "Ang 'Pobres Frailes' ay isinulat sa ilalim ng sagisag na 'Padre Jacinto' na tumuligsa sa labis na kayamanan ng mga Dominikano sa kabila ng kanilang panata ng kahirapan."
+  },
+  {
+    "id": 67,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang pamagat ng hindi natapos na ikatlong nobela ni Rizal na nasusulat sa Tagalog at naglalarawan sa bayan ng Tulig matapos ang misa ni Padre Agaton?",
+    "answer": "Makamisa",
+    "aliases": [
+      "Makamisa"
+    ],
+    "choices": [
+      "Makamisa",
+      "Tagalog Nobela",
+      "Pobres Frailes",
+      "Satirang Bayan"
+    ],
+    "explanation": "Ang Makamisa ay may dalawang kabanata (~20 pahina) na isinulat sa Tagalog noong 1891-1892 sa Hong Kong at sa barkong Melbourne."
+  },
+  {
+    "id": 68,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ilang taon nanirahan si Dr. Jose Rizal bilang tapon sa Dapitan mula Hulyo 17, 1892 hanggang Hulyo 31, 1896?",
+    "answer": "Apat (4) na taon",
+    "aliases": [
+      "Apat (4) na taon",
+      "4 na taon",
+      "4 taon",
+      "apat na taon",
+      "4"
+    ],
+    "choices": [
+      "Apat (4) na taon",
+      "Dalawang (2) taon",
+      "Limang (5) taon",
+      "Isang (1) taon"
+    ],
+    "explanation": "Nanirahan si Rizal sa Dapitan nang eksaktong apat na taon at labing-apat na araw bago pinayagang magtungo sa Cuba bilang doktor-militar."
+  },
+  {
+    "id": 69,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang numero ng tiket sa Loterya ng Maynila na nagpanalo kina Rizal, Kapitan Carnicero, at Francisco Equilor ng P20,000 noong Setyembre 1892?",
+    "answer": "Tiket Blg. 9736",
+    "aliases": [
+      "Tiket Blg. 9736",
+      "9736",
+      "Tiket 9736"
+    ],
+    "choices": [
+      "Tiket Blg. 9736",
+      "Tiket Blg. 1892",
+      "Tiket Blg. 1896",
+      "Tiket Blg. 10173"
+    ],
+    "explanation": "Nanalo ang tiket blg. 9736 ng pangalawang gantimpala (P20,000); ang parte ni Rizal ay P6,200 kung saan P4,000 ang ibinigay sa ina at ang iba'y ibinili ng lupa sa Talisay."
+  },
+  {
+    "id": 70,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano-ano ang tatlong siyentipikong uri ng hayop na natuklasan ni Rizal sa Dapitan na ipinangalan sa kanyang karangalan?",
+    "answer": "Draco rizali, Rhacophorus rizali, at Apogonia rizali",
+    "aliases": [
+      "Draco rizali, Rhacophorus rizali, at Apogonia rizali",
+      "Draco rizali",
+      "Rhacophorus rizali",
+      "Apogonia rizali"
+    ],
+    "choices": [
+      "Draco rizali, Rhacophorus rizali, at Apogonia rizali",
+      "Bufo rizali, Rana rizali, Felis rizali",
+      "Nami rizali, Draco volans, Apis rizali",
+      "Aves rizali, Canis rizali, Equus rizali"
+    ],
+    "explanation": "Draco rizali (lumilipad na butiki), Rhacophorus rizali (palaka), at Apogonia rizali (maliit na salagubang/uwang)."
+  },
+  {
+    "id": 71,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang pamagat ng mahabang tula na may 24 na saknong at 120 taludtod na isinulat ni Rizal sa batong hugis-puso sa Talisay sa kahilingan ng kanyang ina?",
+    "answer": "Mi Retiro (Ang Aking Pahingahan)",
+    "aliases": [
+      "Mi Retiro (Ang Aking Pahingahan)",
+      "Mi Retiro",
+      "Ang Aking Pahingahan"
+    ],
+    "choices": [
+      "Mi Retiro (Ang Aking Pahingahan)",
+      "Himno a Talisay",
+      "El Canto del Viajero",
+      "Mi Ultimo Adios"
+    ],
+    "explanation": "Ang 'Mi Retiro' ay isinulat ni Rizal sa batong hugis-puso sa Talisay at ipinadala sa kanyang ina noong Oktubre 22, 1895."
+  },
+  {
+    "id": 72,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang 18-taong gulang na dalagang Irlandes na dumating sa Dapitan noong Pebrero 1895 kasama ang kanyang bulag na ampon-amang si George Taufer?",
+    "answer": "Josephine Bracken",
+    "aliases": [
+      "Josephine Bracken",
+      "Josefina Bracken",
+      "Josephine"
+    ],
+    "choices": [
+      "Josephine Bracken",
+      "Gertrude Beckett",
+      "Nellie Boustead",
+      "Suzanne Jacoby"
+    ],
+    "explanation": "Dumating si Josephine Bracken sa Dapitan upang ipagamot ang mata ni George Taufer; nagkaibigan sila ni Rizal at nagsama sa Talisay."
+  },
+  {
+    "id": 73,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang ipinangalan ni Rizal sa kanyang naging anak kay Josephine Bracken na nabuhay lamang nang humigit-kumulang tatlong oras?",
+    "answer": "Francisco",
+    "aliases": [
+      "Francisco"
+    ],
+    "choices": [
+      "Francisco",
+      "Jose",
+      "Paciano",
+      "Juan"
+    ],
+    "explanation": "Isinilang nang kulang sa buwan ang sanggol noong Marso 12, 1896 at pinangalanang Francisco bilang parangal sa ama ni Rizal."
+  },
+  {
+    "id": 74,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang kinatawan ng Katipunan na lihim na nagtungo sa Dapitan noong Hunyo 21, 1896 upang alukin si Rizal na mamuno o itakas ng rebolusyon?",
+    "answer": "Dr. Pio Valenzuela",
+    "aliases": [
+      "Dr. Pio Valenzuela",
+      "Pio Valenzuela"
+    ],
+    "choices": [
+      "Dr. Pio Valenzuela",
+      "Andres Bonifacio",
+      "Emilio Jacinto",
+      "Deodato Arellano"
+    ],
+    "explanation": "Naglayag si Dr. Pio Valenzuela sakay ng bapor Venus kasama ang bulag na si Raymundo Mata; tinanggihan ni Rizal ang balak dahil sa kakulangan sa armas at pondo."
+  },
+  {
+    "id": 75,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ilang araw nanatili si Rizal sa kruserang pandigma na Castilla sa Cañacao, Cavite habang naghihintay ng barko patungong Espanya?",
+    "answer": "27 araw",
+    "aliases": [
+      "27 araw",
+      "dalawampu't pitong araw",
+      "27"
+    ],
+    "choices": [
+      "27 araw",
+      "10 araw",
+      "30 araw",
+      "9 na araw"
+    ],
+    "explanation": "Nanatili si Rizal sa Castilla mula Agosto 6 hanggang Setyembre 2, 1896 (27 araw) bilang panauhin ni Kapitan Enrique Santalo."
+  },
+  {
+    "id": 76,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Bakit tumanggi si Rizal na magpaiwan sa Singapore noong Setyembre 8, 1896 nang hikayatin siya nina Don Manuel Camus na maghain ng habeas corpus?",
+    "answer": "Dahil sa kanyang palabra de honor kay Gobernador-Heneral Ramon Blanco",
+    "aliases": [
+      "Dahil sa kanyang palabra de honor kay Gobernador-Heneral Ramon Blanco",
+      "palabra de honor",
+      "may palabra de honor",
+      "tiwala kay Blanco"
+    ],
+    "choices": [
+      "Dahil sa kanyang palabra de honor kay Gobernador-Heneral Ramon Blanco",
+      "Dahil natatakot siya sa mga pulis sa Singapore",
+      "Dahil wala siyang pera pambayad sa abogado",
+      "Dahil nais niyang makulong sa Barcelona"
+    ],
+    "explanation": "Tumanggi si Rizal dahil sa kanyang prinsipyo at 'palabra de honor' (salita ng karangalan) kay Blanco na tutungo siya sa Cuba bilang doktor."
+  },
+  {
+    "id": 77,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Saang makasaysayang muog at tanggulan sa Barcelona pansamantalang ikinulong si Rizal noong Oktubre 6, 1896 bago ibinalik sa Pilipinas?",
+    "answer": "Muog ng Montjuïc (Castillo de Montjuïc)",
+    "aliases": [
+      "Muog ng Montjuïc (Castillo de Montjuïc)",
+      "Muog ng Montjuïc",
+      "Montjuïc",
+      "Montjuic",
+      "Castillo de Montjuïc"
+    ],
+    "choices": [
+      "Muog ng Montjuïc (Castillo de Montjuïc)",
+      "Fort Santiago",
+      "Cuartel de España",
+      "Bilibid"
+    ],
+    "explanation": "Ikinulong si Rizal sa Castillo de Montjuïc sa Barcelona bago iharap kay Despujol at isakay sa barkong S.S. Colón pabalik ng Maynila."
+  },
+  {
+    "id": 78,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang opisyal ng hukbong sandatahan na pinili ni Rizal mula sa listahan ng 106 na opisyal upang maging kanyang tagapagtanggol sa paglilitis?",
+    "answer": "Teniente Luis Taviel de Andrade",
+    "aliases": [
+      "Teniente Luis Taviel de Andrade",
+      "Luis Taviel de Andrade",
+      "Taviel de Andrade",
+      "Tin. Luis Taviel de Andrade"
+    ],
+    "choices": [
+      "Teniente Luis Taviel de Andrade",
+      "Jose Taviel de Andrade",
+      "Rafael Dominguez",
+      "Francisco Olive"
+    ],
+    "explanation": "Pinili ni Rizal si Teniente Luis Taviel de Andrade ng 1st Regiment of Artillery, na kapatid ng kanyang dating tagapagbantay na si Jose Taviel de Andrade."
+  },
+  {
+    "id": 79,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang tatlong partikular na krimen na isinakdal laban kay Jose Rizal sa kanyang paglilitis?",
+    "answer": "Rebelyon, Sedisyon, at Pagtatatag ng Ilegal na Samahan",
+    "aliases": [
+      "Rebelyon, Sedisyon, at Pagtatatag ng Ilegal na Samahan",
+      "Rebelyon, Sedisyon, Ilegal na Samahan",
+      "Rebelyon at Sedisyon"
+    ],
+    "choices": [
+      "Rebelyon, Sedisyon, at Pagtatatag ng Ilegal na Samahan",
+      "Pagnanakaw, Pagtakas, at Pamemeke",
+      "Taksil sa Simbahan at Eresya lamang",
+      "Pagpatay, Pagsunog, at Rebelyon"
+    ],
+    "explanation": "Pormal siyang isinakdal sa salang kumplikadong rebelyon, sedisyon, at pagtatatag ng mga ilegal na kapisanan (La Liga Filipina)."
+  },
+  {
+    "id": 80,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang malupit na Gobernador-Heneral na pabor sa mga prayle na pumalit kay Blanco noong Disyembre 13, 1896 at lumagda sa hatol na kamatayan ni Rizal?",
+    "answer": "Gobernador-Heneral Camilo de Polavieja",
+    "aliases": [
+      "Gobernador-Heneral Camilo de Polavieja",
+      "Camilo de Polavieja",
+      "Polavieja"
+    ],
+    "choices": [
+      "Gobernador-Heneral Camilo de Polavieja",
+      "Eulogio Despujol",
+      "Ramon Blanco",
+      "Valeriano Weyler"
+    ],
+    "explanation": "Nilagdaan ni Gobernador-Heneral Camilo de Polavieja ang hatol na kamatayan noong Disyembre 28, 1896 na nag-uutos na barilin si Rizal sa Bagumbayan."
+  },
+  {
+    "id": 81,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Saan itinago ni Rizal ang kanyang huling tula (Mi Ultimo Adios) bago ito ibinigay sa kapatid niyang si Trinidad?",
+    "answer": "Sa loob ng isang kusinilyang de-alkohol (alcohol cooking stove)",
+    "aliases": [
+      "Sa loob ng isang kusinilyang de-alkohol (alcohol cooking stove)",
+      "kusinilyang de-alkohol",
+      "kusinilya",
+      "alcohol stove",
+      "kusinilya de alcohol"
+    ],
+    "choices": [
+      "Sa loob ng isang kusinilyang de-alkohol (alcohol cooking stove)",
+      "Sa ilalim ng kanyang kama",
+      "Sa loob ng kanyang sapatos",
+      "Nakatago sa punda ng unan"
+    ],
+    "explanation": "Itinago ni Rizal ang tula sa loob ng munting kusinilyang de-alkohol na regalo sa kanya ng pamilyang Pardo de Tavera."
+  },
+  {
+    "id": 82,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ilang saknong at taludtod ang bumubuo sa orihinal na tulang Mi Ultimo Adios ni Rizal?",
+    "answer": "14 na saknong at 70 taludtod (5 taludtod bawat saknong)",
+    "aliases": [
+      "14 na saknong at 70 taludtod (5 taludtod bawat saknong)",
+      "14 na saknong",
+      "70 taludtod",
+      "14 saknong"
+    ],
+    "choices": [
+      "14 na saknong at 70 taludtod (5 taludtod bawat saknong)",
+      "24 na saknong at 120 taludtod",
+      "10 saknong at 50 taludtod",
+      "12 saknong at 60 taludtod"
+    ],
+    "explanation": "Ang Mi Ultimo Adios ay may 14 na saknong, at ang bawat saknong ay may 5 taludtod (kabuuang 70 taludtod), nasusulat sa marikit na wikang Kastila nang walang pamagat."
+  },
+  {
+    "id": 83,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang paring Heswita na nagbabala kay Rizal noong estudyante pa ito na mapupugutan siya ng ulo dahil sa Noli, na binalikan ni Rizal sa pagsasabing 'Nagdilang-anghel kayo, Padre'?",
+    "answer": "Padre Federico Faura",
+    "aliases": [
+      "Padre Federico Faura",
+      "Padre Faura",
+      "Faura"
+    ],
+    "choices": [
+      "Padre Federico Faura",
+      "Padre Balaguer",
+      "Padre Sanchez",
+      "Padre Vilaclara"
+    ],
+    "explanation": "Bumisita si Padre Federico Faura sa Fort Santiago noong umaga ng Disyembre 29, 1896 kung saan ipinaalala ni Rizal ang kanyang naging babala."
+  },
+  {
+    "id": 84,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang huling regalong aklat na ibinigay ni Rizal kay Josephine Bracken noong umaga ng Disyembre 30 bago siya barilin?",
+    "answer": "Imitacion de Cristo (Pakikipagtulad kay Kristo) ni Thomas a Kempis",
+    "aliases": [
+      "Imitacion de Cristo (Pakikipagtulad kay Kristo) ni Thomas a Kempis",
+      "Imitacion de Cristo",
+      "Imitation of Christ"
+    ],
+    "choices": [
+      "Imitacion de Cristo (Pakikipagtulad kay Kristo) ni Thomas a Kempis",
+      "Biblia Sacra",
+      "Mi Ultimo Adios",
+      "El Filibusterismo"
+    ],
+    "explanation": "Iniregalo ni Rizal ang aklat na may sulat-kamay na dedikasyon: 'To my dear and unhappy wife, Josephine. December 30th, 1896. Jose Rizal.'"
+  },
+  {
+    "id": 85,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang doktor ng hukbong Espanyol na sumuri sa pulso ni Rizal bago ang pamamaril at nagulat nang malamang normal ang tibok ng puso nito?",
+    "answer": "Dr. Felipe Ruiz Castillo",
+    "aliases": [
+      "Dr. Felipe Ruiz Castillo",
+      "Dr. Felipe Ruiz Castro",
+      "Dr. Castillo",
+      "Felipe Ruiz Castillo"
+    ],
+    "choices": [
+      "Dr. Felipe Ruiz Castillo",
+      "Dr. Lorenzo Marques",
+      "Dr. Reinhold Rost",
+      "Dr. Adolf Meyer"
+    ],
+    "explanation": "Hinawakan ni Dr. Castillo ang pulso ni Rizal at namangha nang malamang ganap na kalmado at normal ang tibok ng puso nito ilang sandali bago ang kamatayan."
+  },
+  {
+    "id": 86,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang mga huling katagang binigkas ni Dr. Jose Rizal bago tumama ang mga bala sa Bagumbayan?",
+    "answer": "Consummatum est! (Naganap na! / It is finished)",
+    "aliases": [
+      "Consummatum est! (Naganap na! / It is finished)",
+      "Consummatum est",
+      "Consummatum est!",
+      "Naganap na"
+    ],
+    "choices": [
+      "Consummatum est! (Naganap na! / It is finished)",
+      "Viva Filipinas!",
+      "Unus instar omnium",
+      "Mamatay akong nakaharap sa araw"
+    ],
+    "explanation": "Sinambit ni Rizal ang huling mga kataga ni Kristo sa krus (Juan 19:30): 'Consummatum est!' bago siya binaril ganap na alas-7:03 ng umaga noong Disyembre 30, 1896."
+  },
+  {
+    "id": 87,
+    "group": "group3",
+    "source": "reviewer",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang inisyal na ipinaukit ng kapatid na si Narcisa sa lapida ni Rizal sa Sementeryo ng Paco nang pabaliktad upang hindi mapansin ng mga awtoridad?",
+    "answer": "RPJ (Rizal Protasio Jose)",
+    "aliases": [
+      "RPJ (Rizal Protasio Jose)",
+      "RPJ",
+      "R.P.J."
+    ],
+    "choices": [
+      "RPJ (Rizal Protasio Jose)",
+      "JPR",
+      "PJR",
+      "MLQ"
+    ],
+    "explanation": "Ipinaukit ni Narcisa ang 'RPJ' (pabaliktad na inisyal para kay Jose Protasio Rizal) sa lapidang ginawa ni Doroteo Ongjunco sa lumang Sementeryo ng Paco."
+  },
+  {
+    "id": 88,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang pangalan ng kapisanang kooperatiba ng mga magsasaka na itinatag ni Rizal sa Dapitan noong 1895 upang labanan ang pandaraya ng mga Tsinong mangangalakal?",
+    "answer": "Sociedad de Agricultores Dapitanos",
+    "aliases": [
+      "Sociedad de Agricultores Dapitanos",
+      "Sociedad de Agricultores",
+      "Asosasyon ng mga Magsasaka sa Dapitan"
+    ],
+    "choices": [
+      "Sociedad de Agricultores Dapitanos",
+      "La Liga Filipina",
+      "Katipunan",
+      "Companerismo"
+    ],
+    "explanation": "Itinatag ni Rizal ang Sociedad de Agricultores Dapitanos noong 1895 upang tulungan ang mga magsasaka na makabili ng abaka at produkto sa makatarungang presyo."
+  },
+  {
+    "id": 89,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang tawag sa makabagong imbensyon ni Rizal na gawa sa kahoy na gumagamit ng compressed air upang magsindi ng sigarilyo na iniregalo niya kay Blumentritt?",
+    "answer": "Sulpukan",
+    "aliases": [
+      "Sulpukan",
+      "sulpukan"
+    ],
+    "choices": [
+      "Sulpukan",
+      "Kusinilya",
+      "Makina de Ladrillo",
+      "Ahedres"
+    ],
+    "explanation": "Ang Sulpukan ay isang katutubong lighter na gumagamit ng prinsipyo ng compressed air; iniregalo ito ni Rizal kay Blumentritt mula sa Dapitan."
+  },
+  {
+    "id": 90,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Anong tanyag na eskultura na gawa sa luwad ni Rizal noong 1894 sa Dapitan ang idineklarang Pambansang Yamang Pangkalinangan (National Cultural Treasure) noong 2008?",
+    "answer": "Ang Paghihiganti ng Ina (The Mother's Revenge)",
+    "aliases": [
+      "Ang Paghihiganti ng Ina (The Mother's Revenge)",
+      "Ang Paghihiganti ng Ina",
+      "The Mother's Revenge",
+      "Mother's Revenge"
+    ],
+    "choices": [
+      "Ang Paghihiganti ng Ina (The Mother's Revenge)",
+      "Prometheus Bound",
+      "Triumph of Science over Death",
+      "The Dapitan Girl"
+    ],
+    "explanation": "Ang 'The Mother's Revenge' ay naglalarawan ng isang inang aso na ipinagtatanggol ang kanyang tuta laban sa isang buwaya; idineklara itong National Cultural Treasure noong 2008."
+  },
+  {
+    "id": 91,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang kapatid ni Rizal na buong-tapang na pinahirapan ng mga Espanyol sa pamamagitan ng paglalagay ng turnilyo sa mga daliri ngunit tumangging magdiin kay Jose?",
+    "answer": "Paciano Rizal",
+    "aliases": [
+      "Paciano Rizal",
+      "Paciano"
+    ],
+    "choices": [
+      "Paciano Rizal",
+      "Manuel Hidalgo",
+      "Silvestre Ubaldo",
+      "Antonio Lopez"
+    ],
+    "explanation": "Pinahirapan nang labis si Paciano ng mga Espanyol sa pamamagitan ng pagpiga sa kanyang mga kamay gamit ang screw/turnilyo ngunit hindi siya lumagda sa anumang paratang laban sa kapatid."
+  },
+  {
+    "id": 92,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Kailan inilipat ang mga labi ni Dr. Jose Rizal mula sa tahanan ni Narcisa sa Binondo patungo sa ilalim ng kanyang bantayog sa Luneta?",
+    "answer": "Disyembre 30, 1912",
+    "aliases": [
+      "Disyembre 30, 1912",
+      "Disyembre 30 1912",
+      "Dec 30, 1912",
+      "1912"
+    ],
+    "choices": [
+      "Disyembre 30, 1912",
+      "Agosto 17, 1898",
+      "Hulyo 3, 1911",
+      "Hunyo 19, 1900"
+    ],
+    "explanation": "Noong Disyembre 30, 1912, sa ika-16 na anibersaryo ng kanyang kamatayan, pormal na inilagak ang mga labi ni Rizal sa ilalim ng Monumento ni Rizal sa Luneta."
+  },
+  {
+    "id": 93,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang paring Dominikano na sumulat ng 'Labor Evangelica' na ginamit din bilang sanggunian ukol sa sinaunang kabihasnan ng Pilipinas?",
+    "answer": "Padre Francisco Colin",
+    "aliases": [
+      "Padre Francisco Colin",
+      "Padre Colin",
+      "Francisco Colin",
+      "Colin"
+    ],
+    "choices": [
+      "Padre Francisco Colin",
+      "Padre Pedro Chirino",
+      "Padre Salvador Font",
+      "Padre Mariano Gomez"
+    ],
+    "explanation": "Sina Padre Colin at Padre Pedro Chirino ang mga naunang Heswita/kronikador na nagpatunay na marunong bumasa at sumulat ang mga katutubong Pilipino bago pa ang mga Kastila."
+  },
+  {
+    "id": 94,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang tawag sa sistema ng pamamahala kung saan ang kapangyarihan at pag-aari ng mga lupain ay ipinagkakaloob ng Hari ng Espanya sa mga mananakop na Espanyol?",
+    "answer": "Sistemang Encomienda (Encomiendero)",
+    "aliases": [
+      "Sistemang Encomienda (Encomiendero)",
+      "Encomienda",
+      "Encomiendero",
+      "Sistemang Encomienda"
+    ],
+    "choices": [
+      "Sistemang Encomienda (Encomiendero)",
+      "Hacienda",
+      "Pueblo",
+      "Audiencia"
+    ],
+    "explanation": "Ang encomienda ay ang karapatang ipinagkaloob sa encomendero na mangolekta ng buwis kapalit ng proteksyon at pagtuturo ng Kristiyanismo, ngunit nauwi sa matinding pang-aabuso."
+  },
+  {
+    "id": 95,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Sino ang anak nina Juan Luna at Paz Pardo de Tavera kung saan naging ninong si Dr. Jose Rizal noong Hunyo 24, 1889 sa Paris?",
+    "answer": "Maria dela Paz Blanca Laureana Hermenigilda Juana Luna y Pardo de Tavera",
+    "aliases": [
+      "Maria dela Paz Blanca Laureana Hermenigilda Juana Luna y Pardo de Tavera",
+      "Maria dela Paz Luna",
+      "Luling",
+      "Maria dela Paz"
+    ],
+    "choices": [
+      "Maria dela Paz Blanca Laureana Hermenigilda Juana Luna y Pardo de Tavera",
+      "Andres Luna San Pedro",
+      "Juan Luna Jr.",
+      "Paz Luna"
+    ],
+    "explanation": "Si Rizal ang naging ninong ng sanggol na babae nina Juan Luna at Paz noong Hunyo 24, 1889 habang naninirahan sa Paris."
+  },
+  {
+    "id": 96,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ano ang pamagat ng makasaysayang sanaysay ni Rizal kung saan hinulaan niya ang hinaharap ng Pilipinas sa loob ng isang siglo?",
+    "answer": "Filipinas Dentro de Cien Años (Ang Pilipinas sa Loob ng Isang Daan Taon)",
+    "aliases": [
+      "Filipinas Dentro de Cien Años (Ang Pilipinas sa Loob ng Isang Daan Taon)",
+      "Filipinas Dentro de Cien Anos",
+      "Ang Pilipinas sa Loob ng Isang Daan Taon",
+      "Filipinas Dentro de Cien Años"
+    ],
+    "choices": [
+      "Filipinas Dentro de Cien Años (Ang Pilipinas sa Loob ng Isang Daan Taon)",
+      "Sobre la Indolencia de los Filipinos",
+      "A La Juventud Filipina",
+      "Sa Aking Mga Kabata"
+    ],
+    "explanation": "Ang 'Filipinas Dentro de Cien Años' ay lumabas sa 4 na isyu ng La Solidaridad na nagpahayag na kung hindi magbibigay ng reporma ang Espanya, maghihimagsik ang Pilipinas at maaaring pumasok ang Amerika."
+  },
+  {
+    "id": 97,
+    "group": "group1",
+    "source": "report",
+    "topic": "Pangkat 1: Sucesos at Morga",
+    "question": "Ilang serye lumabas sa La Solidaridad ang sanaysay ni Rizal na 'Sobre la Indolencia de los Filipinos'?",
+    "answer": "5 isyu (Hulyo hanggang Setyembre 1890)",
+    "aliases": [
+      "5 isyu (Hulyo hanggang Setyembre 1890)",
+      "5 isyu",
+      "5",
+      "limang isyu"
+    ],
+    "choices": [
+      "5 isyu (Hulyo hanggang Setyembre 1890)",
+      "4 na isyu",
+      "3 isyu",
+      "10 isyu"
+    ],
+    "explanation": "Lumabas ito sa limang sunod-sunod na isyu: Hulyo 15, Hulyo 31, Agosto 1, Agosto 31, at Setyembre 1, 1890."
+  },
+  {
+    "id": 98,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang mayamang mag-aalahas sa Noli na nagbabalatkayong tagapayo ng Gobernador-Heneral sa El Fili?",
+    "answer": "Simoun",
+    "aliases": [
+      "Simoun",
+      "Don Simoun",
+      "Crisostomo Ibarra"
+    ],
+    "choices": [
+      "Simoun",
+      "Basilio",
+      "Isagani",
+      "Kapitan Tiago"
+    ],
+    "explanation": "Si Simoun ay walang iba kundi si Juan Crisostomo Ibarra na nagbalik makalipas ang 13 taon upang maghiganti at magpasimula ng rebolusyon."
+  },
+  {
+    "id": 99,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Bakit nabigo ang unang pagtatangka ni Simoun na magpasimula ng himagsikan?",
+    "answer": "Dahil sa biglaang balita ng pagkamatay ni Maria Clara sa kumbento",
+    "aliases": [
+      "Dahil sa biglaang balita ng pagkamatay ni Maria Clara sa kumbento",
+      "pagkamatay ni Maria Clara",
+      "namatay si Maria Clara"
+    ],
+    "choices": [
+      "Dahil sa biglaang balita ng pagkamatay ni Maria Clara sa kumbento",
+      "Dahil nahuli si Simoun ng mga sundalo",
+      "Dahil sumabog agad ang lampara",
+      "Dahil tumanggi ang mga magsasaka"
+    ],
+    "explanation": "Nang mabalitaan ni Simoun na pumanaw na si Maria Clara sa kumbento ng Santa Clara, nawalan siya ng direksyon at naparalisa ang unang planong pag-aalsa."
+  },
+  {
+    "id": 100,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang prayleng namamahala sa Tiani na hiningan ng tulong ni Huli para sa paglaya ni Basilio ngunit nagtangkang humalay sa kanya?",
+    "answer": "Padre Camorra",
+    "aliases": [
+      "Padre Camorra",
+      "Camorra"
+    ],
+    "choices": [
+      "Padre Camorra",
+      "Padre Salvi",
+      "Padre Irene",
+      "Padre Florentino"
+    ],
+    "explanation": "Si Padre Camorra ang kura paroko ng Tiani na may masamang pagnanasa kay Huli, dahilan kung bakit tumalon ang dalaga sa bintana ng kumbento."
+  },
+  {
+    "id": 101,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Sino ang binatang estudyante na may-ari ng tanyag na kasabihang 'Ang karunungan ay hindi para sa lahat kundi para lamang sa may puso'?",
+    "answer": "Isagani",
+    "aliases": [
+      "Isagani"
+    ],
+    "choices": [
+      "Isagani",
+      "Basilio",
+      "Placido Penitente",
+      "Juanito Pelaez"
+    ],
+    "explanation": "Si Isagani ay isang makata at huwarang kabataang Pilipino na namumuno sa kilusan para sa pagtatatag ng Akademya ng Wikang Kastila."
+  },
+  {
+    "id": 102,
+    "group": "group2",
+    "source": "report",
+    "topic": "Pangkat 2: El Filibusterismo at Hong Kong",
+    "question": "Ano ang naging kapalaran ng mayamang si Kapitan Tiago sa El Filibusterismo bago siya pumanaw?",
+    "answer": "Nalulong sa labis na paghitit ng apyan (opium)",
+    "aliases": [
+      "Nalulong sa labis na paghitit ng apyan (opium)",
+      "apyan",
+      "opium",
+      "labis na paghitit ng apyan"
+    ],
+    "choices": [
+      "Nalulong sa labis na paghitit ng apyan (opium)",
+      "Binaril sa Bagumbayan",
+      "Nalunod sa Ilog Pasig",
+      "Ipinatapon sa Guam"
+    ],
+    "explanation": "Dahil sa matinding pighati sa pagpasok ni Maria Clara sa kumbento, nalulong si Kapitan Tiago sa apyan sa panunulsol ni Padre Irene hanggang sa pumanaw."
+  },
+  {
+    "id": 103,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang Gobernador-Militar ng Dapitan na naging matalik na kaibigan at kalaro sa ahedres ni Rizal sa Casa Real?",
+    "answer": "Kapitan Ricardo Carnicero",
+    "aliases": [
+      "Kapitan Ricardo Carnicero",
+      "Ricardo Carnicero",
+      "Kapitan Carnicero",
+      "Carnicero"
+    ],
+    "choices": [
+      "Kapitan Ricardo Carnicero",
+      "Kapitan Delgras",
+      "Padre Antonio Obach",
+      "Don Juan Sitges"
+    ],
+    "explanation": "Si Kapitan Ricardo Carnicero ang naging tagapangasiwa ni Rizal na humanga sa kanyang talino at nagpahintulot sa kanya na makagalaw nang malaya sa Dapitan."
+  },
+  {
+    "id": 104,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Ano ang tawag sa sistema ng patubig na itinayo ni Rizal sa Dapitan gamit ang mga tubo na yari sa luwad, apog, at kawayan?",
+    "answer": "Gravity Waterworks System",
+    "aliases": [
+      "Gravity Waterworks System",
+      "Waterworks system",
+      "patubig sa Dapitan",
+      "waterworks"
+    ],
+    "choices": [
+      "Gravity Waterworks System",
+      "Artesian Well",
+      "Dapitan Dam",
+      "Ilog Dipolog Pipeline"
+    ],
+    "explanation": "Ginamit ni Rizal ang kanyang kaalaman bilang 'perito agrimensor' upang lumikha ng isang gravity water system na nagbigay ng malinis na tubig sa buong bayan ng Dapitan."
+  },
+  {
+    "id": 105,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang Heswitang guro ni Rizal sa Ateneo na nakasama niya sa Dapitan at tumulong sa kanya sa paggawa ng malaking Relief Map ng Mindanao?",
+    "answer": "Padre Francisco de Paula Sanchez",
+    "aliases": [
+      "Padre Francisco de Paula Sanchez",
+      "Padre Francisco Sanchez",
+      "Padre Sanchez",
+      "Francisco de Paula Sanchez"
+    ],
+    "choices": [
+      "Padre Francisco de Paula Sanchez",
+      "Padre Federico Faura",
+      "Padre Jose Vilaclara",
+      "Padre Pablo Pastells"
+    ],
+    "explanation": "Si Padre Francisco de Paula Sanchez ang paboritong propesor ni Rizal sa Ateneo na ipinadala sa Dapitan upang kumbinsihin siyang magbalik-loob sa Simbahan, ngunit sa halip ay naging katuwang niya sa siyensya at paghubog ng mapa."
+  },
+  {
+    "id": 106,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Sino ang lihim na espiya na may alyas na 'Pablo Mercado' na ipinadala ng mga prayle sa Dapitan upang tiktikan si Rizal?",
+    "answer": "Florencio Nanaman",
+    "aliases": [
+      "Florencio Nanaman",
+      "Pablo Mercado",
+      "Nanaman"
+    ],
+    "choices": [
+      "Florencio Nanaman",
+      "Eduardo de Lete",
+      "Raymundo Mata",
+      "Enrique Santalo"
+    ],
+    "explanation": "Si Florencio Nanaman ay nagpanggap bilang 'Pablo Mercado' na kamag-anak ni Rizal upang mangalap ng mga ebidensya at liham laban sa bayani."
+  },
+  {
+    "id": 107,
+    "group": "group3",
+    "source": "report",
+    "topic": "Pangkat 3: Huling Pagbabalik at Kalbaryo",
+    "question": "Kailan binaril si Dr. Jose Rizal sa Bagumbayan?",
+    "answer": "Disyembre 30, 1896 ganap na 7:03 ng umaga",
+    "aliases": [
+      "Disyembre 30, 1896 ganap na 7:03 ng umaga",
+      "Disyembre 30, 1896",
+      "Disyembre 30 1896",
+      "7:03 ng umaga",
+      "Dec 30, 1896"
+    ],
+    "choices": [
+      "Disyembre 30, 1896 ganap na 7:03 ng umaga",
+      "Pebrero 17, 1872",
+      "Hulyo 3, 1892",
+      "Disyembre 26, 1896"
+    ],
+    "explanation": "Binaril si Rizal noong Disyembre 30, 1896 ganap na alas-7:03 ng umaga sa Bagumbayan (ngayo'y Luneta/Rizal Park)."
+  }
+]

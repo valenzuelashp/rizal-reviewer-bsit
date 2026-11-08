@@ -1,0 +1,230 @@
+[
+  {
+    "id": "finals-match-1",
+    "group": "group1",
+    "title": "Pangkat 1: Anotasyon ng Sucesos at Buhay sa London/Paris",
+    "description": "Itugma ang bawat makasaysayang tao sa kanilang papel at kaugnayan sa anotasyon ng Sucesos at buhay ni Rizal sa Europa.",
+    "pairs": [
+      {
+        "left": "Antonio de Morga",
+        "right": "Opisyal ng pamahalaang Espanyol na sumulat ng Sucesos de las Islas Filipinas noong 1609",
+        "explanation": "Hukom ng Audiencia at may-akda ng Sucesos na in-anotasyon ni Rizal noong 1890."
+      },
+      {
+        "left": "Dr. Reinhold Rost",
+        "right": "Librarian sa London na tinawag si Rizal na 'una perla de hombre' at nagrekomenda sa British Museum",
+        "explanation": "Dalubhasa sa wikang Malayo na nagbukas ng pinto kay Rizal upang makapanaliksik sa London."
+      },
+      {
+        "left": "Ferdinand Blumentritt",
+        "right": "Austriyanong propesor na sumulat ng Prologo sa anotasyon ni Rizal sa Sucesos",
+        "explanation": "Pinuri ang makabayang pagsisikap ni Rizal ngunit nagbigay ng banayad na puna sa ilang interpretasyon."
+      },
+      {
+        "left": "Gertrude Beckett",
+        "right": "18-taong gulang na dalagang taga-London na nagkaroon ng lihim na damdamin kay Rizal",
+        "explanation": "Panganay na anak sa pamilyang Beckett kung saan nanirahan si Rizal sa Primrose Hill, London."
+      },
+      {
+        "left": "Vicente Belloc y Sanchez",
+        "right": "Kastilang sumulat sa La Patria laban sa mga reporma na tinugon ni Rizal sa 'Verdades Nuevas'",
+        "explanation": "Nagtanggol sa kapangyarihan ng mga prayle at tinuligsa ang mga Pilipino bilang mga 'taong-gubat'."
+      },
+      {
+        "left": "Padre Salvador Font",
+        "right": "Prayleng Agustino na namuno sa pagbabawal ng Noli at tinuligsa sa 'Por Telefono'",
+        "explanation": "Pangunahing target ng satirikong polyeto ni Rizal gamit ang sagisag na Dimas Alang."
+      }
+    ]
+  },
+  {
+    "id": "finals-match-2",
+    "group": "group2",
+    "title": "Pangkat 2: Kaligiran at Pagsulat ng El Filibusterismo",
+    "description": "Itugma ang mga tao, lugar, at kaganapan sa kanilang tiyak na bahagi sa kasaysayan ng El Filibusterismo.",
+    "pairs": [
+      {
+        "left": "Valentin Ventura",
+        "right": "Tagapagligtas ng El Filibusterismo na nagpadala ng pondo mula Paris upang matapos ang imprenta",
+        "explanation": "Pinagkalooban ni Rizal ng orihinal na manuskrito ng nobela bilang pasasalamat."
+      },
+      {
+        "left": "Jose Alejandro",
+        "right": "Kasama ni Rizal sa kuwarto sa Genta na naghati sa rasyon ng biskwit para sa 30 araw",
+        "explanation": "Kababayang nag-aaral ng inhenyeriya sa Ghent na nakaubos ng kanyang rasyon sa 3 araw."
+      },
+      {
+        "left": "Biarritz, Pransiya",
+        "right": "Lugar kung saan ganap na natapos ni Rizal ang buong manuskrito ng nobela noong Marso 29, 1891",
+        "explanation": "Dito tinapos ni Rizal ang nobela habang nanunuluyan sa villa ng pamilya Boustead."
+      },
+      {
+        "left": "Genta (Ghent), Belgium",
+        "right": "Siyudad kung saan inilimbag ang El Filibusterismo dahil sa mas murang halaga ng imprenta",
+        "explanation": "Nilisan ni Rizal ang Brussels patungong Ghent noong Hulyo 5, 1891."
+      },
+      {
+        "left": "Graciano Lopez Jaena",
+        "right": "Pumuri sa pampanitikang estilo ng Fili ngunit pumuna sa madilim nitong wakas tulad ni Eugene Sue",
+        "explanation": "Nais sanang magkaroon si Simoun ng bayaning kamatayan tulad nina Porthos o Bernardo del Carpio."
+      },
+      {
+        "left": "400 pesetas",
+        "right": "Halagang inabot ng bawat natitirang sipi matapos kumpiskahin ang mga kahon patungong Hong Kong",
+        "explanation": "Dahil sa pagkumpiska, naging napakabihira ang Edisyong Genta kaya sumirit ang presyo nito."
+      }
+    ]
+  },
+  {
+    "id": "finals-match-3",
+    "group": "group2",
+    "title": "Pangkat 2: Mga Tauhan sa Nobela at Buhay sa Hong Kong",
+    "description": "Itugma ang bawat tauhan o personalidad sa kanilang kahalagahan sa El Fili at sa buhay ni Rizal sa Hong Kong.",
+    "pairs": [
+      {
+        "left": "Simoun",
+        "right": "Nagbalatkayong mag-aalahas na binansagang 'Eminencia Negra' at 'Kardenal Moreno'",
+        "explanation": "Si Crisostomo Ibarra na nagbalik makalipas ang 13 taon upang maghasik ng himagsikan."
+      },
+      {
+        "left": "Padre Florentino",
+        "right": "Katutubong paring nagtapon ng kayamanan ni Simoun sa dagat at boses ng konsensya ni Rizal",
+        "explanation": "Nagbigay-diin na ang kalayaan ay nakakamit sa karunungan, kabutihan, at wagas na sakripisyo."
+      },
+      {
+        "left": "Huli",
+        "right": "Dalagang anak ni Tales na tumalon sa bintana ng kumbento upang iligtas ang sariling puri",
+        "explanation": "Kasintahan ni Basilio na biktima ng panggigipit ni Padre Camorra sa Tiani."
+      },
+      {
+        "left": "Jose Ma. Basa",
+        "right": "Matalik na kaibigan sa Hong Kong na sumalubong kay Rizal at tumanggap ng unang sipi ng Fili",
+        "explanation": "Tumulong sa pagpapatayo ng klinika ni Rizal sa No. 5 D'Aguilar Street."
+      },
+      {
+        "left": "Dr. Lorenzo Pereira Marques",
+        "right": "Portuges na doktor sa Hong Kong na nagrekomenda ng maraming pasyente sa mata kay Rizal",
+        "explanation": "Kaibigang manggagamot na humanga sa kadalubhasaan ni Rizal bilang siruhano sa mata."
+      },
+      {
+        "left": "Doña Teodora Alonso",
+        "right": "Pinalakad ng Guardia Civil mula Calamba hanggang Sta. Cruz dahil sa apelyidong Realonda",
+        "explanation": "Matagumpay na inoperahan ni Rizal ang katarata sa kaliwang mata nito sa Hong Kong."
+      }
+    ]
+  },
+  {
+    "id": "finals-match-4",
+    "group": "group3",
+    "title": "Pangkat 3: La Liga Filipina at mga Tauhan ng Makamisa",
+    "description": "Itugma ang mga opisyal ng La Liga Filipina at mga tauhan sa ikatlong nobela ni Rizal sa kanilang paglalarawan.",
+    "pairs": [
+      {
+        "left": "Ambrosio Salvador",
+        "right": "Inihalal na unang Pangulo ng La Liga Filipina noong Hulyo 3, 1892",
+        "explanation": "Pinuno ng pambansang lupon ng La Liga sa pulong sa Tondo."
+      },
+      {
+        "left": "Deodato Arellano",
+        "right": "Inihalal na unang Kalihim ng La Liga Filipina",
+        "explanation": "Kilalang mason at unang kalihim ng Liga na kalaunan ay naging unang pangulo ng Katipunan."
+      },
+      {
+        "left": "Doroteo Ongjunco",
+        "right": "May-ari ng bahay sa Kalye Ylaya, Tondo kung saan pormal na itinatag ang La Liga Filipina",
+        "explanation": "Dito nagtipon ang 17 katao noong gabi ng Linggo, Hulyo 3, 1892."
+      },
+      {
+        "left": "'Unus instar omnium'",
+        "right": "Opisyal na sagisag ng La Liga Filipina na nangangahulugang 'Bawat isa ay katulad ng lahat'",
+        "explanation": "Motto na nagpapahiwatig ng pagkakapantay-pantay at pagdadamayan ng mga Pilipino."
+      },
+      {
+        "left": "Padre Agaton",
+        "right": "Masayahin ngunit mainiting kura paroko ng Tulig sa hindi natapos na nobelang Makamisa",
+        "explanation": "Pangunahing prayle sa Makamisa na biglang nagbago ang ugali matapos ang misa."
+      },
+      {
+        "left": "Kapitan Lucas",
+        "right": "Gobernadorcillo ng Tulig na takot mawalan ng suporta ng kura sa nalalapit na halalan",
+        "explanation": "Ama ni Marcela sa nobelang Makamisa na sumisimbolo sa sunud-sunurang pinunong lokal."
+      }
+    ]
+  },
+  {
+    "id": "finals-match-5",
+    "group": "group3",
+    "title": "Pangkat 3: Buhay, Ambag, at Siyensya sa Dapitan",
+    "description": "Itugma ang mga natatanging kaganapan at imbensyon sa pananatili ni Rizal sa Dapitan (1892–1896).",
+    "pairs": [
+      {
+        "left": "Kapitan Ricardo Carnicero",
+        "right": "Gobernador-militar ng Dapitan na naging kalaro ni Rizal sa ahedres sa Casa Real",
+        "explanation": "Inalayan ni Rizal ng tulang 'A Don Ricardo Carnicero' bilang pasasalamat sa kanyang kabaitan."
+      },
+      {
+        "left": "Tiket Blg. 9736",
+        "right": "Numero sa Loterya ng Maynila na nagpanalo ng P20,000 kung saan P6,200 ang napunta kay Rizal",
+        "explanation": "Ginamit ni Rizal ang premyo upang bumili ng 16 na ektaryang lupain sa Talisay."
+      },
+      {
+        "left": "Sulpukan",
+        "right": "Lighter o pansindi ng sigarilyo na gawa sa kahoy gamit ang compressed air para kay Blumentritt",
+        "explanation": "Imbensyon ni Rizal batay sa tradisyonal na kagamitan ng mga katutubo."
+      },
+      {
+        "left": "Draco rizali",
+        "right": "Lumilipad na butiki na natuklasan ni Rizal sa Dapitan na ipinangalan sa kanyang karangalan",
+        "explanation": "Ipinadala ni Rizal ang ispesimen kay Dr. Adolf B. Meyer sa Dresden Museum."
+      },
+      {
+        "left": "The Mother's Revenge",
+        "right": "Eskultura ng asong nagtatanggol sa tuta laban sa buwaya (National Cultural Treasure 2008)",
+        "explanation": "Simbolismo ng pagtatanggol ng Inang Bayan sa mga inosenteng anak laban sa Espanya."
+      },
+      {
+        "left": "Sociedad de Agricultores Dapitanos",
+        "right": "Kooperatiba ng mga magsasaka sa Dapitan na itinatag ni Rizal noong 1895",
+        "explanation": "Layuning tulungan ang mga magsasaka na maibenta ang kanilang abaka nang patas."
+      }
+    ]
+  },
+  {
+    "id": "finals-match-6",
+    "group": "group3",
+    "title": "Pangkat 3: Ang Paglilitis, Mi Ultimo Adios, at Bagumbayan",
+    "description": "Itugma ang mga tauhan at makasaysayang sandali sa huling mga araw at kamatayan ni Dr. Jose Rizal.",
+    "pairs": [
+      {
+        "left": "Teniente Luis Taviel de Andrade",
+        "right": "Opisyal ng hukbo na pinili ni Rizal mula sa 106 na pangalan upang ipagtanggol siya sa paglilitis",
+        "explanation": "Kapatid ni Jose Taviel de Andrade na buong-husay na nagtanggol kay Rizal sa Cuartel de España."
+      },
+      {
+        "left": "Gobernador-Heneral Camilo de Polavieja",
+        "right": "Pumalit kay Blanco noong Disyembre 13, 1896 at lumagda sa hatol na kamatayan ni Rizal",
+        "explanation": "Tinaguriang 'Heneral na Mapagparusa' na kakampi ng mga prayle sa pagbitay kay Rizal."
+      },
+      {
+        "left": "Kusinilyang de-alkohol",
+        "right": "Kagamitang pinagtaguan ng orihinal na manuskrito ng Mi Ultimo Adios bago ibinigay kay Trinidad",
+        "explanation": "Regalo ng pamilyang Pardo de Tavera kung saan nakatago ang 14 na saknong ng huling tula."
+      },
+      {
+        "left": "Dr. Felipe Ruiz Castillo",
+        "right": "Doktor ng hukbong Espanyol na sumuri sa pulso ni Rizal at namangha sa normal na tibok nito",
+        "explanation": "Pinatunayan na ganap na kalmado si Rizal bago harapin ang mga bala sa Bagumbayan."
+      },
+      {
+        "left": "'Consummatum est!'",
+        "right": "Huling mga kataga ni Rizal bago binaril sa Bagumbayan ganap na 7:03 ng umaga",
+        "explanation": "Salitang Latin na nangangahulugang 'Naganap na!' (It is finished) mula sa Ebanghelyo ni San Juan."
+      },
+      {
+        "left": "'RPJ'",
+        "right": "Pabaliktad na inisyal na ipinaukit ni Narcisa sa lapida sa Sementeryo ng Paco",
+        "explanation": "Nangangahulugang Rizal Protasio Jose upang hindi madaling makilala ng mga sundalong Kastila."
+      }
+    ]
+  }
+]
