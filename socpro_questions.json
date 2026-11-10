@@ -963,5 +963,940 @@
       "Load Testing"
     ],
     "explanation": "A Privacy Impact Assessment (PIA) is carried out during the design stage ('Assess before building') to identify privacy risks and integrate technical controls."
+  },
+  {
+    "id": 51,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "What is the official statute number known as the Intellectual Property Code of the Philippines?",
+    "answer": "Republic Act No. 8293",
+    "aliases": [
+      "Republic Act No. 8293",
+      "RA 8293",
+      "R.A. 8293",
+      "RA No. 8293",
+      "Republic Act 8293",
+      "8293",
+      "RA8293"
+    ],
+    "choices": [
+      "Republic Act No. 8293",
+      "Republic Act No. 10173",
+      "Republic Act No. 10175",
+      "Republic Act No. 8792"
+    ],
+    "explanation": "Republic Act No. 8293 is the Intellectual Property Code of the Philippines, governing copyrights, patents, trademarks, and trade secrets."
+  },
+  {
+    "id": 52,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "Under RA 8293, what does copyright protect in computing works such as source code and documentation?",
+    "answer": "Expression, but not the underlying ideas",
+    "aliases": [
+      "Expression, but not the underlying ideas",
+      "Expression, not ideas",
+      "Expression",
+      "Expression not ideas",
+      "Expression, not the underlying idea"
+    ],
+    "choices": [
+      "Expression, but not the underlying ideas",
+      "The underlying idea or mathematical concept",
+      "The physical storage medium alone",
+      "The operational business profits"
+    ],
+    "explanation": "Copyright protects the original expression of an author (source code, documentation, images), not the underlying idea, system, or algorithmic concept."
+  },
+  {
+    "id": 53,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "How does copyright protection arise under Philippine intellectual property law?",
+    "answer": "Automatically upon creation",
+    "aliases": [
+      "Automatically upon creation",
+      "Automatically on creation",
+      "Upon creation",
+      "Automatic on creation",
+      "Automatically"
+    ],
+    "choices": [
+      "Automatically upon creation",
+      "Only by grant after a formal government application",
+      "Upon commercial registration with IPOPHIL",
+      "Upon mandatory deposit with the National Library"
+    ],
+    "explanation": "Under RA 8293, copyright protection is automatic from the very moment of creation; registration or deposit is not required for protection to exist."
+  },
+  {
+    "id": 54,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "What is the statutory duration of copyright protection for original literary and artistic works under RA 8293?",
+    "answer": "Life of the author plus fifty (50) years",
+    "aliases": [
+      "Life of the author plus fifty (50) years",
+      "Life of the author plus fifty years",
+      "Life of the author plus 50 years",
+      "Life plus 50 years",
+      "Life + 50 years"
+    ],
+    "choices": [
+      "Life of the author plus fifty (50) years",
+      "Twenty years from filing",
+      "Indefinite as long as kept confidential",
+      "Ten years, renewable once"
+    ],
+    "explanation": "Under Section 213 of RA 8293, copyright for original works endures during the life of the author and for fifty (50) years after their death."
+  },
+  {
+    "id": 55,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "Which form of intellectual property protects statutory inventions, arises only by formal grant after application, and lasts for twenty (20) years from the filing date?",
+    "answer": "Patent",
+    "aliases": [
+      "Patent",
+      "Patents",
+      "Letters Patent"
+    ],
+    "choices": [
+      "Patent",
+      "Copyright",
+      "Trade secret",
+      "Trademark"
+    ],
+    "explanation": "A Patent protects novel, inventive, and industrially applicable technical solutions and processes, arising only upon formal grant for a period of 20 years from filing."
+  },
+  {
+    "id": 56,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "Which form of intellectual property protects valuable information kept confidential by its holder (e.g., proprietary algorithms or customer lists) and lasts indefinitely until disclosed?",
+    "answer": "Trade secret",
+    "aliases": [
+      "Trade secret",
+      "Trade secrets",
+      "Secret"
+    ],
+    "choices": [
+      "Trade secret",
+      "Copyright",
+      "Patent",
+      "Trademark"
+    ],
+    "explanation": "A Trade Secret protects confidential information that derives independent commercial value from being secret; its protection endures indefinitely until disclosure occurs."
+  },
+  {
+    "id": 57,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "Which form of intellectual property protects signs or marks distinguishing the goods or services of an enterprise (e.g., product names and logos) and is renewable indefinitely?",
+    "answer": "Trademark",
+    "aliases": [
+      "Trademark",
+      "Trademarks",
+      "Trade mark"
+    ],
+    "choices": [
+      "Trademark",
+      "Copyright",
+      "Patent",
+      "Trade secret"
+    ],
+    "explanation": "A Trademark protects names, symbols, and logos distinguishing an enterprise's goods or services, arising through registration and use and renewable indefinitely."
+  },
+  {
+    "id": 58,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "If an engineer reads how a software system works and builds their own implementation from scratch without copying source code, is this conduct legally permissible?",
+    "answer": "Yes, because copyright protects expression and not the underlying idea",
+    "aliases": [
+      "Yes, because copyright protects expression and not the underlying idea",
+      "Yes",
+      "Permissible",
+      "Yes, copyright protects expression not ideas"
+    ],
+    "choices": [
+      "Yes, because copyright protects expression and not the underlying idea",
+      "No, because any similar workflow constitutes copyright infringement",
+      "No, unless a commercial license fee is paid to the original author",
+      "Only if the author grants written consent"
+    ],
+    "explanation": "Because copyright protects only expression and not functional ideas, studying system mechanics and writing an original implementation is ordinarily permissible; copying code is infringement."
+  },
+  {
+    "id": 59,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "How is the doctrine of Fair Use assessed under Philippine intellectual property law?",
+    "answer": "It is weighed against four statutory factors and is never automatically assumed",
+    "aliases": [
+      "It is weighed against four statutory factors and is never automatically assumed",
+      "Weighed, not assumed",
+      "Weighed against four factors",
+      "Fair use is weighed, not assumed"
+    ],
+    "choices": [
+      "It is weighed against four statutory factors and is never automatically assumed",
+      "It is automatically granted for any non-commercial website",
+      "It is an absolute exemption for all registered students",
+      "It applies whenever the original author is credited in a footnote"
+    ],
+    "explanation": "Fair use is weighed, not assumed. Philippine law evaluates purpose/character of use, nature of work, amount used relative to whole, and market effect. No single factor settles it."
+  },
+  {
+    "id": 60,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "Why is the common developer habit 'Attribution is not permission' an essential rule in software practice?",
+    "answer": "Because crediting the author does not make an unlicensed use lawful",
+    "aliases": [
+      "Because crediting the author does not make an unlicensed use lawful",
+      "Crediting the author does not make an unlicensed use lawful",
+      "Attribution does not make unlicensed use lawful"
+    ],
+    "choices": [
+      "Because crediting the author does not make an unlicensed use lawful",
+      "Because attribution automatically converts proprietary code into open source",
+      "Because crediting an author transfers copyright ownership to the user",
+      "Because attribution is only required for patented hardware"
+    ],
+    "explanation": "Attribution satisfies academic ethics but does not satisfy copyright law; citing the creator does not substitute for obtaining a lawful license or permission."
+  },
+  {
+    "id": 61,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "Why is 'Education is not an exemption' emphasized in Module 6 when dealing with copyrighted software and assets?",
+    "answer": "Because educational purpose merely weighs in the fair use assessment without settling it",
+    "aliases": [
+      "Because educational purpose merely weighs in the fair use assessment without settling it",
+      "Educational purpose weighs in the assessment without settling it",
+      "Education is not an automatic exemption"
+    ],
+    "choices": [
+      "Because educational purpose merely weighs in the fair use assessment without settling it",
+      "Because schools are completely barred from invoking fair use",
+      "Because educational use requires payment of double licensing royalties",
+      "Because student projects cannot use open source libraries"
+    ],
+    "explanation": "Educational purpose is only one factor considered in fair use; it does not grant a blanket legal exemption to copy entire proprietary assets or software."
+  },
+  {
+    "id": 62,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "What observation did legal scholar James Boyle (2008) make regarding the public domain and intellectual property rights?",
+    "answer": "Users underestimate the public domain and rights holders overstate it",
+    "aliases": [
+      "Users underestimate the public domain and rights holders overstate it",
+      "Users underestimate public domain and rights holders overstate it",
+      "Assume either extreme and you will be wrong"
+    ],
+    "choices": [
+      "Users underestimate the public domain and rights holders overstate it",
+      "All published software will enter the public domain within five years",
+      "Open source licensing eliminates all copyright protection",
+      "Copyright law no longer applies to digital internet assets"
+    ],
+    "explanation": "James Boyle (2008) noted that users routinely underestimate public domain freedoms while rights holders overstate their monopoly reach; assuming either extreme is legally flawed."
+  },
+  {
+    "id": 63,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "What is the precise legal definition of a software license according to Discussion 3?",
+    "answer": "A licence is permission on stated conditions",
+    "aliases": [
+      "A licence is permission on stated conditions",
+      "Permission on stated conditions",
+      "A license is permission on stated conditions"
+    ],
+    "choices": [
+      "A licence is permission on stated conditions",
+      "A license is a complete transfer of copyright ownership",
+      "A license is a warranty guaranteeing zero software defects",
+      "A license is an agreement to register code with the government"
+    ],
+    "explanation": "A licence does not sell the copyright; it grants permission to use the software strictly under stated conditions, which the practitioner must actually read."
+  },
+  {
+    "id": 64,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "Which software license family permits any use (including commercial), requires nothing, and carries no downstream obligations (e.g., CC0, Unlicense)?",
+    "answer": "Public domain dedication",
+    "aliases": [
+      "Public domain dedication",
+      "Public domain",
+      "CC0",
+      "Unlicense"
+    ],
+    "choices": [
+      "Public domain dedication",
+      "Permissive license",
+      "Weak copyleft",
+      "Strong copyleft"
+    ],
+    "explanation": "Public domain dedications waive copyright interests entirely, permitting unrestricted use with zero required notices or source code disclosures."
+  },
+  {
+    "id": 65,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "Which software license family (e.g., MIT, BSD, Apache 2.0) permits commercial use, modification, and distribution, requiring only that copyright notices and license text be retained?",
+    "answer": "Permissive license",
+    "aliases": [
+      "Permissive license",
+      "Permissive",
+      "Permissive licences",
+      "MIT and BSD",
+      "Permissive (MIT, BSD)"
+    ],
+    "choices": [
+      "Permissive license",
+      "Strong copyleft",
+      "Proprietary",
+      "Public domain dedication"
+    ],
+    "explanation": "Permissive licenses (MIT, BSD, Apache) allow software to be incorporated into commercial products, provided the original copyright notice and disclaimer are preserved."
+  },
+  {
+    "id": 66,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "Which software license family (e.g., LGPL) permits linking within a larger proprietary program, but requires source code disclosure if modifications are made to the component itself?",
+    "answer": "Weak copyleft",
+    "aliases": [
+      "Weak copyleft",
+      "Weak copyleft (LGPL)",
+      "LGPL"
+    ],
+    "choices": [
+      "Weak copyleft",
+      "Strong copyleft",
+      "Permissive license",
+      "Public domain dedication"
+    ],
+    "explanation": "Weak copyleft (e.g., GNU LGPL) allows proprietary applications to link to the library, but any direct edits or enhancements to the library code must be shared under LGPL."
+  },
+  {
+    "id": 67,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "What is the primary risk of using components under strong copyleft licenses (e.g., GPL) in a commercial software product?",
+    "answer": "It can require the entire distributed work to be published under the same copyleft terms",
+    "aliases": [
+      "It can require the entire distributed work to be published under the same copyleft terms",
+      "The whole distributed work under the same terms",
+      "Can require publishing your source",
+      "Viral copyleft effect"
+    ],
+    "choices": [
+      "It can require the entire distributed work to be published under the same copyleft terms",
+      "It requires paying recurring annual seat royalties to the original author",
+      "It automatically invalidates all trade secrets of the developer",
+      "It forbids software execution on cloud hosting environments"
+    ],
+    "explanation": "Strong copyleft (GPL) possesses a reciprocal requirement: if you distribute a derived work incorporating GPL code, you must provide your entire application's source code under GPL."
+  },
+  {
+    "id": 68,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "If source code is published in a public GitHub repository with no license stated, what legal rights does a downstream developer have to use it?",
+    "answer": "Use is not permitted, since silence conveys no permission",
+    "aliases": [
+      "Use is not permitted, since silence conveys no permission",
+      "Nothing by default",
+      "Use is not permitted",
+      "Silence conveys no permission",
+      "No permission"
+    ],
+    "choices": [
+      "Use is not permitted, since silence conveys no permission",
+      "Free commercial use, because publication implies public dedication",
+      "Permitted for personal use, provided attribution is given",
+      "Permitted under the default MIT license terms"
+    ],
+    "explanation": "Under copyright law, an author retains exclusive rights unless explicitly licensed; publishing code without a license conveys no rights to copy, modify, or integrate it."
+  },
+  {
+    "id": 69,
+    "topic": "Module 6: Open Source Reciprocity & Workplace IP",
+    "question": "According to Eric S. Raymond (1999), open collaboration operates on reciprocity and imposes which three obligations on practitioners?",
+    "answer": "Have the right to contribute, honor incorporated licences, and do not free-ride",
+    "aliases": [
+      "Have the right to contribute, honor incorporated licences, and do not free-ride",
+      "Right to contribute, honor licences, do not free-ride",
+      "Three obligations of open source"
+    ],
+    "choices": [
+      "Have the right to contribute, honor incorporated licences, and do not free-ride",
+      "Pay repository hosting fees, avoid commercial deployment, and register with IPOPHIL",
+      "Sign nondisclosure agreements, assign patents, and waive moral rights",
+      "Submit monthly code reviews, run automated tests, and use strong copyleft"
+    ],
+    "explanation": "Raymond (1999) outlined the reciprocity model: contributors must have legal authority to commit code, preserve upstream licenses, and not exploit the commons without honoring its terms."
+  },
+  {
+    "id": 70,
+    "topic": "Module 6: Open Source Reciprocity & Workplace IP",
+    "question": "What two legal instruments read together govern the ownership of intellectual property created by an employed software developer?",
+    "answer": "The Intellectual Property Code (RA 8293) and the employment agreement",
+    "aliases": [
+      "The Intellectual Property Code (RA 8293) and the employment agreement",
+      "IP Code and employment agreement",
+      "RA 8293 and employment contract"
+    ],
+    "choices": [
+      "The Intellectual Property Code (RA 8293) and the employment agreement",
+      "The Labor Code and the Data Privacy Act",
+      "The Cybercrime Prevention Act and company handbook",
+      "The National Building Code and municipal ordinance"
+    ],
+    "explanation": "Under RA 8293 and standard employment contracts, work created in the regular course of employment or utilizing company equipment typically belongs to the employer."
+  },
+  {
+    "id": 71,
+    "topic": "Module 6: Open Source Reciprocity & Workplace IP",
+    "question": "What proactive step should a software practitioner take if they intend to preserve personal ownership of a side project while employed?",
+    "answer": "Request a written carve-out exception and work on personal time and equipment",
+    "aliases": [
+      "Request a written carve-out exception and work on personal time and equipment",
+      "Ask for a carve-out",
+      "Written carve-out",
+      "Carve-out in writing"
+    ],
+    "choices": [
+      "Request a written carve-out exception and work on personal time and equipment",
+      "Keep the side project confidential from all colleagues and the employer",
+      "Publish the project under an anonymous pseudonym on GitHub",
+      "Register the side project as a patent prior to signing the employment contract"
+    ],
+    "explanation": "Discussion 5 advises: find the assignment clause, check its reach, request a written carve-out exception for the specific project, and keep work strictly separate."
+  },
+  {
+    "id": 72,
+    "topic": "Module 6: Fair Use & Licensing Families",
+    "question": "What is the primary compliance exposure of deploying proprietary or commercial software beyond contracted seat or user limits?",
+    "answer": "Contractual breach and financial audit exposure with substantial penalties",
+    "aliases": [
+      "Contractual breach and financial audit exposure with substantial penalties",
+      "Audit exposure",
+      "Audit exposure if limits are exceeded"
+    ],
+    "choices": [
+      "Contractual breach and financial audit exposure with substantial penalties",
+      "Automatic conversion of the software into open source",
+      "Immediate revocation of the company's SEC registration",
+      "Criminal forfeiture of the company's trademark assets"
+    ],
+    "explanation": "Commercial agreements enforce strict use/seat limits; exceeding them exposes the firm to vendor compliance audits, retroactive licensing fees, and legal damages."
+  },
+  {
+    "id": 73,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "Which of the following is an example of an asset protected by trade secret law rather than copyright?",
+    "answer": "A proprietary ranking algorithm kept confidential and undisclosed",
+    "aliases": [
+      "A proprietary ranking algorithm kept confidential and undisclosed",
+      "Proprietary algorithm",
+      "Confidential algorithm",
+      "Customer list"
+    ],
+    "choices": [
+      "A proprietary ranking algorithm kept confidential and undisclosed",
+      "The published user manual of an application",
+      "The graphic logo displayed on a public landing page",
+      "A software design patent granted by the government"
+    ],
+    "explanation": "Algorithms, formulas, and confidential customer databases are maintained as trade secrets through confidentiality measures, whereas copyright protects published text/code expression."
+  },
+  {
+    "id": 74,
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "What happens to a copyrighted computing work once its statutory term of protection (Life + 50 years) expires?",
+    "answer": "It enters the public domain and can be freely used without permission",
+    "aliases": [
+      "It enters the public domain and can be freely used without permission",
+      "Enters the public domain",
+      "Public domain",
+      "It enters the public domain"
+    ],
+    "choices": [
+      "It enters the public domain and can be freely used without permission",
+      "It automatically renews for another twenty-year patent term",
+      "Ownership reverts permanently to the National Library",
+      "It becomes classified as a government trade secret"
+    ],
+    "explanation": "Upon expiration of the copyright duration, works enter the public domain, meaning anyone may reproduce, modify, or build upon them without authorization."
+  },
+  {
+    "id": 75,
+    "topic": "Module 6: Open Source Reciprocity & Workplace IP",
+    "question": "If your team copied a critical function from a public repository that has no license stated and the product ships next month, what is the best professional response?",
+    "answer": "Rewrite the function in-house or replace it with a permissively licensed component",
+    "aliases": [
+      "Rewrite the function in-house or replace it with a permissively licensed component",
+      "Rewrite the function",
+      "Replace with permissively licensed component",
+      "Replace with MIT or BSD component"
+    ],
+    "choices": [
+      "Rewrite the function in-house or replace it with a permissively licensed component",
+      "Ship the product and add the author's name to the about page",
+      "Change variable names to obscure the original authorship",
+      "Assume fair use applies since the repository was publicly accessible"
+    ],
+    "explanation": "Silence conveys no permission. Incorporating unlicensed code creates severe copyright infringement liability; the team must rewrite the logic or adopt an MIT/BSD/Apache component."
+  },
+  {
+    "id": 76,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "What is the official statute number of the Cybercrime Prevention Act of 2012 in the Philippines?",
+    "answer": "Republic Act No. 10175",
+    "aliases": [
+      "Republic Act No. 10175",
+      "RA 10175",
+      "R.A. 10175",
+      "RA No. 10175",
+      "Republic Act 10175",
+      "10175",
+      "RA10175"
+    ],
+    "choices": [
+      "Republic Act No. 10175",
+      "Republic Act No. 10173",
+      "Republic Act No. 8293",
+      "Republic Act No. 8792"
+    ],
+    "explanation": "Republic Act No. 10175 is the Cybercrime Prevention Act of 2012, defining offenses against computer systems, data integrity, and cyber-related fraud."
+  },
+  {
+    "id": 77,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "What essential element separates ordinary lawful technical computing work from a cybercrime offense?",
+    "answer": "Authorization (access with right versus access without right)",
+    "aliases": [
+      "Authorization (access with right versus access without right)",
+      "Authorization",
+      "Access without right",
+      "Lawful authorization"
+    ],
+    "choices": [
+      "Authorization (access with right versus access without right)",
+      "The moral intention of the computing professional",
+      "Whether commercial financial damage occurred",
+      "Whether an automated testing tool was utilized"
+    ],
+    "explanation": "Introduction and Discussion 2 emphasize: authorization is the thin line. Conduct performed without right constitutes an offense, regardless of technical skill."
+  },
+  {
+    "id": 78,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "Which of the three offence groups under RA 10175 carries the highest exposure for IT and security practitioners because it closely resembles ordinary technical work?",
+    "answer": "Offences against confidentiality, integrity, and availability of computer data and systems",
+    "aliases": [
+      "Offences against confidentiality, integrity, and availability of computer data and systems",
+      "Offences against confidentiality, integrity, and availability",
+      "CIA offences",
+      "Offences against CIA"
+    ],
+    "choices": [
+      "Offences against confidentiality, integrity, and availability of computer data and systems",
+      "Computer-related offences",
+      "Content-related offences",
+      "Intellectual property infringement offences"
+    ],
+    "explanation": "Section 4(a) offenses (Illegal Access, Interception, Data/System Interference, Misuse of Devices) carry the highest practitioner risk because routine testing mimics these acts."
+  },
+  {
+    "id": 79,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "Which specific offense under Section 4(a)(1) of RA 10175 is defined as the access to the whole or any part of a computer system without right?",
+    "answer": "Illegal Access",
+    "aliases": [
+      "Illegal Access",
+      "Illegal access",
+      "Sec. 4(a)(1) Illegal Access"
+    ],
+    "choices": [
+      "Illegal Access",
+      "System Interference",
+      "Data Interference",
+      "Misuse of Devices"
+    ],
+    "explanation": "Illegal Access occurs whenever an individual accesses any part of a computer system without lawful authorization or beyond permitted boundaries."
+  },
+  {
+    "id": 80,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "What offense under Section 4(a)(4) of RA 10175 is committed when testing or attacking a live production system impairs or hinders its functioning without authorization?",
+    "answer": "System Interference",
+    "aliases": [
+      "System Interference",
+      "System interference",
+      "Sec. 4(a)(4) System Interference"
+    ],
+    "choices": [
+      "System Interference",
+      "Data Interference",
+      "Illegal Interception",
+      "Computer-related Forgery"
+    ],
+    "explanation": "System Interference is the intentional alteration, hindering, or impairing of the functioning or availability of a computer system without right."
+  },
+  {
+    "id": 81,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "Which cybercrime group under RA 10175 encompasses Computer-related Forgery, Computer-related Fraud, and Computer-related Identity Theft?",
+    "answer": "Computer-related offences",
+    "aliases": [
+      "Computer-related offences",
+      "Computer-related offenses",
+      "Section 4(b)"
+    ],
+    "choices": [
+      "Computer-related offences",
+      "Offences against confidentiality, integrity, and availability",
+      "Content-related offences",
+      "Civil copyright infractions"
+    ],
+    "explanation": "Section 4(b) governs computer-related offenses involving the unauthorized input, alteration, or deletion of data resulting in inauthentic data, fraud, or stolen identity."
+  },
+  {
+    "id": 82,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "Which group under Section 4(c) of RA 10175 includes offenses such as Cybersex, Child Sexual Abuse/Exploitation, and Cyberlibel?",
+    "answer": "Content-related offences",
+    "aliases": [
+      "Content-related offences",
+      "Content-related offenses",
+      "Section 4(c) Content-related offences"
+    ],
+    "choices": [
+      "Content-related offences",
+      "Offences against system availability",
+      "Computer-related forgery offences",
+      "Algorithmic design infractions"
+    ],
+    "explanation": "Section 4(c) covers content-related offenses committed through computer systems, including publishing illegal material, cybersex, and cyberlibel."
+  },
+  {
+    "id": 83,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "How did criminologist David S. Wall (2007) categorize computer crimes to determine the required body of investigative knowledge?",
+    "answer": "Crimes against machines, crimes using machines, and crimes where the machine is the environment",
+    "aliases": [
+      "Crimes against machines, crimes using machines, and crimes where the machine is the environment",
+      "Crimes against, using, and environment of machines",
+      "Wall (2007) categories"
+    ],
+    "choices": [
+      "Crimes against machines, crimes using machines, and crimes where the machine is the environment",
+      "Crimes by students, crimes by employees, and crimes by foreign nation-states",
+      "Crimes of passion, crimes of negligence, and crimes of strict liability",
+      "Crimes in hardware, crimes in software, and crimes in firmware"
+    ],
+    "explanation": "David Wall (2007) separates crimes targeting hardware/networks (against), crimes utilizing computers for fraud (using), and crimes occurring in cyberspace environments (content/libel)."
+  },
+  {
+    "id": 84,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "When must authorization for security testing or system access be obtained to ensure lawful conduct?",
+    "answer": "It must strictly precede the act (obtained before testing begins)",
+    "aliases": [
+      "It must strictly precede the act (obtained before testing begins)",
+      "It comes before the act",
+      "Before the act",
+      "Prior to the act"
+    ],
+    "choices": [
+      "It must strictly precede the act (obtained before testing begins)",
+      "Within twenty-four hours after discovering a critical vulnerability",
+      "Immediately after the vulnerability scan report is compiled",
+      "Only after demonstrating proof of concept to the IT department"
+    ],
+    "explanation": "Discussion 2 dictates: authorization must come before the act. Permission obtained retroactively, once a finding turns out useful, does not count as a legal defense."
+  },
+  {
+    "id": 85,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "From whom must valid legal authorization for system testing originate?",
+    "answer": "Someone with legal authority (e.g., the data owner or corporate officer, not solely the system administrator)",
+    "aliases": [
+      "Someone with legal authority (e.g., the data owner or corporate officer, not solely the system administrator)",
+      "Someone with authority",
+      "Data owner or corporate officer",
+      "Person with authority"
+    ],
+    "choices": [
+      "Someone with legal authority (e.g., the data owner or corporate officer, not solely the system administrator)",
+      "Any student officer in the computer science department",
+      "The junior developer managing the testing server",
+      "Any employee possessing active login credentials"
+    ],
+    "explanation": "Authority to grant access rests with the organization (data owner or executive officer), not individual account holders or junior administrators acting alone."
+  },
+  {
+    "id": 86,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "Why is an open-ended directive such as 'Test our security' legally insufficient as valid authorization?",
+    "answer": "Because authorization must be specific regarding scope, targets, methods, and period, and excludes third-party services",
+    "aliases": [
+      "Because authorization must be specific regarding scope, targets, methods, and period, and excludes third-party services",
+      "It is specific",
+      "Authorization must be specific",
+      "Must state scope, targets, methods, and period"
+    ],
+    "choices": [
+      "Because authorization must be specific regarding scope, targets, methods, and period, and excludes third-party services",
+      "Because verbal agreements are always automatically legally binding under criminal law",
+      "Because all penetration testing requires presidential executive approval",
+      "Because the Cybercrime Law forbids using commercial security tools"
+    ],
+    "explanation": "Valid authorization must be specific: target systems, IP ranges, permitted/excluded tools, and schedules must be stated. An organization cannot authorize testing of third-party cloud services it merely uses."
+  },
+  {
+    "id": 87,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "According to Yar and Steinmetz (2019), what is the legal reality regarding a hacker or student who probes a system with 'good intentions' to help?",
+    "answer": "Good intention is not a defence; the offence was committed the moment unauthorized access occurred",
+    "aliases": [
+      "Good intention is not a defence; the offence was committed the moment unauthorized access occurred",
+      "Good intention is not a defence",
+      "Good intention is not a defense",
+      "Good intentions do not make unauthorized acts lawful"
+    ],
+    "choices": [
+      "Good intention is not a defence; the offence was committed the moment unauthorized access occurred",
+      "Good intention provides a complete statutory exemption from cybercrime charges",
+      "Publicly disclosing the finding on social media retroactively legalizes the probe",
+      "Intent to help converts the probe into an authorized bug bounty submission"
+    ],
+    "explanation": "Yar and Steinmetz (2019) emphasize that law and public perception diverge over helpful intent. Probing without permission is a completed crime; good intent does not negate liability."
+  },
+  {
+    "id": 88,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "If an individual conducts an unauthorized probe of a system and subsequently reports the vulnerability to the owner, how does the law treat the reporting?",
+    "answer": "It is treated as mitigation, not as a legal defence to the crime",
+    "aliases": [
+      "It is treated as mitigation, not as a legal defence to the crime",
+      "Mitigation, not a defence",
+      "Mitigation rather than a defence",
+      "Mitigation not a defense"
+    ],
+    "choices": [
+      "It is treated as mitigation, not as a legal defence to the crime",
+      "It constitutes a complete statutory defense that dismisses all charges",
+      "It entitles the tester to a mandatory cash bounty under RA 10175",
+      "It grants retroactive authorization from the Department of Justice"
+    ],
+    "explanation": "Reporting an unauthorized penetration may serve as a mitigating factor to reduce penalties during sentencing, but it does not erase the fact that an illegal access offence was committed."
+  },
+  {
+    "id": 89,
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "What is the proper professional course of action if you stumble upon a serious system flaw by accident during routine work?",
+    "answer": "Stop immediately, do not probe further, and report it through the agreed organizational route",
+    "aliases": [
+      "Stop immediately, do not probe further, and report it through the agreed organizational route",
+      "Stop, do not probe further, and report",
+      "Stop and report",
+      "Do not probe further"
+    ],
+    "choices": [
+      "Stop immediately, do not probe further, and report it through the agreed organizational route",
+      "Write a script to extract sample records to prove the vulnerability exists",
+      "Share the endpoint with trusted classmates to verify the exploit",
+      "Post a redacted screenshot on social media to pressure the company"
+    ],
+    "explanation": "When a flaw is encountered by accident, further exploitation or penetration converts an accidental observation into deliberate illegal access. The professional stops immediately and reports."
+  },
+  {
+    "id": 90,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why does using a colleague's login credentials—even with their explicit verbal permission—carry severe legal exposure?",
+    "answer": "Authority to grant access rests with the organization, not the individual account holder",
+    "aliases": [
+      "Authority to grant access rests with the organization, not the individual account holder",
+      "Authority rests with the organization",
+      "Account holder cannot grant access"
+    ],
+    "choices": [
+      "Authority to grant access rests with the organization, not the individual account holder",
+      "Because sharing passwords automatically corrupts the server's relational database",
+      "Because passwords expire automatically when used by another IP address",
+      "Because colleagues are legally classified as external third-party contractors"
+    ],
+    "explanation": "Credentials are non-transferable grants of access issued by the organization. An employee cannot grant another person authorization to access corporate databases."
+  },
+  {
+    "id": 91,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why does retaining access credentials or accessing company systems after resigning from a role constitute illegal access?",
+    "answer": "Because authorization ends when the role ends; continued access is access without right",
+    "aliases": [
+      "Because authorization ends when the role ends; continued access is access without right",
+      "Authorization ends when the role ends",
+      "Access without right after role ends"
+    ],
+    "choices": [
+      "Because authorization ends when the role ends; continued access is access without right",
+      "Because former employees are barred from using the internet for six months",
+      "Because credentials automatically become corrupted upon resignation",
+      "Because company policies only apply to current active stockholders"
+    ],
+    "explanation": "Authorization is coterminous with employment. The failure of IT to immediately revoke an account does not imply ongoing permission; accessing it is access without right."
+  },
+  {
+    "id": 92,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why does editing an ID parameter in a URL (IDOR) to view another user's private records carry criminal cybercrime exposure?",
+    "answer": "Because the absence of a technical barrier is not the presence of permission",
+    "aliases": [
+      "Because the absence of a technical barrier is not the presence of permission",
+      "Absence of a technical barrier is not permission",
+      "Absence of a barrier is not permission"
+    ],
+    "choices": [
+      "Because the absence of a technical barrier is not the presence of permission",
+      "Because modifying web browser query strings breaks internet protocols",
+      "Because viewing data without downloading it is a copyright violation",
+      "Because web servers automatically log URL tampering as credit card fraud"
+    ],
+    "explanation": "A missing access control check on a server is an architectural defect, not an invitation. Accessing records you have no right to view constitutes illegal access under RA 10175."
+  },
+  {
+    "id": 93,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why does scanning an IP address range or network you do not own carry legal exposure under cybercrime statutes?",
+    "answer": "Because port scanning and reconnaissance may itself fall within defined unauthorized conduct",
+    "aliases": [
+      "Because port scanning and reconnaissance may itself fall within defined unauthorized conduct",
+      "Reconnaissance may fall within defined conduct",
+      "Scanning without authorization is illegal conduct"
+    ],
+    "choices": [
+      "Because port scanning and reconnaissance may itself fall within defined unauthorized conduct",
+      "Because network packets permanently degrade the physical fiber-optic cables",
+      "Because internet service providers automatically sue all port scanners for copyright",
+      "Because scanning requires a telecommunications franchise license"
+    ],
+    "explanation": "Automated probing, banner grabbing, and port scanning against external infrastructure without consent can be legally classified as attempted access or device misuse."
+  },
+  {
+    "id": 94,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "What legal consequence arises when an engineer copies and keeps a customer database on their personal laptop after a development contract concludes?",
+    "answer": "The lawful basis for processing ended while the data was retained without authority",
+    "aliases": [
+      "The lawful basis for processing ended while the data was retained without authority",
+      "Lawful basis ended while data retained",
+      "Retention after project ends violates lawful basis"
+    ],
+    "choices": [
+      "The lawful basis for processing ended while the data was retained without authority",
+      "The developer automatically acquires joint copyright ownership of the database",
+      "The data becomes an open source dataset under public domain dedication",
+      "The developer is required to pay annual cloud hosting fees to the government"
+    ],
+    "explanation": "Retaining production datasets after project completion violates both the Data Privacy Act (retention without lawful basis) and Cybercrime statutes (unauthorized data possession)."
+  },
+  {
+    "id": 95,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why is running aggressive automated security scanning tools on a live production system without written scope dangerous?",
+    "answer": "Any disruption or degradation of system availability may constitute illegal system interference",
+    "aliases": [
+      "Any disruption or degradation of system availability may constitute illegal system interference",
+      "May constitute system interference",
+      "Disruption of availability constitutes system interference"
+    ],
+    "choices": [
+      "Any disruption or degradation of system availability may constitute illegal system interference",
+      "Because scanning tools automatically delete all operating system kernel files",
+      "Because production databases automatically encrypt themselves when scanned",
+      "Because cloud providers instantly terminate corporate business charters"
+    ],
+    "explanation": "Heavy scans or test payloads can crash production services; causing downtime or service degradation without written authorization fits the definition of System Interference."
+  },
+  {
+    "id": 96,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "What is the critical professional purpose of an Authorization Document in penetration testing and security assessments?",
+    "answer": "It is the formal document that distinguishes a security professional from a criminal defendant",
+    "aliases": [
+      "It is the formal document that distinguishes a security professional from a criminal defendant",
+      "Distinguishes a professional from a defendant",
+      "Distinguishes professional from defendant"
+    ],
+    "choices": [
+      "It is the formal document that distinguishes a security professional from a criminal defendant",
+      "It serves as an invoice for billing computing consultancy fees",
+      "It guarantees that the software under test has zero security flaws",
+      "It transfers patent rights of discovered exploits to the tester"
+    ],
+    "explanation": "Without a written authorization document signed in advance by an authorized officer, security testing conduct matches the statutory definitions of cybercrime offenses."
+  },
+  {
+    "id": 97,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Which of the following is NOT one of the eight essential elements required in a valid security testing Authorization Document?",
+    "answer": "A guarantee that the tester will discover at least one critical vulnerability",
+    "aliases": [
+      "A guarantee that the tester will discover at least one critical vulnerability",
+      "Guarantee of discovering a vulnerability",
+      "Mandatory vulnerability quota"
+    ],
+    "choices": [
+      "A guarantee that the tester will discover at least one critical vulnerability",
+      "Explicit in-scope target systems and addresses",
+      "Explicitly excluded out-of-scope systems",
+      "Point of contact and emergency stop procedure"
+    ],
+    "explanation": "Discussion 5 outlines 8 required elements: In scope, Out of scope, Methods, Period, Contact and stop, Data handling, Reporting route, and Signature. Vulnerability quotas are never included."
+  },
+  {
+    "id": 98,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "Why must an authorization document explicitly define 'Out of scope' systems?",
+    "answer": "To prevent accidental probing of delicate shared infrastructure, payment gateways, or third-party cloud hosts",
+    "aliases": [
+      "To prevent accidental probing of delicate shared infrastructure, payment gateways, or third-party cloud hosts",
+      "Prevents testing of third-party systems",
+      "Excludes third-party systems"
+    ],
+    "choices": [
+      "To prevent accidental probing of delicate shared infrastructure, payment gateways, or third-party cloud hosts",
+      "To ensure developers can test those systems at home without supervision",
+      "Because out-of-scope systems are legally exempt from all copyright laws",
+      "Because third-party services do not use internet protocol addresses"
+    ],
+    "explanation": "Organizations rely on shared hosting, cloud SaaS, and external payment processors which they do not own; unauthorized scanning of these third-party hosts triggers severe criminal liability."
+  },
+  {
+    "id": 99,
+    "topic": "Module 7: Ordinary Conduct & Authorization Document",
+    "question": "A student classmate says they discovered a flaw in their university's enrollment portal by modifying URL parameters and plans to post it on social media. What must you advise them?",
+    "answer": "Stop immediately, do not post publicly, and report it privately through the school's designated administrative route",
+    "aliases": [
+      "Stop immediately, do not post publicly, and report it privately through the school's designated administrative route",
+      "Stop immediately, do not post, report privately",
+      "Do not post publicly, report through proper route"
+    ],
+    "choices": [
+      "Stop immediately, do not post publicly, and report it privately through the school's designated administrative route",
+      "Encourage them to post immediately to force the IT staff to fix it quickly",
+      "Advise them to dump sample student records online as proof of the vulnerability",
+      "Tell them to sell the exploit to other students before classes begin"
+    ],
+    "explanation": "Posting vulnerability details or exploits publicly exposes the student to criminal cybercrime and data privacy prosecution; responsible disclosure requires reporting privately to authorities."
+  },
+  {
+    "id": 100,
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "What is the penalty enhancement rule under Section 6 of RA 10175 for crimes defined under the Revised Penal Code when committed through information and communications technologies?",
+    "answer": "The penalty imposed is one degree higher than that provided for in the Revised Penal Code",
+    "aliases": [
+      "The penalty imposed is one degree higher than that provided for in the Revised Penal Code",
+      "One degree higher",
+      "One degree higher penalty",
+      "Penalty is one degree higher"
+    ],
+    "choices": [
+      "The penalty imposed is one degree higher than that provided for in the Revised Penal Code",
+      "The penalty is halved if committed by a first-time computer user",
+      "The crime is downgraded to an administrative civil fine",
+      "Imprisonment is replaced with mandatory community IT service"
+    ],
+    "explanation": "Section 6 of RA 10175 provides that all crimes punishable under the Revised Penal Code, if committed by, through, and with the use of ICT, shall be penalized one degree higher."
   }
 ]

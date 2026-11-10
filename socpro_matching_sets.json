@@ -126,5 +126,133 @@
         "explanation": "Automatically mandates the maximum penalty in the prescribed range."
       }
     ]
+  },
+  {
+    "id": "soc-match-5",
+    "title": "Set 5: Forms of Intellectual Property Protection (RA 8293)",
+    "description": "Match each form of intellectual property with what it protects, how it arises, and its statutory duration.",
+    "pairs": [
+      {
+        "left": "Copyright",
+        "right": "Protects expression, not ideas; arises automatically upon creation (Life + 50 years)",
+        "explanation": "Covers source code, documentation, and digital assets automatically upon creation."
+      },
+      {
+        "left": "Patent",
+        "right": "Protects statutory inventions; arises only by formal government grant (20 years from filing)",
+        "explanation": "Covers novel, inventive, and industrially applicable technical processes."
+      },
+      {
+        "left": "Trade Secret",
+        "right": "Protects confidential, valuable business information; arises by maintaining secrecy (Indefinite)",
+        "explanation": "Covers proprietary algorithms and customer data kept strictly confidential."
+      },
+      {
+        "left": "Trademark",
+        "right": "Protects distinctive signs, names, and logos; arises by registration and use (Renewable indefinitely)",
+        "explanation": "Protects commercial brand identity and distinguishes goods or services."
+      },
+      {
+        "left": "Fair Use Doctrine",
+        "right": "Statutory defense weighed against 4 factors where attribution and education are not automatic exemptions",
+        "explanation": "Assessed by purpose, nature, amount used, and potential market effect."
+      }
+    ]
+  },
+  {
+    "id": "soc-match-6",
+    "title": "Set 6: Software Licence Families and Legal Obligations",
+    "description": "Match each software license family with its legal permissions, requirements, and product consequences.",
+    "pairs": [
+      {
+        "left": "Public Domain (CC0 / Unlicense)",
+        "right": "Permits any use without restrictions; imposes no downstream legal obligations",
+        "explanation": "Copyright is completely waived, allowing unrestricted commercial and private use."
+      },
+      {
+        "left": "Permissive (MIT / BSD / Apache)",
+        "right": "Permits commercial use and modification; requires retaining copyright and license notices",
+        "explanation": "Highly suitable for commercial proprietary software with minimal notice obligations."
+      },
+      {
+        "left": "Weak Copyleft (LGPL)",
+        "right": "Permits linking in larger works; requires publishing modifications to the component itself",
+        "explanation": "Proprietary applications may link to the library, but library modifications must be shared."
+      },
+      {
+        "left": "Strong Copyleft (GPL)",
+        "right": "Requires the entire distributed derivative work to be published under the same copyleft terms",
+        "explanation": "Can force proprietary software developers to release their complete source code."
+      },
+      {
+        "left": "Unlicensed Code (No Licence Stated)",
+        "right": "Conveys no permission whatsoever; silence implies zero legal right to copy or use",
+        "explanation": "Code published publicly without an explicit license cannot be lawfully integrated."
+      }
+    ]
+  },
+  {
+    "id": "soc-match-7",
+    "title": "Set 7: Cybercrime Offences and Ordinary Conduct Exposure (RA 10175)",
+    "description": "Match each cybercrime concept or ordinary IT practice with why it carries criminal exposure.",
+    "pairs": [
+      {
+        "left": "Offences against Confidentiality & Availability",
+        "right": "Highest practitioner risk; covers illegal access, interception, and data/system interference",
+        "explanation": "Section 4(a) offenses resemble ordinary penetration testing and IT administration."
+      },
+      {
+        "left": "Retaining access after leaving a role",
+        "right": "Authorization ends when the role ends; continued access constitutes access without right",
+        "explanation": "The failure of IT to revoke an account does not grant ongoing lawful permission."
+      },
+      {
+        "left": "Using a colleague's credentials",
+        "right": "Authority to grant system access rests with the organization, not the account holder",
+        "explanation": "An employee cannot lawfully delegate or transfer organizational access credentials."
+      },
+      {
+        "left": "Editing a URL to view other records (IDOR)",
+        "right": "The absence of a technical barrier is not the presence of lawful permission",
+        "explanation": "Flawed server authorization checks do not authorize accessing other users' data."
+      },
+      {
+        "left": "Scanning a network you do not own",
+        "right": "Reconnaissance and port scanning may itself fall within defined unauthorized conduct",
+        "explanation": "Automated network probing against third-party systems without consent triggers liability."
+      }
+    ]
+  },
+  {
+    "id": "soc-match-8",
+    "title": "Set 8: Security Testing Protocols and Valid Authorization",
+    "description": "Match each security testing standard with its mandatory legal requirement under RA 10175.",
+    "pairs": [
+      {
+        "left": "Timing of Authorization",
+        "right": "Must strictly precede the act; post-discovery consent does not retroactively legitimize access",
+        "explanation": "Consent obtained after finding a flaw does not cure a completed illegal access offense."
+      },
+      {
+        "left": "Authority to Authorize Testing",
+        "right": "Must originate from the data owner or corporate officer, not solely the system administrator",
+        "explanation": "System administrators lack unilateral legal authority to permit security testing."
+      },
+      {
+        "left": "Good Intention Rule",
+        "right": "Probing without permission remains an offence; reporting afterwards is mitigation, not a defence",
+        "explanation": "Helpful intent and vulnerability reporting reduce penalties but do not negate guilt."
+      },
+      {
+        "left": "Out of Scope Specification",
+        "right": "Explicitly excludes third-party SaaS and shared cloud hosting from unauthorized scanning",
+        "explanation": "Clients cannot authorize testing of cloud services they merely use and do not own."
+      },
+      {
+        "left": "Authorization Document",
+        "right": "Written charter defining scope, targets, methods, and contacts that protects testing professionals",
+        "explanation": "This formal pre-testing document distinguishes a security auditor from a criminal defendant."
+      }
+    ]
   }
 ]

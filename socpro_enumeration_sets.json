@@ -340,5 +340,351 @@
       }
     ],
     "explanation": "Three Categories in Sec. 3: Personal Information, Sensitive Personal Information, and Privileged Information."
+  },
+  {
+    "id": "soc-enum-9",
+    "topic": "Module 6: Four Forms of IP Protection (RA 8293)",
+    "question": "List the four (4) distinct forms of intellectual property protection recognized under RA 8293:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Copyright (Protects expression, arises automatically)",
+        "keywords": [
+          "copyright",
+          "kopirayt"
+        ]
+      },
+      {
+        "canonical": "2. Patent (Protects statutory inventions, arises by grant)",
+        "keywords": [
+          "patent",
+          "patente"
+        ]
+      },
+      {
+        "canonical": "3. Trade Secret (Protects confidential business information)",
+        "keywords": [
+          "trade secret",
+          "lihim sa kalakalan",
+          "secret"
+        ]
+      },
+      {
+        "canonical": "4. Trademark (Protects distinctive goods/service marks and logos)",
+        "keywords": [
+          "trademark",
+          "tatak",
+          "trade mark"
+        ]
+      }
+    ],
+    "explanation": "Four IP Protections in RA 8293: (1) Copyright, (2) Patent, (3) Trade Secret, and (4) Trademark."
+  },
+  {
+    "id": "soc-enum-10",
+    "topic": "Module 6: Fair Use Doctrine (RA 8293)",
+    "question": "List the four (4) statutory factors weighed in assessing Fair Use under Philippine intellectual property law:",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Purpose and character of the use (commercial vs. non-profit)",
+        "keywords": [
+          "purpose and character of the use",
+          "purpose and character",
+          "purpose",
+          "character of the use"
+        ]
+      },
+      {
+        "canonical": "2. Nature of the copyrighted work",
+        "keywords": [
+          "nature of the copyrighted work",
+          "nature of the work",
+          "nature of work"
+        ]
+      },
+      {
+        "canonical": "3. Amount and substantiality of the portion used relative to the whole",
+        "keywords": [
+          "amount used relative to the whole",
+          "amount and substantiality",
+          "amount used",
+          "amount"
+        ]
+      },
+      {
+        "canonical": "4. Effect of the use upon the potential market for or value of the work",
+        "keywords": [
+          "effect on the market for the work",
+          "effect on the market",
+          "effect upon the potential market",
+          "market effect"
+        ]
+      }
+    ],
+    "explanation": "Four Fair Use Factors: Purpose/character of use, Nature of work, Amount used relative to the whole, and Market effect."
+  },
+  {
+    "id": "soc-enum-11",
+    "topic": "Module 6: Software Licence Families",
+    "question": "List five (5) major software licence families discussed in Module 6 (Table 6.2):",
+    "required_count": 5,
+    "items": [
+      {
+        "canonical": "1. Public domain dedication (CC0, Unlicense)",
+        "keywords": [
+          "public domain dedication",
+          "public domain",
+          "cc0",
+          "unlicense"
+        ]
+      },
+      {
+        "canonical": "2. Permissive license (MIT, BSD, Apache)",
+        "keywords": [
+          "permissive",
+          "permissive license",
+          "mit",
+          "bsd",
+          "apache"
+        ]
+      },
+      {
+        "canonical": "3. Weak copyleft (LGPL)",
+        "keywords": [
+          "weak copyleft",
+          "lgpl"
+        ]
+      },
+      {
+        "canonical": "4. Strong copyleft (GPL)",
+        "keywords": [
+          "strong copyleft",
+          "gpl"
+        ]
+      },
+      {
+        "canonical": "5. Proprietary or commercial (Paid, seat/use limits)",
+        "keywords": [
+          "proprietary",
+          "commercial",
+          "proprietary or commercial",
+          "no licence stated",
+          "unlicensed"
+        ]
+      }
+    ],
+    "explanation": "Licence Families: Public domain dedication, Permissive (MIT/BSD), Weak copyleft (LGPL), Strong copyleft (GPL), Proprietary/commercial, and No licence stated."
+  },
+  {
+    "id": "soc-enum-12",
+    "topic": "Module 6: Open Source Reciprocity (Raymond, 1999)",
+    "question": "List the three (3) professional obligations when participating in open source software according to Raymond (1999):",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Have the right to contribute (employment contract permits sharing)",
+        "keywords": [
+          "right to contribute",
+          "have the right to contribute"
+        ]
+      },
+      {
+        "canonical": "2. Honor incorporated licences (retain notices, provide source if required)",
+        "keywords": [
+          "honor incorporated licences",
+          "honor licences",
+          "honor licenses"
+        ]
+      },
+      {
+        "canonical": "3. Do not free-ride (do not exploit the commons without respecting conditions)",
+        "keywords": [
+          "do not free-ride",
+          "do not freeride",
+          "no free-riding",
+          "free ride"
+        ]
+      }
+    ],
+    "explanation": "Three Open Source Obligations (Raymond, 1999): Have the right to contribute, Honor incorporated licences, and Do not free-ride."
+  },
+  {
+    "id": "soc-enum-13",
+    "topic": "Module 7: Offences Under RA 10175",
+    "question": "List the three (3) principal groups of cybercrime offences defined under RA 10175:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. Offences against confidentiality, integrity, and availability (Sec. 4a)",
+        "keywords": [
+          "confidentiality, integrity, and availability",
+          "cia",
+          "confidentiality integrity availability",
+          "sec 4a"
+        ]
+      },
+      {
+        "canonical": "2. Computer-related offences (Forgery, Fraud, Identity Theft - Sec. 4b)",
+        "keywords": [
+          "computer-related offences",
+          "computer related offences",
+          "computer-related",
+          "forgery, fraud, identity theft",
+          "sec 4b"
+        ]
+      },
+      {
+        "canonical": "3. Content-related offences (Cybersex, Child Abuse Material, Cyberlibel - Sec. 4c)",
+        "keywords": [
+          "content-related offences",
+          "content related offences",
+          "content-related",
+          "cybersex, cyberlibel",
+          "sec 4c"
+        ]
+      }
+    ],
+    "explanation": "Three Offence Groups: (1) Offences against CIA (Sec. 4a), (2) Computer-related offences (Sec. 4b), and (3) Content-related offences (Sec. 4c)."
+  },
+  {
+    "id": "soc-enum-14",
+    "topic": "Module 7: What Makes Authorization Valid",
+    "question": "List the three (3) fundamental legal criteria that make authorization valid for system access and testing:",
+    "required_count": 3,
+    "items": [
+      {
+        "canonical": "1. It comes before the act (must precede testing, not retroactive)",
+        "keywords": [
+          "comes before the act",
+          "before the act",
+          "precedes the act",
+          "prior to the act",
+          "before"
+        ]
+      },
+      {
+        "canonical": "2. It comes from someone with legal authority (data owner or corporate officer)",
+        "keywords": [
+          "someone with authority",
+          "person with authority",
+          "legal authority",
+          "data owner",
+          "corporate officer"
+        ]
+      },
+      {
+        "canonical": "3. It is specific (clearly defines scope, targets, methods, and period)",
+        "keywords": [
+          "specific",
+          "it is specific",
+          "scope, targets, methods",
+          "clearly defined"
+        ]
+      }
+    ],
+    "explanation": "Three Criteria of Valid Authorization: (1) Precedes the act, (2) Granted by an authorized officer, and (3) Specific as to scope, targets, methods, and duration."
+  },
+  {
+    "id": "soc-enum-15",
+    "topic": "Module 7: Ordinary Conduct & Legal Exposure",
+    "question": "List four (4) ordinary technical conducts that carry real criminal exposure under RA 10175 (Table 7.2):",
+    "required_count": 4,
+    "items": [
+      {
+        "canonical": "1. Using a colleague's credentials (even with their consent)",
+        "keywords": [
+          "using a colleague's credentials",
+          "colleague's credentials",
+          "colleague credentials",
+          "shared credentials"
+        ]
+      },
+      {
+        "canonical": "2. Retaining access after leaving an employment role",
+        "keywords": [
+          "retaining access after leaving a role",
+          "retaining access",
+          "access after leaving role"
+        ]
+      },
+      {
+        "canonical": "3. Editing a URL to view another user's record (IDOR)",
+        "keywords": [
+          "editing a url to view another user's record",
+          "editing a url",
+          "url editing",
+          "idor"
+        ]
+      },
+      {
+        "canonical": "4. Scanning a network you do not own / Testing live production without written scope",
+        "keywords": [
+          "scanning a network you do not own",
+          "scanning a network",
+          "network scan",
+          "testing live production",
+          "downloading a dataset"
+        ]
+      }
+    ],
+    "explanation": "Table 7.2 Exposures: Shared credentials, Retaining access after departure, URL parameter tampering (IDOR), Port scanning unowned networks, Retaining datasets, and Production testing without scope."
+  },
+  {
+    "id": "soc-enum-16",
+    "topic": "Module 7: The Authorization Document",
+    "question": "List six (6) essential elements that must be explicitly defined in a pre-testing Authorization Document:",
+    "required_count": 6,
+    "items": [
+      {
+        "canonical": "1. In scope (Named target systems and addresses)",
+        "keywords": [
+          "in scope",
+          "scope",
+          "target systems"
+        ]
+      },
+      {
+        "canonical": "2. Out of scope (Explicitly excluded systems and third-party services)",
+        "keywords": [
+          "out of scope",
+          "excluded systems"
+        ]
+      },
+      {
+        "canonical": "3. Methods (Permitted and prohibited testing techniques)",
+        "keywords": [
+          "methods",
+          "testing methods",
+          "permitted methods"
+        ]
+      },
+      {
+        "canonical": "4. Period (Exact testing dates and hours)",
+        "keywords": [
+          "period",
+          "dates and hours",
+          "testing schedule"
+        ]
+      },
+      {
+        "canonical": "5. Contact and stop procedure (Emergency stop protocol)",
+        "keywords": [
+          "contact and stop",
+          "emergency stop",
+          "stop procedure"
+        ]
+      },
+      {
+        "canonical": "6. Signature of an authorized officer / Data handling / Reporting route",
+        "keywords": [
+          "signature",
+          "authorized signature",
+          "data handling",
+          "reporting route"
+        ]
+      }
+    ],
+    "explanation": "Eight Authorization Elements: In scope, Out of scope, Methods, Period, Contact and stop, Data handling, Reporting route, and Authorized signature."
   }
 ]
